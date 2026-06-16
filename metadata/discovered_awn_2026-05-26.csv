@@ -1,0 +1,921 @@
+station_id,mac_address,name,latitude,longitude,elevation_ft,indoor,dashboard_url,GEOID,NAME
+6952c11728b4321c122ce961,F8:B3:B7:85:B6:82,HTB Weather Station #1,33.3586,-84.5353,818.1,False,https://ambientweather.net/dashboard/a01db1a92b16986f69be4cdea8919204,13113,Fayette
+685021c277ad11bd30eaeb31,2C:C2:53:B1:45:C6,Foxy25,33.38,-84.5546,814.7,False,https://ambientweather.net/dashboard/04a5b60c6691af968fbc4dda08d037d2,13113,Fayette
+6466b3daa954ed961d802ed9,E8:D8:84:9A:DC:29,Jb’s,33.310849,-84.511967,789.0,False,https://ambientweather.net/dashboard/00fdad6bae579c2a12914736009ccd0c,13113,Fayette
+652efec5f0e773d3cdf3c942,E8:DB:84:9A:DC:29,Station,33.31139059796539,-84.51226844631319,791.0,False,https://ambientweather.net/dashboard/748a982e5d9a25f56a61d9869b902044,13113,Fayette
+647cd938a3e1efb0a22c02a9,F0:08:D1:07:0D:C2,South Garden,33.3748188,-84.4885345,841.3,False,https://ambientweather.net/dashboard/2608fed5459c13110f369078021d4b7b,13113,Fayette
+695be6c228c495ce0dd20e11,F8:B3:B7:81:B4:B8,Eagle,33.3791,-84.5126,816.5,False,https://ambientweather.net/dashboard/a9cea7ac6d6f29be19a472bb7594acf4,13113,Fayette
+61eb865d76cd010001ad464f,98:CD:AC:22:7C:50,Mansulich,33.3445875,-84.45143770000001,829.9,False,https://ambientweather.net/dashboard/bbb9dce842c9f6a7860e9f63d789b7e9,13113,Fayette
+612c3f96ec18320001d30c59,E8:DB:84:E1:CA:DD,Hampton Rd,33.358764,-84.40214999999999,791.8,False,https://ambientweather.net/dashboard/7dddd7864c81ec975dffe846ac4336c0,13113,Fayette
+6977ffd022d1baece369f8dd,F8:B3:B7:82:2B:9E,Myweather,33.366,-84.4381,892.9,False,https://ambientweather.net/dashboard/8108de8146d084de84f444861bf3ff44,13113,Fayette
+685b395983cd872905c0f2a4,E8:68:E7:87:34:05,wm-station01,33.4028,-84.6084,839.4,False,https://ambientweather.net/dashboard/8da1e5d02430dfc395cfe33a087d7e8a,13113,Fayette
+64c9623ce4902cb3047c1dcb,48:3F:DA:89:B4:46,My Weather Station,33.43228589431365,-84.61710396131816,868.7,False,https://ambientweather.net/dashboard/a0922ebdb8daa74394171f151d83cabc,13113,Fayette
+5ebeda13f40693000178cef1,24:62:AB:16:E5:78,Plantain Terrace,33.3921273,-84.6023227,889.2,False,https://ambientweather.net/dashboard/25af67066276b8def2734e0dacaf2ee2,13113,Fayette
+5f7b08e4f1e7c30001e9cf2a,00:0E:C6:30:14:E8,Flat creek,33.4124054,-84.5761691,848.2,False,https://ambientweather.net/dashboard/e017fa91cb91950e3ee0b266469a8b1a,13113,Fayette
+642c1d5071ca75000100b0c0,E8:5F:02:88:4D:B5,My Weather Station,33.41480771461464,-84.57576415233278,821.6,False,https://ambientweather.net/dashboard/ce25c148b26cab78f44343cffa89979a,13113,Fayette
+64d11adec27266f8973a80c9,34:00:8A:E4:72:0F,My Weather Station,33.4331919,-84.5884138,917.2,False,https://ambientweather.net/dashboard/31d65f9e0c0d0af1c6aa8c74cc385f30,13113,Fayette
+5de40dd5c77e425307cddafb,A4:CF:12:A0:2F:96,Jimbo’s Weather Station,33.4123386,-84.59495959999998,860.8,False,https://ambientweather.net/dashboard/0671efdb93321cc6790c13d6dcfbf5e7,13113,Fayette
+69517b6f0e1054367dd046f7,F8:B3:B7:8E:D2:67,Stormy Boy,33.4207,-84.5998,867.4,False,https://ambientweather.net/dashboard/da2713269607048ebf5a8cf925bfcb2b,13113,Fayette
+60d7b0a1daaf030001884df4,40:F5:20:3A:35:79,LabCastle,33.4185123,-84.5988254,877.7,False,https://ambientweather.net/dashboard/7cc7ed725b0fe24bfef5a7ed82e696a4,13113,Fayette
+69cff2c414d1ec803d5e0954,8C:4F:00:50:13:B2,Peach,33.3891,-84.5984,900.1,False,https://ambientweather.net/dashboard/429fb1ddd10c6b049d4f741a0e1259b1,13113,Fayette
+605911ff29961a00016ec77a,40:F5:20:39:B0:EB,wi4r,33.3962908,-84.5855498,854.3,False,https://ambientweather.net/dashboard/8c43cda5baccbdd252e58a38195a54c6,13113,Fayette
+5b51da37c5936000043c84a8,B4:E6:2D:07:38:69,LAKESIDE1,33.3984814,-84.5696724,,False,https://ambientweather.net/dashboard/254787e7983a364dc54919fdef23296e,13113,Fayette
+684c950ca995cedca7e6fa20,40:91:51:59:C9:12,PTC HOME,33.3997,-84.5731,,False,https://ambientweather.net/dashboard/b4b73c977758d132569f83cfd0fb0936,13113,Fayette
+5faff93e1878d700015f2b65,F0:08:D1:06:FB:F1,208Everhill,33.3858423,-84.5548755,817.2,False,https://ambientweather.net/dashboard/cd653e602af7fedc383098fabc79194c,13113,Fayette
+69d067a78a9ead685d2e0336,8C:4F:00:4F:44:E8,My Weather Station,33.3877,-84.5492,884.7,False,https://ambientweather.net/dashboard/27fff11e10486fea1b8d751a5d19fde1,13113,Fayette
+5fe65e9bbc91b30001824246,48:3F:DA:56:3B:70,DK,33.3877464,-84.4941772,811.7,False,https://ambientweather.net/dashboard/b628b88859a6279927cc497e090d7aab,13113,Fayette
+610f3f77c9c6470001b01f60,B4:E6:2D:72:EB:9F,My Weather Station,33.3844605,-84.5110357,829.2,False,https://ambientweather.net/dashboard/c52331abe08a8285263a56b0bd73e37e,13113,Fayette
+5fe618402f90f20001d1b78c,F0:08:D1:06:FD:F7,Matt’s,33.3913231,-84.47267699999999,866.9,False,https://ambientweather.net/dashboard/05fb38b8be517955546e089d896b8888,13113,Fayette
+6255cd443dc375000111942f,C4:5B:BE:5E:0D:84,Roxboro Weather,33.4172671,-84.4447732,924.6,False,https://ambientweather.net/dashboard/7fcad81ea222a4397d94ebb1703a1ca2,13113,Fayette
+5ea9ef4bd43be3002eebbbef,C8:2B:96:02:97:B8,Jason weather,33.426806,-84.44188899999999,922.0,False,https://ambientweather.net/dashboard/680851dca4fa416720bcf5406169acf2,13113,Fayette
+61cb7ba4e9a8ac00017add94,C4:5B:BE:6C:72:83,Thomas Wx Sta,33.4486296,-84.4550443,935.6,False,https://ambientweather.net/dashboard/092805e18902fdc99d923ec89bf110d5,13113,Fayette
+5d15337a57f7863fc4265751,84:0D:8E:A1:E9:EC,Doe Hollow,33.4486296,-84.4550443,935.6,False,https://ambientweather.net/dashboard/bd081969cc3b39b2cfb19b106b6424f2,13113,Fayette
+61bc492c9c3b3e0001be77e6,C4:5B:BE:6D:A5:F0,Vortex100 Weather,33.4322397,-84.4524835,904.2,False,https://ambientweather.net/dashboard/1a5f13c67c21cc1fabc45bbb1c806167,13113,Fayette
+5f5006044724360001d576be,FC:F5:C4:98:6F:F2,My Weather Station,33.4155278,-84.4696683,848.1,False,https://ambientweather.net/dashboard/f3995e8f279f8375ebaaf7196b62e035,13113,Fayette
+5ed18a2277c3c600010e2ac2,F4:CF:A2:79:EE:63,RonJ,33.41416361258716,-84.47352165902566,882.6,False,https://ambientweather.net/dashboard/0f701d532a02884398147b6e68b13b11,13113,Fayette
+65ce9f10133e392302364d36,48:3F:DA:88:8B:39,Mike’s Station,33.407535274406975,-84.49727864155149,818.2,False,https://ambientweather.net/dashboard/0b2df76cec35ea9989f36d0b7fb47a1f,13113,Fayette
+65b0511c7740438af1cf90a4,48:E7:29:54:D6:F3,The Ridge,33.432758,-84.49702289999999,837.5,False,https://ambientweather.net/dashboard/87b5974b359b489f38b1ec4a270ca756,13113,Fayette
+675659fe83501482b5ed391c,C8:C9:A3:27:A5:AA,Jason,33.4272,-84.4388,898.3,False,https://ambientweather.net/dashboard/ffad7fc3bcdce66235f2c3da231eba12,13113,Fayette
+6965b8964db1ecaf406250d4,E8:DB:84:E4:08:97,Hilo Weather,33.413,-84.4209,901.9,False,https://ambientweather.net/dashboard/392371c310acedc7bdaa94e5de87bf92,13113,Fayette
+67574f95d55b49645fd2515d,48:E7:29:7C:43:11,Clinepooldeck,33.4131,-84.4381,958.3,False,https://ambientweather.net/dashboard/4a3b2086d732771c3b256be2923bad12,13113,Fayette
+6670d4fc93386f55866e586e,C8:C9:A3:14:D4:2B,ROSSES PT,33.4645512,-84.6260659,872.9,False,https://ambientweather.net/dashboard/521ebce1163d3a7a47ab57c055ff2804,13113,Fayette
+65c81c441228b5b470ea85f5,C8:C9:A3:0E:D7:E4,Tyrone Weather Observatory,33.4793565,-84.5681185,935.4,False,https://ambientweather.net/dashboard/094ce15b40d921c3a2d8b50246008e98,13113,Fayette
+60aafdba15ca9d0001d15627,D8:F1:5B:15:81:1B,Brandy Farms,33.4693885,-84.5470706,901.4,False,https://ambientweather.net/dashboard/846059fdb3efabd33f37c6e44f014334,13113,Fayette
+606f5a4a1bf95d0001205689,40:F5:20:3A:46:3F,Osprey,33.4949124,-84.475813,928.6,False,https://ambientweather.net/dashboard/bb5e41e0e7b52184dafa9b14c9389e12,13113,Fayette
+66d6f192655402ef87fc0dfe,48:E7:29:69:30:A3,US Soccer Weather Station,33.5021885,-84.515626,914.8,False,https://ambientweather.net/dashboard/b00a449491360d21f1c1eb1094c70572,13113,Fayette
+69a5e48daafb27c80b39f637,8C:4F:00:4F:46:E9,Weather Station,33.481,-84.481,867.0,False,https://ambientweather.net/dashboard/3a9e4b89aeb05d8d3b45bebbb35f0a8a,13113,Fayette
+5b267ba3650a4800046336c4,DC:4F:22:20:51:44,Fort Husack,33.4898,-84.4613,877.5,False,https://ambientweather.net/dashboard/4da201f015c1127f73826641e120438f,13113,Fayette
+59ba7b087bf004000d0701fb,A0:20:A6:0B:D4:DD,KGAHUNT12,33.478414148192776,-84.43295955541817,874.9,False,https://ambientweather.net/dashboard/97beec9b6c7f5ab479da48e83c53298b,13113,Fayette
+60eca27431211700013fe61c,E8:DB:84:E6:4A:E7,My Weather Station,33.36821383992139,-84.20563773412135,896.6,False,https://ambientweather.net/dashboard/40e18bce25478b2ee0a52928dc783376,13151,Henry
+62ed63d0c7d7180001477adb,C4:5B:BE:6C:7E:11,Weather Station White,33.37607029999999,-84.2100729,871.2,False,https://ambientweather.net/dashboard/c5f4950d038138ba1df472c1bf4bfb31,13151,Henry
+6109f2bf12d7f900014f8641,E8:DB:84:E6:24:BA,,33.363465648224704,-84.16780884826717,836.0,False,https://ambientweather.net/dashboard/e642448e3a5c88e732685c652a317208,13151,Henry
+64c82240dc4c69c7350950e6,24:D7:EB:CF:2A:C0,DC's Weather Stati,33.3589451,-84.1563327,811.8,False,https://ambientweather.net/dashboard/7b686ee51b9ecce4f30e8a022ef57974,13151,Henry
+6081ce499cf6e50001b5be9e,50:02:91:E5:7A:19,Pond Temp,33.3739142,-84.1904017,847.6,False,https://ambientweather.net/dashboard/d38b5afab1b349c6815cad2c5562dd66,13151,Henry
+68d538de9f2085f01afbde21,4C:EB:D6:20:27:B3,Burg Rd WX,33.3438,-84.0448,746.0,False,https://ambientweather.net/dashboard/052b0da49144546999159e0291c89f42,13151,Henry
+5cc4e64e7bf09142856962fb,80:7D:3A:7C:44:4B,Nice Hat,33.3870578,-84.2829784,884.5,False,https://ambientweather.net/dashboard/3e00c73a19fab4477282b092bd36ba14,13151,Henry
+64ec09c6764cd1bbff7ec6be,84:F3:EB:9D:35:10,Heather Weather,33.4180351,-84.2585398,949.1,False,https://ambientweather.net/dashboard/526269eb461ee1a4af682242e8bd24ba,13151,Henry
+5cabeee516f155540efcbdc2,80:7D:3A:7C:4E:62,My Weather Station,33.42615584503582,-84.21913640104981,908.4,False,https://ambientweather.net/dashboard/280b9a613d7160cd02f8582b4ff3a9d6,13151,Henry
+64933fcf0a4e98364f829308,C4:5B:BE:6E:58:4E,My weather station ,33.4127649,-84.2070875,916.1,False,https://ambientweather.net/dashboard/fee5f4716f026b65b12a4ed5461a22bf,13151,Henry
+670fd59fd908bb09494b686f,E8:DB:84:F2:E0:31,Larry ,33.4348,-84.1435,861.3,False,https://ambientweather.net/dashboard/21edfbfca7df108ce9f7caf793044ece,13151,Henry
+68b4a2c10772d8a6f75cdec2,C4:D8:D3:B8:88:75,W station ,33.4051,-84.0522,713.9,False,https://ambientweather.net/dashboard/ffb37e2c4f299e18fb884fd25b759c78,13151,Henry
+69a3827ad8d27c7c2d622cde,9C:13:9E:6E:13:C4,WhistlePig WX,33.4391,-84.0858,751.2,False,https://ambientweather.net/dashboard/d1235367c8c16dd82fd57d21fb0d1f00,13151,Henry
+5db657cba51b68034f653c3a,84:0D:8E:B9:D1:0A,Budrow ,33.4484456,-83.98585530000003,636.9,False,https://ambientweather.net/dashboard/944e01978958b3200b4d62929b5d6fba,13151,Henry
+63fc4d690c748c00017d207d,C4:5B:BE:5D:14:D8,US Navy,33.44215,-83.95505589999999,618.5,False,https://ambientweather.net/dashboard/b45d622cabed3b013e4e1014b6d1dee1,13151,Henry
+5e8fa2b0b431d964c6c6a7f8,80:7D:3A:7C:37:E4,Lake Jodeco GA,33.49875770000001,-84.28280989999999,851.0,False,https://ambientweather.net/dashboard/01b5e42b720226bca3027bca9fcd2ae7,13151,Henry
+6467fc025f4a85fc87df77f1,30:83:98:A5:53:9C,My Weather Station,33.4987577,-84.28280989999999,851.0,False,https://ambientweather.net/dashboard/6808fc7dd12216a01c1d8ccc832bbe0c,13151,Henry
+6a054ae5b9c78390f6be117d,F8:B3:B7:86:67:13,vanilla,33.5222,-84.1286,784.5,False,https://ambientweather.net/dashboard/280ab2c375d3a917556d29520832f25a,13151,Henry
+683245f41d171f2a9720376f,F8:B3:B7:86:66:8C,Turner Cir,33.4883,-84.1422,822.0,False,https://ambientweather.net/dashboard/b9e47858e944439075842a9847916f09,13151,Henry
+63f3b9817002f5168cfd1842,00:90:C2:F2:05:7C,ronnie30253,33.487625,-84.149659,2767.9,False,https://ambientweather.net/dashboard/97fa167e38123a83c790cf7ca4df9e5e,13151,Henry
+5f9f72770ec470000191b5aa,48:3F:DA:54:A3:6F,MyWeatherStation,33.4850017,-84.1672124,855.4,False,https://ambientweather.net/dashboard/e2c22955d15ac98a65430e87bae63082,13151,Henry
+61de4fc95bdbe5000189266f,98:CD:AC:22:87:EC,WATSWEATHER,33.4771874,-84.1870915,828.0,False,https://ambientweather.net/dashboard/636bf2cfed09c53e17562413d4c324f3,13151,Henry
+5c27ddcec4eac477f09b758e,84:F3:EB:25:15:BD,Space Station 5,33.4672838,-84.0750027,778.1,False,https://ambientweather.net/dashboard/8512a1a83640daef1ae0d535f6e9142a,13151,Henry
+5e24ba98768b675718b14b9f,2C:3A:E8:26:1B:35,Riverbrook Weather Station,33.525245144004124,-84.0997463329849,707.9,False,https://ambientweather.net/dashboard/64776e3c2b8ad2320863b7728e08d39d,13151,Henry
+66ce2443a7f77e99db487c78,AC:EB:D6:20:57:F3,Kellytown - Cotton Creek,33.5298472,-84.0951446,,False,https://ambientweather.net/dashboard/57c62fd8674e40e59e1f1cc6a55c4244,13151,Henry
+6334ff0235a4330001298626,BC:DD:C2:AF:8A:EE,My Weather Station,33.5277574,-84.11351619999999,755.9,False,https://ambientweather.net/dashboard/232475f0c2310dabf71fd81ec9bcf12a,13151,Henry
+5fcd40b460a142000100b919,D8:F1:5B:15:79:BA,My Weather Station,33.5297771,-84.1165681,702.1,False,https://ambientweather.net/dashboard/a39179caab8eb9a02cbd935a4403b5fa,13151,Henry
+5bba6e0c5c7c127734aeb999,84:F3:EB:20:D9:85,Sars Weather STN,33.4689981,-84.0324794,691.6,False,https://ambientweather.net/dashboard/f2bd507f2d61819d545740c6073421bb,13151,Henry
+5d9a28aee38b7251d502d06c,3C:71:BF:3E:A4:6D,Home,33.5666611,-84.17766879999999,820.7,False,https://ambientweather.net/dashboard/c1ec077338b2af0586f1d54341e47e01,13151,Henry
+61328d41b16cdb00018aa2b8,F4:CF:A2:7A:F8:42,atlstormchasers,33.5485903,-84.1959895,719.4,False,https://ambientweather.net/dashboard/46bd4f8c931f0e0887a9b913aaf9de87,13151,Henry
+5f1e1dc039f9010001ac6dd1,FC:F5:C4:98:56:52,My Weather Station,33.5471926,-84.10873169999999,806.5,False,https://ambientweather.net/dashboard/42f3cdf2aa163a6dfeddbc163f743aef,13151,Henry
+61f2e985a8925a0001f223a8,48:3F:DA:88:5A:C9,Brent’s Weather,33.4341678,-84.39331849999999,820.4,False,https://ambientweather.net/dashboard/7c9ed65416f14ddd5d91e3a2169b76f9,13063,Clayton
+64246580508e1200018d9dc6,BC:FF:4D:10:E1:05,The house,33.4223722,-84.3960688,850.5,False,https://ambientweather.net/dashboard/922ff7dece79f0c298373ac376f93612,13063,Clayton
+67b7226f5769624a7d6ba114,30:11:16:33:95:46,Lovejoy High School Modernization and Addition,33.4447,-84.338,911.5,False,https://ambientweather.net/dashboard/f036e7d0ee061dbd61b090f1e4a62b9e,13063,Clayton
+5ee934d380d8e700014dd1a3,F4:CF:A2:7A:F6:ED,Hurricane creek,33.4555755,-84.3474883,833.8,False,https://ambientweather.net/dashboard/ad33d1b257aa1ad99023ff42f3c6f362,13063,Clayton
+6962739e1efbc4cd3ebda38c,10:20:BA:C0:53:A4,Ice Station Mara,33.5165,-84.3911,858.9,False,https://ambientweather.net/dashboard/ddb9f3ec7380d28c82bcc12c16852c47,13063,Clayton
+62c72a42cff109000136cb92,30:37:67:59:24:98,Aerotropolis East Logistic Center,33.6461,-84.379,864.0,False,https://ambientweather.net/dashboard/f54a6dffae1631c9787368ec7471b1cd,13063,Clayton
+67ea7e61945a0a1b693d0a90,D4:8C:49:30:35:10,Brasfield & Gorrie - Grad F,33.6096,-84.6095,,False,https://ambientweather.net/dashboard/712907d8746936e353e01124191bc5e6,13121,Fulton
+65a5628f5c489b0f2e2c4bb7,C8:C9:A3:0F:D0:A4,My weather station ,33.5500641,-84.52306229999999,887.6,False,https://ambientweather.net/dashboard/4d0a6e540f0e3e8f212569c330bc80e8,13121,Fulton
+6070815df5c0a90001d901d9,40:F5:20:3A:45:21,MGE9,33.5792709,-84.5088753,919.6,False,https://ambientweather.net/dashboard/1b88f19af27595c32d395a8b13279c73,13121,Fulton
+66aeeacf53785f9992533f4b,84:F3:EB:25:22:1B,Office,33.6429056,-84.5512704,817.1,False,https://ambientweather.net/dashboard/e926491ea345b65355d63b527cf54905,13121,Fulton
+617094ce436b6a000163d989,E8:DB:84:E3:D1:AE,Mr.Hancard's Iphone,33.6477086,-84.5560423,899.2,False,https://ambientweather.net/dashboard/4d973651edbf7e1e6a099c73d8056e33,13121,Fulton
+60dceaf1fe3ed400011f6737,E8:DB:84:E6:04:86,KGAEASTP2,33.6626515,-84.4844281,942.4,False,https://ambientweather.net/dashboard/0c1172103f6ddfa026c0e049631f290a,13121,Fulton
+68ddb5748c4e2b19cd10fa2e,C4:D8:D5:3C:E4:A9,Egan Park,33.664,-84.433,1036.1,False,https://ambientweather.net/dashboard/b17210230a0e8dce702d99968dd3b9ec,13121,Fulton
+65e76c96ca078c1b7d49592a,54:32:04:43:86:F4,Auto-Chlor station,33.669697,-84.39877299999999,903.0,False,https://ambientweather.net/dashboard/d9adc08796f68063bccf462c1aaa529f,13121,Fulton
+6a0c6f71960af709472df244,30:37:67:61:66:28,Empire Weatherman,33.6598,-84.393,944.3,False,https://ambientweather.net/dashboard/50036b46cecea0d1faccf3eb7ff45f76,13121,Fulton
+66788e271a360419e0139342,48:E7:29:69:6A:FD,Base,33.7338089,-84.5345653,797.5,False,https://ambientweather.net/dashboard/25988193c203eab14620a2d10d48dc43,13121,Fulton
+5ddaf3dbdac96a52773d0d74,B4:E6:2D:72:EC:45,GU Ranch BS1,33.73017794919305,-84.51968298515379,972.5,False,https://ambientweather.net/dashboard/bf6445bf4df910c859c722604bd57d7a,13121,Fulton
+69fa7f68ae9dc41cd27754ef,10:20:BA:C5:05:58,QuinnCast,33.736,-84.4848,886.8,False,https://ambientweather.net/dashboard/bf8358ee336d099b3e9cd47535c91842,13121,Fulton
+67d2fa755c69beebf96843d8,EC:64:C9:EF:E9:7A,@ Promise Center,33.7523,-84.4619,1012.3,False,https://ambientweather.net/dashboard/6fdf8bd31f3119eee40f2bd5c7b9f9c0,13121,Fulton
+638a4a5d0d7ea20001c2697f,98:CD:AC:22:EE:E2,Westview,33.7387785,-84.440282,966.5,False,https://ambientweather.net/dashboard/011cef662d980e532a524535ff34d6aa,13121,Fulton
+69aee53cfad861d923e5b982,F8:B3:B7:8E:8C:8D,Roaming Saffer,33.708,-84.4582,966.4,False,https://ambientweather.net/dashboard/8ca7aa745c39fff5ce111a9a764c1727,13121,Fulton
+66b7f66268a76c0cc3c35b99,08:F9:E0:53:A4:36,BurnsDrive,33.7120043,-84.421437,1042.3,False,https://ambientweather.net/dashboard/b6b57e8abcc15e8bee51cdfd261e1163,13121,Fulton
+64f1ba179634147557199a86,50:02:91:47:39:85,DPR - MSM,33.74214,-84.41153,1059.6,False,https://ambientweather.net/dashboard/57ecf846dc13f35840930a25d41ea812,13121,Fulton
+69c31f50c4ae0a2529998045,48:E7:29:54:D8:26,My Weather Station,33.7501,-84.3885,,False,https://ambientweather.net/dashboard/64dfc07e77b1c460e354c56ed37aa80f,13121,Fulton
+69656361cb20a2effa626806,F8:B3:B7:83:A9:62,Kari’s Palace,33.7501,-84.3885,1043.1,False,https://ambientweather.net/dashboard/c9e10ae741bffa93094949b87e990b6a,13121,Fulton
+6580549bf0947efa47fadbbe,C8:C9:A3:10:33:E8,BGWeather ,33.748752,-84.38768449999999,1044.8,False,https://ambientweather.net/dashboard/1f0bbfd5732965a8de065d24f650e6ed,13121,Fulton
+6669bda2f02330cf1d05408b,DC:8E:95:A8:A1:82,kESTREL DROP 3,33.748752,-84.38768449999999,1044.8,False,https://ambientweather.net/dashboard/3d50b1916973935a726186dc37e086a9,13121,Fulton
+6181c7b0a5d7a30001edd07c,80:7D:3A:6F:30:A9,Stone Mountain Station,33.7550644,-84.3877529,1043.3,False,https://ambientweather.net/dashboard/4daaca6ab99c19ae9af19732c40d7644,13121,Fulton
+6938a344f975b38563b6856f,34:B4:72:ED:0C:44,CT Weather Station ,33.7441,-84.3779,999.1,False,https://ambientweather.net/dashboard/4004bdf92d7e92af369c380668ea51ae,13121,Fulton
+5ead941d36effc0001c0ed57,98:F4:AB:F8:90:29,SW Grant Park,33.7316698,-84.3759516,959.0,False,https://ambientweather.net/dashboard/783ce1d35bf3dab3b5f193c195ed84a9,13121,Fulton
+69b2f11721b481596e8543fb,F8:B3:B7:8D:7D:E7,Grant Park,33.7349,-84.3778,1019.7,False,https://ambientweather.net/dashboard/d58fab160a23d3a571c19ef0e2c5ea21,13121,Fulton
+595028418d6e2a00b51de942,00:0E:C6:00:24:03,My Weather Station,33.738879418195886,-84.36503495902645,1025.7,False,https://ambientweather.net/dashboard/271a0f537015aaa6e9e15ad97c4d3b1e,13121,Fulton
+635c2dde396dca000121a5c6,98:CD:AC:22:99:40,GrPa Weather,33.7426798,-84.3730771,1016.8,False,https://ambientweather.net/dashboard/8a63291b863677d80ba35b3d2d9c3080,13121,Fulton
+68cf27cc25f9aaff70ba3a48,F8:B3:B7:85:E6:6D,Reynoldstown,33.7525,-84.3608,1040.9,False,https://ambientweather.net/dashboard/23b6935afa0023157c0fb8e9b7ba3401,13121,Fulton
+69f8edfe39ebe1a269363d6c,F8:B3:B7:8D:52:62,Mike's weather ,33.7518,-84.3624,1023.8,False,https://ambientweather.net/dashboard/68d149103c71d50f862e02b02c0eebe6,13121,Fulton
+5f4d5d626184d20001b1f379,08:D8:33:A5:89:2D,Keep Cabbagetown Weather,33.74940022280994,-84.362369836116,992.5,False,https://ambientweather.net/dashboard/f4a091e633d1a8179871d30f5ad1cffa,13121,Fulton
+601cdcd1ee9a7e00019ab7ba,48:3F:DA:89:1B:B1,NA,33.7639588,-84.3719735,1024.0,False,https://ambientweather.net/dashboard/bc527d943bc932d0dff23e63f4ee71c6,13121,Fulton
+6953010a72f40afeb3183b44,F8:B3:B7:83:36:4E,Old Fourth Weather,33.7667,-84.3704,1006.5,False,https://ambientweather.net/dashboard/749c57bd0f1fe21089e94bceac0c2745,13121,Fulton
+63cda6bcd3ff7c000130369f,7C:87:CE:A7:21:94,My Weather Station,33.77867381919567,-84.3715714025313,864.8,False,https://ambientweather.net/dashboard/37c10a5da107f07bf44c557f3a420fc5,13121,Fulton
+5fdf7eba98e46a000199db67,FC:F5:C4:98:55:3B,Old Choir Boy,33.7717416,-84.36252259999999,942.8,False,https://ambientweather.net/dashboard/f6c215c5ce90b3e59a05e55fb6676a94,13121,Fulton
+6222260f6cbfb400017c5a8b,C4:5B:BE:5C:FC:FD,Top of the Knox,33.7789262,-84.3807867,989.3,False,https://ambientweather.net/dashboard/e6964782210273ae226a010fcf760e95,13121,Fulton
+697a9c99e63fb5346c3712a4,8C:4F:00:4F:35:2F,A Snow Fort IV - Midtown Atlanta ,33.7794,-84.3823,975.8,False,https://ambientweather.net/dashboard/1d770880d5547b5cb2707f5396ed1567,13121,Fulton
+66df44b49bce2ef6b47359df,4E:48:E7:29:69:80,GT Curran St Project ,33.779851,-84.406312,969.3,False,https://ambientweather.net/dashboard/28dd2cab58e234f5040bc34d6e93b296,13121,Fulton
+694983a981f36bbdeae82eae,F8:B3:B7:83:4D:0A,EIL Weather Station,33.7709,-84.402,1000.1,False,https://ambientweather.net/dashboard/4293fe82600ba9daf5da5cfd06e35e65,13121,Fulton
+5fc511bbaa673000013cb96f,48:3F:DA:54:58:00,DPR_SKW,33.77563997592012,-84.41047958591385,961.4,False,https://ambientweather.net/dashboard/880e2b5d63f698bb28fb97cb652e1286,13121,Fulton
+673e5edf193c85c06c54669e,98:CD:AC:22:71:19,StalkerBeach,33.7739,-84.4137,974.4,False,https://ambientweather.net/dashboard/11c9a94bb2da38ab818917abd4bb86f8,13121,Fulton
+69cfaadd5d2af11e78831540,F8:B3:B7:8E:D2:D6,Ormewood V3,33.7324,-84.3525,986.0,False,https://ambientweather.net/dashboard/94f5f76df7319a3d35f59d7bbfa9b71e,13121,Fulton
+5a8df17f1cac0e0004898a8c,EC:FA:BC:07:F1:BA,Villa Kunterbunt,33.7336475,-84.3525002,968.0,False,https://ambientweather.net/dashboard/5e794520e1928194ed8b8b33cc8122ab,13121,Fulton
+6963b60c34d1cf42dc5e79f7,F8:B3:B7:83:B1:63,Vera weather vein,33.7349,-84.3592,940.3,False,https://ambientweather.net/dashboard/3ca51b03bfb77f6a3763e366caf2fae6,13121,Fulton
+69656517cb20a2effa62aaf8,F8:B3:B7:8D:CC:62,Home,33.7784,-84.356,988.5,False,https://ambientweather.net/dashboard/c8d89d93547c7fa809f108671d6b98f3,13121,Fulton
+64899f297138cfc933045611,30:83:98:A7:39:DC,Lovett Weather Station,33.8585729,-84.4534491,787.0,False,https://ambientweather.net/dashboard/a02d2ac83ad5aa320612d0ceaf4eca70,13121,Fulton
+69461382fc976890a89ca6d2,F8:B3:B7:83:2F:5B,SOHO Riverside,33.811,-84.469,870.6,False,https://ambientweather.net/dashboard/17d6eeb1a956a90a33945c6574041964,13121,Fulton
+6961b77facc2f83e27f62774,8C:4F:00:4F:42:74,Top floor,33.8025,-84.4443,929.7,False,https://ambientweather.net/dashboard/5772004d77a90d1794e2695ab728307a,13121,Fulton
+69615212fc155a2cbacde0e3,F8:B3:B7:85:B8:48,TheRealMrT,33.7942,-84.485,807.7,False,https://ambientweather.net/dashboard/3615054d11d1c09d9d0beb2006428e90,13121,Fulton
+63b730f6eac86400015c2769,C4:5B:BE:F9:F9:E1,My Weather Station,33.7824053,-84.3644434,932.8,False,https://ambientweather.net/dashboard/b71cd784c3e9efb69711d09b36d23189,13121,Fulton
+63dc3a20acf2930001012ff2,C4:5B:BE:5F:10:D3,The Cube's WS,33.7902005,-84.3675612,895.4,False,https://ambientweather.net/dashboard/b212fd6d53e6383711bbe4d002407ca7,13121,Fulton
+678abe6baafcc8f6085c618e,C4:D8:D5:0E:A5:26,Setec Astronomy ,33.8009,-84.3962,853.0,False,https://ambientweather.net/dashboard/2a971d47ac5b3ec5eedb9dd573853a71,13121,Fulton
+6387e69e00002900012606d6,30:83:98:A6:A8:15,Graham's Weather,33.7818839,-84.42692919999999,943.1,False,https://ambientweather.net/dashboard/ecb9ff19e0eae49db580ecb2204b38a1,13121,Fulton
+66a95b0902489c3d9fe90d8b,48:E7:29:5F:49:F1,1036 Rice,33.7832435,-84.4273934,918.9,False,https://ambientweather.net/dashboard/ce62635c4e4b16fc1eef6f14ed4bc1a2,13121,Fulton
+66f72ce1adc4cc4c7358fbad,C8:C9:A3:16:A8:5B,Jaysulk,33.7913,-84.4003,904.1,False,https://ambientweather.net/dashboard/347734f2939ca0763a77b8dbba2648d6,13121,Fulton
+626303c85954870001c61794,48:3F:DA:56:0A:1E,"Loring Heights Atlanta, Ga",33.7948644,-84.40416990000001,960.6,False,https://ambientweather.net/dashboard/6e32d5841832824ad59521f952841659,13121,Fulton
+5cca49de5c51a84e5f28f4d5,00:0E:C6:00:2E:67,Loring Heights Weather Authority,33.79982050450089,-84.39902504896963,895.0,False,https://ambientweather.net/dashboard/2eed49dd31d391dd2d91603efcc7a1ec,13121,Fulton
+620fb7c0989a410001cfbb94,E8:DB:84:E3:C4:98,WaltWeather,33.8067502,-84.40212319999999,830.0,False,https://ambientweather.net/dashboard/348f2f9f75a7991a34de86a85183468a,13121,Fulton
+62d9d281b71d86000111b4e0,E8:DB:84:E3:C4:9B,Walthall Dr,33.8067502,-84.40212319999999,830.0,False,https://ambientweather.net/dashboard/759a54da3068ff3e3620f59d510edbdd,13121,Fulton
+63093bc36ebc9e00018db83b,98:CD:AC:22:1C:54,My Weather Station,33.8113681,-84.4061454,851.8,False,https://ambientweather.net/dashboard/c8cd6a030afde921fc40d3e8f964c647,13121,Fulton
+646583ea2749fb54538dba87,C4:5B:BE:FA:3D:5C,My Weather mStation,33.8187111,-84.41322459999999,813.0,False,https://ambientweather.net/dashboard/0369957dee1db30cf19b57b18e43fa20,13121,Fulton
+698e570047b5ab0fedff76c5,8C:4F:00:4F:F4:B7,Glenridge Woods,33.8154,-84.4302,937.9,False,https://ambientweather.net/dashboard/e21868af3edab36bbf0837692c409b7b,13121,Fulton
+5f594ac7bfe6180001b2e731,EC:FA:BC:80:B3:CB,PeterATL,33.8406186,-84.4126296,945.5,False,https://ambientweather.net/dashboard/618588d1e2e2ddd5cf055242078c3b49,13121,Fulton
+5c71ff09bab48a36c9e8a077,80:7D:3A:7C:38:1C,"Atlanta, G",33.8337156,-84.40803319999999,938.2,False,https://ambientweather.net/dashboard/4205b7581eb7ed41c4510511db86768f,13121,Fulton
+62dda69c8295590001e85f5d,E8:DB:84:E4:71:E0,W4TE1,33.8345107,-84.40639159999999,937.0,False,https://ambientweather.net/dashboard/8d963c00e0a9907a8d17c8a63d3e6953,13121,Fulton
+6a15b009d5223468ca83fbc2,00:30:44:C7:65:6F,Integra1994,33.8411,-84.384,,False,https://ambientweather.net/dashboard/c67120314eb28eb8d29263c976e18797,13121,Fulton
+639a22bc6bc2090001377100,C4:5B:BE:F9:D7:48,My Weather Station,33.8058875,-84.3943128,919.9,False,https://ambientweather.net/dashboard/749eb4f7454d5ac97315897151e6218e,13121,Fulton
+695029e71a4967e15ff9c5d7,8C:4F:00:4F:E4:90,EnglishWeather,33.8253,-84.3727,886.1,False,https://ambientweather.net/dashboard/ed49186cd7b3d9d74bd927d85771bd5b,13121,Fulton
+65ee2eee83d07c9513dc3ee1,34:15:13:59:3A:AA,Hardwick Weather Station,33.7809177,-84.3561307,986.8,False,https://ambientweather.net/dashboard/19c6f88e0bce6357ed42a32adcf7b531,13121,Fulton
+68332f037e26007d0ed082e0,40:F5:20:39:AA:DE,Lenox/Woodland Hills,33.811,-84.3509,852.4,False,https://ambientweather.net/dashboard/24736b52a1706f98bf77b242b32e087e,13121,Fulton
+61927228b9958400017da260,E8:68:E7:87:0D:1B,Canterbury Court,33.8565272,-84.3512908,981.5,False,https://ambientweather.net/dashboard/c6e62dc681ebb47eb29ab0bc43c076e5,13121,Fulton
+633490edb181580001821620,98:CD:AC:22:EE:DB,Canterbury 2,33.85668100000001,-84.350661,981.3,False,https://ambientweather.net/dashboard/dac70d7b26cce84ad5840b7a913b69b4,13121,Fulton
+604e395142278800019e24fe,24:7D:4D:A9:3F:6B,Kearney Home,33.91291580000001,-84.428201,979.4,False,https://ambientweather.net/dashboard/a784b38fc61eb1dbfb6378887d40d14e,13121,Fulton
+5ef521f9362cb400010a4861,8C:AA:B5:C7:91:ED,PFRN,33.8973986,-84.4126501,870.8,False,https://ambientweather.net/dashboard/1e02c914bba2f071a066f512bd9ab017,13121,Fulton
+61e1db8e3d5474000130efdb,E8:DB:84:E4:A0:D6,Our Weather,33.9107401,-84.3969513,980.9,False,https://ambientweather.net/dashboard/604ac45546bb181e7a5117078dfd311f,13121,Fulton
+639a4d21c80f2300011d30e9,30:83:98:A5:4A:FC,Battle Station,33.8902819,-84.3615555,886.3,False,https://ambientweather.net/dashboard/e7e223536377744bbe730ed1a9134ae7,13121,Fulton
+677846e2020ea41a5e670a51,54:32:04:43:0C:8C,Battle Station 2,33.8903,-84.3616,884.7,False,https://ambientweather.net/dashboard/5400c72691eacb30988438f02aed820e,13121,Fulton
+697653fb9863a2bba0f0bc40,F8:B3:B7:8D:F0:23,Fairfield,33.8624,-84.4105,879.0,False,https://ambientweather.net/dashboard/69fe957ea149e6707cb92936f06ddde7,13121,Fulton
+6550ec1f2c53833069d6963c,C4:5B:BE:5D:EA:AC,Meredith House Weather,33.8709928,-84.40145199999999,,False,https://ambientweather.net/dashboard/c7694d1b5d1fd582baee8ced17d1ae0f,13121,Fulton
+6991b2a010a516417dc7258d,24:D7:EB:EB:96:F6,Home,33.8835,-84.3976,984.2,False,https://ambientweather.net/dashboard/0c1dcec1fe9cc403fb07a219ce741b4f,13121,Fulton
+60cb8eb1de2e940001e7e680,F0:08:D1:07:AC:8F,BLTMD ,33.879345667556585,-84.41799224068602,942.8,False,https://ambientweather.net/dashboard/13ad1f88d16d846bc09960e22b6673cd,13121,Fulton
+697e3acefe7f82c1d5f027a0,F8:B3:B7:8D:EB:73,Home Base,33.9033,-84.3489,996.9,False,https://ambientweather.net/dashboard/c02444f370cfeac76166237bb2cb45c0,13121,Fulton
+69d84a4952690f1c559e2b34,24:4C:AB:6B:37:71,RiverRidge,34.011,-84.3718,924.9,False,https://ambientweather.net/dashboard/68cf7a114e3f63678c4e84a499f3ca03,13121,Fulton
+60804f22c98e8d0001fda837,F4:CF:A2:6F:9D:01,Big Creek ,34.00162499999999,-84.391346,878.6,False,https://ambientweather.net/dashboard/6fdd4bd3a0ad40b2455ab2e4053011ff,13121,Fulton
+5e5dba3918192e64803f2b0d,C4:6E:7B:44:87:2F,Breakwater,33.94333189999999,-84.3973618,996.4,False,https://ambientweather.net/dashboard/a59ac6deac4c5175ae6d59b384407dd5,13121,Fulton
+6901431fb6a13ea47a626801,70:B3:D5:C3:04:6F,My Weather Station,33.9622,-84.3016,1046.7,False,https://ambientweather.net/dashboard/c23d6ac71b8af25c026b5625f5b10880,13121,Fulton
+5b60bc9ae8ba250004f93079,DC:4F:22:20:4F:53,Fawndale Way,33.9692996,-84.28050809999999,971.5,False,https://ambientweather.net/dashboard/cc6fe14bcedb77076c445a4e06c99be8,13121,Fulton
+61df7f300ffe1700013ebe80,E8:DB:84:E6:22:3C,NATLWX ,33.9971198,-84.2887319,995.6,False,https://ambientweather.net/dashboard/dbf4422cb3e75e8941eaa816d25ff4e0,13121,Fulton
+5eaa26de7de02a004c05275a,BC:DD:C2:AF:1E:BA,Big D's Weather Station,34.0104632,-84.2822135,1163.2,False,https://ambientweather.net/dashboard/1d844f269ac63623933e9f3494ce1cdb,13121,Fulton
+60529b15aa2305000152bac7,40:F5:20:39:AE:05,Six Branches,34.004398,-84.3067617,1043.7,False,https://ambientweather.net/dashboard/4cf1b2a691add63ba7ea308603628d54,13121,Fulton
+67abb85f7d75c8178a9fc5ae,C4:D8:D5:0E:A5:DF,Stonemist,33.9899,-84.3168,940.6,False,https://ambientweather.net/dashboard/c313cb08b7ed5c682a116cb0049e8c13,13121,Fulton
+5e07d9c2d5c06555a55bbcf2,A4:CF:12:A0:1F:2A,La View,34.0185975,-84.3380797,956.8,False,https://ambientweather.net/dashboard/8f0bdc7944dc33057bee3451bb3546cb,13121,Fulton
+6973f24db954725b64e56453,F8:B3:B7:85:DC:FB,TravLand,33.9589,-84.3596,982.7,False,https://ambientweather.net/dashboard/28a60fafded1957528f3ce64bfb5d0d6,13121,Fulton
+60a84e1902071a00016b7ae2,E0:98:06:A3:3D:F5,Greenway,33.9944439,-84.35566949999999,1023.5,False,https://ambientweather.net/dashboard/9292379ee7f18ffb9fa4329fb12fab58,13121,Fulton
+6949a644bca9fe5e492fa865,C4:D8:D5:3C:E5:E0,The Moon,34.0085,-84.2714,1061.0,False,https://ambientweather.net/dashboard/d3b894535e2412348193247ab1c1972c,13121,Fulton
+65dcfbfe079b2b6996ea0eef,C8:C9:A3:14:DD:E9,MPCS Weather Station,34.0187734,-84.2769502,1075.3,False,https://ambientweather.net/dashboard/fb7ff218ffb7b0c8ffe7c51083d1d1c9,13121,Fulton
+61eed0b1a70dce0001a8ff7b,C4:5B:BE:5E:6B:1A,NovaDaVin,34.0136226,-84.2755093,1072.8,False,https://ambientweather.net/dashboard/0fb17d76c7568461d15b35f884cad76a,13121,Fulton
+62eaffd0e8d890000191ae46,98:CD:AC:22:85:73,Weather Scout,34.0156774819259,-84.2670655474576,1119.6,False,https://ambientweather.net/dashboard/31756e9619d3b0f68d11439b7684c2c0,13121,Fulton
+5dd5d897d71552521841f920,B4:E6:2D:75:58:BF,Weather Station,34.0117821,-84.25275879999998,1103.2,False,https://ambientweather.net/dashboard/3dc0b38df2f852ab3ac8f3c7f641265f,13121,Fulton
+62bcb6a74fceb600014382e2,98:CD:AC:22:0C:74,Headseal,34.01611440000001,-84.2438084,1085.6,False,https://ambientweather.net/dashboard/2dd5c70444f20b3b7159bccf43591f91,13121,Fulton
+62ceb2a2bc018700011919b6,E8:68:E7:7E:C8:1C,Cold Plunge,34.0232431,-84.3615555,1082.6,False,https://ambientweather.net/dashboard/d0047ddda90ff8270b21dbd99ed1b640,13121,Fulton
+66a801ac628f3612a451727f,54:32:04:46:FC:C4,Weather1,34.0232431,-84.3615555,1082.6,False,https://ambientweather.net/dashboard/86fdd3403e2331a0d2f8edad05b0a2e3,13121,Fulton
+65ceb7ea6b4e413ff1135238,C8:C9:A3:10:40:90,Shep’s station,34.02075186681694,-84.36279679725227,1049.3,False,https://ambientweather.net/dashboard/50497982d08b8b2ad0e7d521692e63bd,13121,Fulton
+61e9f7e25cca6200016b7fa7,C4:5B:BE:6C:76:36,WS-5k,34.0240813,-84.380612,1111.0,False,https://ambientweather.net/dashboard/eac29d4fd69383d5433c6cf1ca31dd11,13121,Fulton
+60f46b83371cfe0001303e11,E8:DB:84:E3:E4:75,Mountain Park Treehouse,34.08315725162997,-84.40600726316416,976.9,False,https://ambientweather.net/dashboard/53a8e13805dde77d912b875cdfc7cc78,13121,Fulton
+5f418e3151893d0001d46e61,CC:50:E3:2C:1D:B3,JB Weather Station,34.0722363,-84.40990049999999,1069.3,False,https://ambientweather.net/dashboard/5554c7382b7c1685790fc822070b2df1,13121,Fulton
+60d8b2cc1b0f0a0001cae0fd,E8:D8:84:E7:3D:B4,WS-30075,34.0614862,-84.3963941,1095.8,False,https://ambientweather.net/dashboard/27c52257aeed302c6ed5f7d743bc9dab,13121,Fulton
+694d6684928bcbdb692e7618,C4:D8:D5:3C:E0:07,1120 LoL,34.0294,-84.3759,1015.9,False,https://ambientweather.net/dashboard/2ab60ce8acf83a708b70656be42c9cda,13121,Fulton
+5f22ec8691ee5a00019509ef,8C:AA:B5:C6:9C:99,Brandenburgh Circle,34.0421978,-84.38453299999999,1040.9,False,https://ambientweather.net/dashboard/de48431edfa9f16c63ac571d76150849,13121,Fulton
+63682a692523840001c78807,C4:5B:BE:5D:33:D9,Home_Wx,34.0288172,-84.36699929999999,991.2,False,https://ambientweather.net/dashboard/60a62d207d5e22089a878bba28c8ae30,13121,Fulton
+62800cfa2997a100012e3fcb,98:CA:AC:22:0C:4B,"Roswell, GA",34.027893,-84.36118619999999,1094.5,False,https://ambientweather.net/dashboard/df233fa612899d95bb2c1eab3b11fd95,13121,Fulton
+661f25b40a84cac1635215d4,C8:C9:A3:16:A7:1C,Ripton Wx,34.0861289,-84.3618244,1114.0,False,https://ambientweather.net/dashboard/0963f10cf2a38d583bfad47cc8049d8b,13121,Fulton
+62d1c40c4b5cb100016ced32,C4:5B:BE:6D:BB:29,Lightning weather station ,34.080519,-84.3628717,1103.8,False,https://ambientweather.net/dashboard/7d59cb8f3aa4145a7e795c2ac8b8bfe5,13121,Fulton
+67dcb48e5bb0f322748f0ad5,D4:8C:49:30:33:2D,Fallin Weather,34.0703,-84.3783,1165.8,False,https://ambientweather.net/dashboard/fdcbc6ee4dc476e945b412ea9ad1e04a,13121,Fulton
+5eb6cf79f5d14b0001bf547f,24:7D:4D:A3:60:BE,Weather Station,34.03790169999999,-84.3569776,1080.1,False,https://ambientweather.net/dashboard/8fd20a9514c67a9c9bd6442f71c3c2e4,13121,Fulton
+630d5bc0d45c570001ffbd64,CC:50:E3:2C:19:7B,BCMA in Roswell,34.09,-84.338611,1119.1,False,https://ambientweather.net/dashboard/c1f6e342e8b1c8a4ce25a148edd04da8,13121,Fulton
+5d2fa32c24bde541036be115,DC:4F:22:5A:CC:EE,Headquarters weather station,34.0736688,-84.31694979999997,1090.7,False,https://ambientweather.net/dashboard/1c4d34f45e5324aa325ce6cb42e54f49,13121,Fulton
+6499bcfcae1f73d71181f16b,E8:DB:84:F2:E2:6C,My console,34.0667,-84.3129,1132.9,False,https://ambientweather.net/dashboard/322b13623ebcc079838f93c812b35b65,13121,Fulton
+659c1923475279fe0b074689,C8:C9:A3:16:BA:7D,Earthwatcher,34.0702067,-84.326697,1059.0,False,https://ambientweather.net/dashboard/92c9f64f6b212cd9c6c8bc5cc753b15b,13121,Fulton
+64b4558a4b30ac470b1cee21,E8:DB:84:F2:98:7E,Burdometer™️,34.08566373030018,-84.34285782739211,1100.1,False,https://ambientweather.net/dashboard/7041aeb4441172df6a178677638368a7,13121,Fulton
+63b09277b2aa370001a727e1,C4:5B:BE:FA:1A:86,Raining?,34.07134339337972,-84.34481675358465,1115.8,False,https://ambientweather.net/dashboard/14b2253d02ae736b13a446ae49873c8c,13121,Fulton
+64b719c2e67cb722ceb8a418,48:55:19:C2:33:0B,GaryB’s,34.0731203,-84.3523359,1084.5,False,https://ambientweather.net/dashboard/346d2a1b7d1429e72a5d0cb1565fb3a1,13121,Fulton
+6a0f3ad21600f327e65812c9,F8:B3:B7:8E:D2:3F,TheRobinCourt,34.0476,-84.3493,,False,https://ambientweather.net/dashboard/3cce65f758a8600cdcd268691e1a80c4,13121,Fulton
+65ca9bb2b6f8be6548f9a097,40:F5:20:0C:00:E1,AaronRoswell,34.0237528,-84.34736509999999,1076.9,False,https://ambientweather.net/dashboard/0578ea299e6708215ac2e7875823dac0,13121,Fulton
+62350151241f9e0001e849c6,C4:5B:BE:5D:0A:2E,MANSELL,34.030792641426906,-84.3461981323208,1088.3,False,https://ambientweather.net/dashboard/0d4b533d55ae26605a9dee8545b2206e,13121,Fulton
+60c3e1b2f116e6000154262c,E0:98:06:A3:3C:B0,Roswell,34.0271061,-84.338203,1034.5,False,https://ambientweather.net/dashboard/e8e0f4282183864cae7de9f499312d37,13121,Fulton
+676b4f99d17148903e0f8c5a,08:D8:33:A5:88:44,Yirmeyahu ,34.0377,-84.3303,1050.0,False,https://ambientweather.net/dashboard/9d625b52496889dbac9f6a3f24cd96a3,13121,Fulton
+66edde564430073087c5722b,48:E7:29:69:AE:ED,Fischer Shack,34.024029692160745,-84.30335812022255,1068.1,False,https://ambientweather.net/dashboard/db30a40999d11a972c9efac3e512fdc5,13121,Fulton
+65ca23668df15e765a14ccdd,34:94:54:93:18:F8,CCR Agronomy,34.0289484,-84.280464,1073.3,False,https://ambientweather.net/dashboard/68abd79e8ef6c001278a145828fe65d8,13121,Fulton
+64ba92f57bb84abc04a6a01e,C4:5B:BE:F9:F9:74,Home,34.03245898898145,-84.2804919463436,1009.0,False,https://ambientweather.net/dashboard/9e5b577be96bb9daccb5a6a2bcf1acf4,13121,Fulton
+696e9f6d6ea24ff05f77e29c,8C:4F:00:4F:39:78,Breedlove alpharetta ,34.0787,-84.2963,1095.2,False,https://ambientweather.net/dashboard/b7dea023ad6ed22d6a3f2f6fa7142be8,13121,Fulton
+64b193d272e51fa4e33533ec,F8:DB:84:F2:E2:5E,My Weather Station,34.042747,-84.2749746,982.1,False,https://ambientweather.net/dashboard/d980859582ab96c0aecf848aa53e5c83,13121,Fulton
+676c21099a5be64fac8012cb,FC:E8:C0:45:60:CF,Woof Woof,34.0778,-84.2364,1038.4,False,https://ambientweather.net/dashboard/e50c53d0b2098c0108841472e3572b5f,13121,Fulton
+65b54b0d7f61a9840fc9f816,84:F3:EB:9D:37:0F,My Weather Station,34.08225485406738,-84.23287269439705,1075.6,False,https://ambientweather.net/dashboard/5cdf123199f4cce4567c2c06ff581ed8,13121,Fulton
+6094794f26946f0001e31dbf,48:3F:DA:55:DB:F1,Chasewood Cul-de-sac,34.095835,-84.217602,1129.5,False,https://ambientweather.net/dashboard/64638253d1e683268bf0f84094eda720,13121,Fulton
+625c9e65de7d910001673331,C4:5B:BE:5D:32:81,12260LWC,34.0765654,-84.2031341,1063.3,False,https://ambientweather.net/dashboard/bc0bb58ccd50a3b82c5e01d8573ad54b,13121,Fulton
+5fe7bed34d5c3d0001f2d558,D8:F1:5B:14:44:3E,Kingston Manor Park,34.0339387,-84.2405149,1096.9,False,https://ambientweather.net/dashboard/55b0f8c7f033dce37547dca0211916ff,13121,Fulton
+62cee34e6fb74c000140ba60,C4:5B:BE:5C:FC:1C,JJ weather station,34.039263889860194,-84.2349958816547,1051.5,False,https://ambientweather.net/dashboard/7de08c9e6758180db3f21d5c975654fa,13121,Fulton
+61cb90f4c1b0230001154c2d,E8:DB:84:E6:6A:38,Pinehollow Court,34.0417918,-84.2329276,1062.9,False,https://ambientweather.net/dashboard/1e244fa3c20b6492785a091fd2dd90fb,13121,Fulton
+69ea67564d3349bb65af8ef4,B0:81:84:2B:54:64,My House Weather,34.0581,-84.2422,1088.0,False,https://ambientweather.net/dashboard/af06bb609b640aa815bddb3a1916d0ee,13121,Fulton
+5fecf16df5ff15000181fcf0,40:F5:20:3A:A9:E2,RCH Weather ,34.0552927,-84.2524502,1038.8,False,https://ambientweather.net/dashboard/8a6148403b71730d7072bf340c137b3b,13121,Fulton
+5974f42a850e5b00bb202011,00:0E:C6:00:24:80,KGALPHA73,34.027134,-84.2563797,1079.4,False,https://ambientweather.net/dashboard/420250ff69f038797dfb7f3af180092c,13121,Fulton
+671fdd721be7b0198b2de22a,48:E7:29:7C:0B:19,mike5325,34.0251,-84.2689,1086.6,False,https://ambientweather.net/dashboard/f7562058967d1e9d8e8b1e4310de960a,13121,Fulton
+6a12be6fef75e315fbc90158,C4:5B:BE:FA:3A:AB,fOXDALE RESERVE -TENNIS COURTS,34.0456,-84.1707,1047.9,False,https://ambientweather.net/dashboard/e9cc27ceb6c9f2cf64c9627c8144c13f,13121,Fulton
+62c73b470fdb980001eca7ea,34:14:B5:1E:E5:F8,JW Ambient Weather Device,34.0415153,-84.1580047,1028.4,False,https://ambientweather.net/dashboard/97b1ae41552e20ec8539ba4fee8f43c4,13121,Fulton
+5ff20376dca4fb00013c04ed,40:F5:20:0A:DA:93,Devonhall Weather,34.0520195,-84.1470351,1017.3,False,https://ambientweather.net/dashboard/570c7fbc5bbcc66da6c5b31716fe123a,13121,Fulton
+60abe0f170bf2d000174b188,E0:98:06:A3:53:24,Vicarage,34.0861187,-84.1975125,1098.6,False,https://ambientweather.net/dashboard/c94a45bf5f44bfb5dce65aa0b4d1d176,13121,Fulton
+5f5bf21c7c7071000106c073,48:3F:DA:53:94:6A,Seven Oaks - Klein,34.0813256,-84.1919315,1131.8,False,https://ambientweather.net/dashboard/f4d9ea8889256bb01b11d41b050eb513,13121,Fulton
+6141351b0d39f100010a8c64,E8:DB:84:99:D5:FE,Back,34.0809059,-84.1871738,1129.8,False,https://ambientweather.net/dashboard/066ef712b11a4f36d2ccae85c7a93cb6,13121,Fulton
+5f03cd0d1f10ce0001e5ec10,8C:AA:B5:C7:8D:F3,Hillbrooke,34.064194786108985,-84.198086702427,1074.6,False,https://ambientweather.net/dashboard/107dce03f05085f3559e5ffb9f0af0f7,13121,Fulton
+5e88fe74b3ec2764a5588f67,24:7D:4D:A3:5C:01,Bjorn’s Hill,34.0471964,-84.191293,1070.4,False,https://ambientweather.net/dashboard/c3e7e989a72777547e5e6fc59d43aeec,13121,Fulton
+5934460cbf04bf00b25a2d34,08:D8:33:53:91:34, WX,34.0244,-84.1875,1003.5,False,https://ambientweather.net/dashboard/f0ea1d242fd062b0d957d827608dd7a0,13121,Fulton
+60d47ed914dc0400014f8bed,E8:DB:84:E6:2D:07,Home,34.103648,-84.40992109999999,1032.3,False,https://ambientweather.net/dashboard/66f56ab926e39d72d8a841077f84fb5c,13121,Fulton
+61a8cb8114f5210001308d39,C4:5B:BE:5D:13:51,CogburnWoodsES,34.1043758,-84.2833445,1063.5,False,https://ambientweather.net/dashboard/3c7de4f26e257cf56368919bedd5ff8f,13121,Fulton
+604cd583e60f180001931848,48:3F:DA:54:A8:84,GrassValley,34.1461548,-84.29237119999999,1073.1,False,https://ambientweather.net/dashboard/b5fb42b1c7c701eaf4f708488238625c,13121,Fulton
+5ee7dbbd54a63a0001f601a9,FC:F5:C4:8E:58:0D,Milton Kitchen,34.1321631,-84.30066599999999,969.5,False,https://ambientweather.net/dashboard/114fcb94af3f4c69c84d30bb305d5602,13121,Fulton
+69530e7ac4417881efa0232a,34:00:8A:E4:73:94,Weather station,34.18,-84.311,1134.3,False,https://ambientweather.net/dashboard/5df71afcbe3eef0c1e43494a070a8e75,13121,Fulton
+6046386de60f1800019315e1,24:7D:4D:A9:2A:55,King Lake North,34.162021,-84.30035099999999,990.4,False,https://ambientweather.net/dashboard/a6f00483087a4a794bb58289d5d34da4,13121,Fulton
+5fe63ecca6186f00018f54dc,F0:08:D1:06:F7:0C,My Weather Station,34.1220841,-84.2736789,1161.3,False,https://ambientweather.net/dashboard/c071f69b14fd44fdb2dc6631132c1d2b,13121,Fulton
+621576dc2199350001e7ae0a,C4:5B:BE:6E:7F:15,hopewell,34.1778207,-84.2719718,1101.1,False,https://ambientweather.net/dashboard/62dd1cc006c6fe4fed01a36d48e247e0,13121,Fulton
+5b4d4a49df10e400047210d4,2C:3A:E8:3D:02:CB,Weather Station,34.1158378,-84.2591364,1114.6,False,https://ambientweather.net/dashboard/f09340bdade07a8e9be4c861b92d147b,13121,Fulton
+6968e7496e3e7fe10df7b593,8C:4F:00:4F:E3:7A,Fall WS,34.1197,-84.2594,1126.5,False,https://ambientweather.net/dashboard/8b7393e5e255edb40204648c03487d83,13121,Fulton
+69e3caf08a99bcc568392c97,8C:4F:00:4F:6A:E7,BethanyCreekNorth,34.1151,-84.2638,1105.3,False,https://ambientweather.net/dashboard/6f95da730b6e84bd26655e11362e776b,13121,Fulton
+62bf0f548e18e9000171fdcf,C4:12:34:E4:45:47,Mountain rd. Weather,34.18363156825459,-84.29199169676086,1104.8,False,https://ambientweather.net/dashboard/20b73378075e1922682d44376021b397,13121,Fulton
+69a313bf243658c15689b0c1,F8:B3:B7:86:12:B6,Duffell Estate ,33.5771,-84.8586,1013.8,False,https://ambientweather.net/dashboard/36a6c96651c57262ff205825145b89c4,13097,Douglas
+63a4a7c409c067000144ad61,E8:68:E7:11:56:07,Shell Workshop,33.6112386,-84.8766215,1150.8,False,https://ambientweather.net/dashboard/c81bbe893167339287d0fc9924dc87ea,13097,Douglas
+67bdb7e957af6080a3b6cd0c,00:90:C2:E5:1B:DF,30135,33.5977,-84.834,3231.2,False,https://ambientweather.net/dashboard/87025ab6f0fd91ecc2e25370ed6dc3d8,13097,Douglas
+67030aac46baec712447b5b0,48:E7:29:7C:03:18,Weather view,33.5975,-84.8339,981.0,False,https://ambientweather.net/dashboard/05099619969e33ff9a7de47dfb919701,13097,Douglas
+6793d499adef4f9de5e3b49d,48:3F:DA:55:42:52,Local Sky Watch,33.5975,-84.8337,982.2,False,https://ambientweather.net/dashboard/0634309f3201ebc03474335fddaab771,13097,Douglas
+6011781981fb3b0001c4ebcc,48:3F:DA:54:47:7C,RoLo,33.6075856,-84.8290748,1075.8,False,https://ambientweather.net/dashboard/ad109060954c0005f8437aef33f0d438,13097,Douglas
+63bca8c0b2560200017ee9c2,BC:FF:4D:0F:F1:35,LoTek,33.62610767152384,-84.88748732281493,1250.2,False,https://ambientweather.net/dashboard/47c2ce5474e1b1c115bd6488ce67e2ea,13097,Douglas
+6581c57f6b77e2ec59ca6f30,E8:DB:84:E7:3E:73,Weather Station,33.63593,-84.8854022,1238.2,False,https://ambientweather.net/dashboard/2ccc3150ba72d45e9fcb3039ea2b9c6a,13097,Douglas
+677f1f89ebf6bac6f2038a0e,C4:D8:D5:0E:A5:DC,,33.6286,-84.8931,,False,https://ambientweather.net/dashboard/b886a9ae7c5c9519f9f646d3493e0f47,13097,Douglas
+5f667f0626bbb60001a11d71,84:0D:8E:B9:D3:17,My Weather Station,33.6881023,-84.8727098,1094.0,False,https://ambientweather.net/dashboard/142094789b1505bf42aa409dc5a8176b,13097,Douglas
+69604e876cc16906b0421515,F8:B3:B7:8E:13:13,My Home Station,33.6881,-84.8727,1094.1,False,https://ambientweather.net/dashboard/d2b10f480a3bf8ea424c18fb327531fa,13097,Douglas
+62e590bc65f0a2000198d6b6,BC:FF:4D:11:2B:11,Riverbend Ranch weatherjammy ,33.656284,-84.84933199999999,953.9,False,https://ambientweather.net/dashboard/d653d5c1b894ade8e9f6738418496f08,13097,Douglas
+62c1aca037935f00018aa47d,F0:08:D1:07:1A:37,Garden Station,33.6925278,-84.8104118,1148.8,False,https://ambientweather.net/dashboard/bb98292b9754ebc730d9ad95cba758e2,13097,Douglas
+5cc45be54e918f476dd6ac16,50:F1:4A:F7:2D:C7,Pool 7 Channel,33.6528,-84.7388,971.5,False,,13097,Douglas
+5e505c1d3c9cb46417688621,2C:F4:32:7E:26:A1,My Weather Station,33.6589162,-84.718699,927.7,False,https://ambientweather.net/dashboard/aa69dbc2b80f9f3c1748f1aa5d064512,13097,Douglas
+697f84f9d9122837884b761d,8C:4F:00:4F:D7:89,Home,33.7293,-84.8637,1176.4,False,https://ambientweather.net/dashboard/b5064fd52a8f1d5073338564b13e6f96,13097,Douglas
+69f5eb7092692635472533c7,50:78:7D:F7:D7:10,Mirror Lake,33.7514,-84.8883,1082.4,False,https://ambientweather.net/dashboard/63928d7737357ac8a06ee8df1b69bf6e,13097,Douglas
+64cebb10f633d54f5f056ab5,48:55:19:C2:DA:5F,STATION 11,33.7383482,-84.88215749999999,1162.4,False,https://ambientweather.net/dashboard/85f5bdcddb1811599032cbcf2dee1834,13097,Douglas
+62c82e80a0f5f70001d94dd9,C4:5B:BE:5D:35:40,My Weather Station,33.7717832,-84.8753392,1084.9,False,https://ambientweather.net/dashboard/ea50ed991b898228cb6f56377cddc7f4,13097,Douglas
+628d80a683cd3a000125a1c5,F4:CF:A2:E3:06:F6,WeatherOrNot,33.7477313,-84.7666642,1154.2,False,https://ambientweather.net/dashboard/5dc72f48af065547ca3c891dc6a60a49,13097,Douglas
+63af4d309c8a62000126432b,C4:5B:BE:6E:19:44,My weather Station,33.7121121,-84.7794902,1229.3,False,https://ambientweather.net/dashboard/fc9912bf94fccc05aea81122741c038d,13097,Douglas
+665dc154ef5ddc7fc01e9b19,40:91:51:59:9D:EC,West Pines GCM,33.7426216,-84.7466158,,False,https://ambientweather.net/dashboard/724e64786fd9a2f17129ab328ad4156e,13097,Douglas
+664685862ab88deb616a5f61,34:00:8A:E5:16:7F,Babylon 8,33.770806499669504,-84.75164709045637,993.9,False,https://ambientweather.net/dashboard/e7c64348b8814db4cd47015f590fce72,13097,Douglas
+62e0658a9f44580001e9ec0c,40:F5:20:0B:46:89,TKD Office,33.76570734591414,-84.70650687299175,1036.6,False,https://ambientweather.net/dashboard/c4c9997704f109bb246e2bdb98a3f49e,13097,Douglas
+648d0921d6c7cd4468f40297,34:00:8A:E5:0C:1B,Huston Mansion,33.7712859,-84.7029399,1119.0,False,https://ambientweather.net/dashboard/6f63360aaf3088f9a26ccbfe9671e1b6,13097,Douglas
+62c1c5849ae9f40001e1f6be,C4:5B:BE:5D:B4:83,WS-5000,33.7045465,-84.705451,1000.2,False,https://ambientweather.net/dashboard/8fcef150ce9bb89e3297e70e4d7b501f,13097,Douglas
+62c1286f09b70e000199c5e2,CA:5B:BE:5D:B4:83,My Weather Station,33.7045465,-84.705451,1000.2,False,https://ambientweather.net/dashboard/b7ea76ab5fc86a713a8d6d03f9cc5ae3,13097,Douglas
+6688fa27e209047295e0fe8f,D0:3F:27:CD:FE:CC,,33.7016118,-84.74151739999999,1118.4,False,https://ambientweather.net/dashboard/e0c2a6259d02e56851d581afc306dce7,13097,Douglas
+61cb7e0b6de9e00001f2413a,E8:DB:84:E4:CC:B0,British Mills Weather,33.71210740000001,-84.7387591,997.0,False,https://ambientweather.net/dashboard/cacddcc2c6a7b889f8820c1323893f9d,13097,Douglas
+607b6e3c423bc600012a7c28,24:7D:4D:A3:63:E0,Fair Oaks,33.6078347,-84.0454666,761.8,False,https://ambientweather.net/dashboard/170f652dd3f7e4b311f561324b96287b,13247,Rockdale
+63db22790d294b0001489af2,C4:5B:BE:F9:F5:92,My Weather Station,33.59462181109338,-84.0651282482632,700.7,False,https://ambientweather.net/dashboard/3cce7b0b94c4f3b00f6388d5757ab774,13247,Rockdale
+696bed393319fa4c38f42244,F8:B3:B7:8E:51:34,Pitlochry St,33.6294,-84.0541,816.6,False,https://ambientweather.net/dashboard/ec6cf8924e943db3f0a01a6e40779713,13247,Rockdale
+63a7b8d3766c6e00016a9d20,30:83:98:A5:B1:8B,Lochinver Weather,33.62993574111156,-84.05598530700708,769.0,False,https://ambientweather.net/dashboard/a3e05dc6766ce17902566a661d141229,13247,Rockdale
+61d5444a66bef700016c764f,00:1D:0A:71:5C:C5,Weatherlink Live Bridle Creek,33.6472599,-84.0829054,772.8,False,https://ambientweather.net/dashboard/f87edde8efbde57ae7226d08930ef98c,13247,Rockdale
+61d543e324a0ff000117f12a,18:D6:C7:43:46:B6,Bridle Creek,33.6473219,-84.0828904,773.3,False,https://ambientweather.net/dashboard/118b21c41abee8fefb946864ca95eb92,13247,Rockdale
+61bf90c77432a600019bd9fc,E8:68:E7:86:E7:96,Havenridge ,33.6729794,-84.0790675,850.8,False,https://ambientweather.net/dashboard/fe5ebcacbd4c59709d9135f1dd296bca,13247,Rockdale
+6917a1a092e1da45f7c8f7b1,30:61:48:75:44:51,ATL East,33.6884,-84.0482,906.6,False,https://ambientweather.net/dashboard/68e3e07e0cf7f0a3ceb0bb40f12c9714,13247,Rockdale
+61e77b8dba810300012e5fd2,00:1D:0A:10:0F:22,,33.6676103,-84.01769039999999,904.9,False,https://ambientweather.net/dashboard/1c3e1e64118a8cc23f2dbf672e4eae0c,13247,Rockdale
+623224328a91fb00010a5732,D8:F1:56:15:79:8E,RMSST weather station,33.6687979,-84.007075,846.9,False,https://ambientweather.net/dashboard/cc891b6403ff0d655629c2fb265021ef,13247,Rockdale
+66fef08c6fdaf7004b4648b4,2E:BB:67:A7:13:63,KPS GLOBAL CONYERS,33.6685,-83.9847,821.0,False,https://ambientweather.net/dashboard/1f4e0d362dbe79a5355e535c1b129d73,13247,Rockdale
+612c0f8f8a391d000169cff5,E8:DB:84:E3:CE:2A,Piedmont Cir,33.6269333,-83.953464,783.8,False,https://ambientweather.net/dashboard/5f2e325447d08ee59751c164263fdc70,13247,Rockdale
+69dd25e7e035efd3560afd55,EC:64:C9:EF:E5:47,Watd,33.7136,-84.0207,771.4,False,https://ambientweather.net/dashboard/65aa77966df13b191de6983bb9eaeac2,13247,Rockdale
+61ccaeaec29d56000168c55e,E8:DB:84:E7:30:5B,Home,33.6726595,-84.2946328,824.9,False,https://ambientweather.net/dashboard/bff2c5a1e26ca4181d147581df0e92a3,13089,DeKalb
+6a090cdcee6bb495e03f6d8a,10:20:BA:C0:44:94,Carter's Weather St8ation,33.6827,-84.1899,790.7,False,https://ambientweather.net/dashboard/11ec7fcf0a474df3859865240f1aa3f3,13089,DeKalb
+5d06d935d720cd412aa0b3b8,CC:50:E3:58:95:E6,TYNA ,33.742007991085096,-84.2981140256104,987.6,False,https://ambientweather.net/dashboard/5663cc4ed9348ec97b65ee6fcd091566,13089,DeKalb
+5ef66028362cb400010a48c4,8C:AA:B5:C6:A0:25,Hudson Place,33.7503715,-84.29500279999999,1029.2,False,https://ambientweather.net/dashboard/1969cd396cf157524c680a2e525dcaf6,13089,DeKalb
+69de403dd9b8024d8cb24cf9,F8:B3:B7:85:BA:C6,Arbor Atmosphere,33.7505,-84.2979,997.5,False,https://ambientweather.net/dashboard/be255e6b66a9177f2697de26e1a97673,13089,DeKalb
+6440a7182dc80ff2fea1f89a,C4:5B:BE:5D:09:F0,My Weather Station,33.7528373,-84.3001208,1011.5,False,https://ambientweather.net/dashboard/7803cf182f52e9b753b28d5ce9b1f3d8,13089,DeKalb
+67718da208fc2a217e89ebc3,EC:64:C9:EF:F0:17,Fuck this shit ,33.7539,-84.3085,1024.6,False,https://ambientweather.net/dashboard/7b25cbe527efff27c1186715675374f8,13089,DeKalb
+5fe7dde7c465430001bf0507,48:3F:DA:55:E5:82,MiloMittens Weather Station,33.7525029,-84.3100285,1044.4,False,https://ambientweather.net/dashboard/867db93368c10d8e63cc4ea2fd77d899,13089,DeKalb
+6547f117a24fdd6deeae1eb2,84:F3:EB:9D:32:6B,Bouldercrest Acres,33.71378684404938,-84.31708924416074,949.4,False,https://ambientweather.net/dashboard/42f60fff3d2293b95f42914f5cd6b1c3,13089,DeKalb
+69594c0152b227b50ca4a32e,C4:D8:D5:3C:E8:25,Oakview Rd NE,33.7521,-84.3126,1013.7,False,https://ambientweather.net/dashboard/909bdf5cfee9449cd361b326376d1412,13089,DeKalb
+61d28b7bb08519000124edbf,E8:DB:84:E6:1F:5C,EA Station,33.73475888958267,-84.33666007124633,1009.7,False,https://ambientweather.net/dashboard/49c7f367e0f6c7240f8b3b30cf47d2f1,13089,DeKalb
+66895e2ff87e6592dc35a44e,48:E7:29:5E:DE:69,My Weather Station,33.728393,-84.3470364,947.1,False,https://ambientweather.net/dashboard/82515b5ddefdf94e72d67cd8c7c3727a,13089,DeKalb
+694ede659f76bbd12ff4da8b,F8:B3:B7:8E:56:CE,1373 Ormewood,33.7338,-84.3428,991.5,False,https://ambientweather.net/dashboard/45d167ebbe3885c94bbbf2564325cc42,13089,DeKalb
+64727f020faa7497eeae4366,48:55:19:C2:D5:C8,Jobeth WX,33.733076,-84.3348542,990.5,False,https://ambientweather.net/dashboard/d9bb390a4d189c04a5541ae18fa5e9fe,13089,DeKalb
+5f3af9858a4faf00016f1085,50:02:91:E4:0D:5D,boogweather,33.72263609999999,-84.34296909999999,966.3,False,https://ambientweather.net/dashboard/c289b55a44df2ccf83ba5801b7722a15,13089,DeKalb
+614e4cbbe8d9b80001145284,E8:DB:84:99:C0:B8,Edgewood,33.75639571312507,-84.34067094786775,1002.4,False,https://ambientweather.net/dashboard/2e1ebb96d6d07961a4a2d027df431a3e,13089,DeKalb
+688172f0c000d3ef2e8cd4e1,C8:C9:A3:26:D5:05,WxStation,33.768,-84.3322,999.2,False,https://ambientweather.net/dashboard/8faea8b1b8c10cfa601ee504356c0346,13089,DeKalb
+6022f4d279926100016addea,00:0E:C6:10:06:1D,My Weather Station,33.7618753,-84.328993,1051.8,False,https://ambientweather.net/dashboard/88772f2222987d251337e067d820c6e2,13089,DeKalb
+5fee44831b59cc0001595441,F0:08:D1:07:B0:E5,My Weather Station,33.7600637,-84.3187563,1010.8,False,https://ambientweather.net/dashboard/4b4dcab3b22cd5b18fa7dea9c7b454d2,13089,DeKalb
+69c4c2cf92f6bde76df2206e,24:D7:EB:EB:9B:DB,M cod t,33.7774,-84.3003,1009.6,False,https://ambientweather.net/dashboard/c260c467ca497a45b9e5c0b107a862a7,13089,DeKalb
+5c240a28ae71e27806034056,80:7D:3A:7D:4D:12,Coventry WS2000,33.7779533,-84.3063506,983.8,False,https://ambientweather.net/dashboard/a657378fe3765b630656a0c74b4bad6c,13089,DeKalb
+660af55070db28108f6acb7c,E8:68:E7:7F:A8:A2,Venetian Pool Temp,33.77669385398492,-84.31176637875977,958.7,False,https://ambientweather.net/dashboard/01dd73e191d2bcd7df0b53820b3f4fdc,13089,DeKalb
+62e81790dfbe7d00011c96a3,C4:5B:BE:5D:EA:F9,144 Madison Weather,33.7596151,-84.3114892,1029.5,False,https://ambientweather.net/dashboard/e75bf1f78dd5f4edb266755fd78db530,13089,DeKalb
+5f51700bfaf3ff00012d7c21,FC:F5:C4:98:6C:52,Rufus Weather,33.7551899,-84.3004793,1051.1,False,https://ambientweather.net/dashboard/0cfad3db9323c7093d8dadeed3871e11,13089,DeKalb
+6079b0314c7b370001c95461,48:3F:DA:89:B1:97,My Weather Station,33.7716859,-84.28412589999999,1016.6,False,https://ambientweather.net/dashboard/2e815f157f7094840726f4d0fb21f4c0,13089,DeKalb
+62d5be939c706f0001e52223,48:3F:DA:89:BC:D9,CarterHouse Weather,33.7528066233891,-84.27656674821196,957.9,False,https://ambientweather.net/dashboard/2d93f333e65f7707be130216f42128e3,13089,DeKalb
+5f9b4f77db2b820001a92213,48:3F:DA:56:A9:3E,Tortlandia Station,33.7600109,-84.2781212,973.9,False,https://ambientweather.net/dashboard/800ca5269a99be47439a07cb2dce00f1,13089,DeKalb
+669bccfe69daee0c134e7f8c,48:E7:29:5F:66:07,Carter Rd,33.7538408,-84.27574369999999,979.3,False,https://ambientweather.net/dashboard/d7afd34f8b4f30d25bddbafb04dd1c79,13089,DeKalb
+679ac09514b6e4864a30d56e,EC:64:C9:EF:E8:DF,Pool and Slope Garden,33.7703,-84.2233,875.8,False,https://ambientweather.net/dashboard/d9ff1b563a3b1ac3bbb6c65271e3ef0a,13089,DeKalb
+69c03b5720c6cefcf6c39e67,F8:B3:B7:8E:D2:6C,Wren Rd,33.7596,-84.2496,992.0,False,https://ambientweather.net/dashboard/5b7e8d577b05e1395a2a552d9470e480,13089,DeKalb
+62c0db54aa27a5000118a46c,BC:FF:4D:10:E1:3E,WSHess,33.7628224,-84.26510189999999,1018.2,False,https://ambientweather.net/dashboard/22741176e7b18c9a0cc82ca4ced4d305,13089,DeKalb
+63ab5629bd473a00014caf80,98:CD:AC:22:C3:30,Shamrock Weather Station ,33.7324222,-84.2578609,918.7,False,https://ambientweather.net/dashboard/00af96684124982069a709a23e2eb70c,13089,DeKalb
+65a16490b0ae753028f60098,C8:C9:A3:14:DD:9E,My Weather Station,33.829526,-84.33085249999999,909.3,False,https://ambientweather.net/dashboard/f03d8a4b94ddbd0511cf2995d3b6415a,13089,DeKalb
+69af4212fb74ef044ea7d956,00:90:C2:EA:E6:CE,Merry Hills - Toco - Lachona,33.8204,-84.3284,935.6,False,https://ambientweather.net/dashboard/0ff92393c28b7091dba84caf409a9eed,13089,DeKalb
+63e0e3340721f100012d23c2,BC:FF:4D:81:CB:39,Structor Group Weather Station,33.8044,-84.3395,851.7,False,https://ambientweather.net/dashboard/2d197bc9fbeb688055f1eff8321d9cc8,13089,DeKalb
+5f5d9e3350daf80001653938,8C:AA:B5:C6:6E:30,1405 Weather,33.8212327,-84.3477554,870.3,False,https://ambientweather.net/dashboard/75d78510a7cd4f3d8e915bf222df85a8,13089,DeKalb
+62b7655e62f5a000019ba0db,98:CD:AC:23:05:75,My Weather Station,33.79317021188379,-84.33603854244302,974.9,False,https://ambientweather.net/dashboard/1d685a1abe0627912203bd0fb02200d2,13089,DeKalb
+696e902c36f22ae87b266f8b,FC:F5:C4:BB:0E:D0,"Druid Hills, GA",33.785,-84.3431,985.6,False,https://ambientweather.net/dashboard/9143e7df20f764910f9b9845ad694f58,13089,DeKalb
+623b7fef3c83e20001d7226b,8C:CE:4E:D6:70:7B,CR Spa,33.7860298,-84.32586040000001,899.0,False,https://ambientweather.net/dashboard/ff3383ba3cfd7a790bacafbb75bc387e,13089,DeKalb
+6841b510708cb771e6f301e6,F8:B3:B7:83:5A:BD,Decatur Sensor 2,33.8049,-84.2879,906.7,False,https://ambientweather.net/dashboard/e830917648d26be2248e232ceb8ca0a7,13089,DeKalb
+63a39ac6f956970001a56169,F0:18:98:2B:96:3D,My Weather Station,33.8031626,-84.28060950000001,959.7,False,https://ambientweather.net/dashboard/de5967cf66d0ff402be0f21e7da75ce1,13089,DeKalb
+60a6dc429bce8a0001f14734,E0:98:06:A3:3C:A7,Grecworth Manor Weather,33.8026986,-84.2809645,958.7,False,https://ambientweather.net/dashboard/238fd2b8f8b0b8cbafd3d2ba82db5cc2,13089,DeKalb
+6769d3fb38ee2edbb33498bd,08:3A:8D:DE:D0:A4,Cate Weather,33.8028,-84.2876,,False,https://ambientweather.net/dashboard/88166e106a3441624152a5a0c0bb85f2,13089,DeKalb
+663e8be2f3f1c7a922a11dee,54:32:04:4B:1E:80,My Weather Station,33.8302338,-84.3002015,945.0,False,https://ambientweather.net/dashboard/1596e2a78145cef75ccdf2ae53df2049,13089,DeKalb
+672ae34980daf49fe17dbf75,4C:EB:D6:20:2A:48,Oak Grove Acres,33.8337,-84.286,987.2,False,https://ambientweather.net/dashboard/82fc6223e51d6d0a9693af1a01cdf96d,13089,DeKalb
+6453e08e69e3606db9b2f276,E8:68:E7:11:55:F7,OGES Ambient Weather,33.8363879,-84.28848719999999,1036.8,False,https://ambientweather.net/dashboard/ae6f59fdcdd506b93def981d4d45b353,13089,DeKalb
+62fe3c0a5126930001045103,98:CD:AC:22:3F:A9,Altamont Dr,33.82289859999999,-84.2880534,985.1,False,https://ambientweather.net/dashboard/9b6317b5587047f2a3d91b1b798fc865,13089,DeKalb
+660052c1409027ccbffe4ea7,C8:C9:A3:16:A5:91,Chamblee - Dering Circled ,33.8594106,-84.3059394,929.8,False,https://ambientweather.net/dashboard/e315ec87efd1ca4c3e7129acda41c086,13089,DeKalb
+65fb74fa8e6ae11fb54f47f7,08:3A:8D:DE:CD:44,KGAATLAN326,33.8600039,-84.3056106,913.8,False,https://ambientweather.net/dashboard/ec6aacc5343c0c16d800ed9e12b58bde,13089,DeKalb
+64ac6e43f2256cae0446d0e5,A4:CF:12:A0:32:E5,Wayland Weather One,33.8597429,-84.3216419,893.0,False,https://ambientweather.net/dashboard/6be7029350d825c1d7c12450ec09126d,13089,DeKalb
+69becdb56dd78145e89dea83,10:20:BA:C5:0E:70,FourPines,33.8596,-84.3242,895.0,False,https://ambientweather.net/dashboard/6e62e0fb29b7d6da6ef2496601711d5b,13089,DeKalb
+62c1f5e0ff38ce0001e8c976,F4:CF:A2:7A:FD:9A,FourPines,33.8595937,-84.3240667,892.7,False,https://ambientweather.net/dashboard/1d24136196d0f609890b47024b089363,13089,DeKalb
+67f0b16c824bd322c5462d3b,EC:64:C9:EF:E8:9B,AWShome,33.8455,-84.3337,891.4,False,https://ambientweather.net/dashboard/37048f99fbba790f69d54453b20b924b,13089,DeKalb
+69a3219cbe22ab59265caa16,2C:F4:32:7E:2A:B2,Julia,33.8525,-84.2797,912.7,False,https://ambientweather.net/dashboard/bce9c0a3f4690bcb1f7b7eee99304a8e,13089,DeKalb
+5b15ceecba10f600046b1817,B4:E6:2D:06:53:EE,My Weather Station,33.8449459,-84.27978689999999,987.4,False,https://ambientweather.net/dashboard/6fce8dae57c98f49257cb47b1f338f0e,13089,DeKalb
+5e8d5c9a027bd264a7090400,B8:D8:12:60:42:B3,KGATUCKE23,33.8529526,-84.2267887,1080.4,False,https://ambientweather.net/dashboard/86ab8bd694817d42b15c4bba9348e730,13089,DeKalb
+62c0647e37935f00018aa3b1,34:00:8A:E5:0C:7C,Tucker Wx Station,33.8545479,-84.2171424,1125.2,False,https://ambientweather.net/dashboard/427632734a58cde457ab83e60a59d4e3,13089,DeKalb
+62efcc3ebaba820001df3a5d,C4:5B:BE:5D:F3:15,Weather Station: Shoeless,33.8545479,-84.2171424,1125.2,False,https://ambientweather.net/dashboard/d876d61f6f73c9c71136741be720c1a1,13089,DeKalb
+5c2c4fbec4eac477f09b79d1,84:F3:EB:9D:32:F8,Christian's Weather Station,33.8564055,-84.2403796,1052.9,False,https://ambientweather.net/dashboard/e5077aaecc30afd0ee6e71872cc2fb79,13089,DeKalb
+6651fecb54b5ff6eeeada956,48:55:19:C2:75:A2,Cumberland Forest,33.8563392,-84.255813,977.3,False,https://ambientweather.net/dashboard/5262cb9a03275a742e5bf57f676ff3fc,13089,DeKalb
+609bfe4c0d6bb900010774dd,24:C8:6E:0D:7D:09,My Atlas Weather,33.8545083,-84.25547449999999,971.1,False,https://ambientweather.net/dashboard/6a997532b4569b96d2e1e4e8c09ba456,13089,DeKalb
+64c53aaf3b7a35e48cce21f8,BC:FF:4D:81:BE:27,AK Weatherstation,33.8353403,-84.2677684,1006.4,False,https://ambientweather.net/dashboard/0a0ae792c22745fc4359e302afbdba98,13089,DeKalb
+5ee50c4c0197d9000163bb8b,F4:CF:A2:79:ED:17,Andy's Weather Station,33.804995,-84.2633946,974.2,False,https://ambientweather.net/dashboard/2246c747bddcb423f3ae00fa6512b463,13089,DeKalb
+63610c3685c9e6000139b2a6,C4:5B:BE:6E:6E:D3,Rockbridge3200,33.7819108,-84.25886899999999,1048.6,False,https://ambientweather.net/dashboard/fd5bcdb6db6d810a1ef8efa8440c0154,13089,DeKalb
+686be8c13d85ea6570236ba8,48:E7:29:55:33:BB,Wxstation ,33.7819,-84.263,1063.6,False,https://ambientweather.net/dashboard/b1ec992b59c372d86fe1e2fe132b3d70,13089,DeKalb
+688e58d82990cb961fa47ce7,48:E7:20:7C:3D:32,mwx,33.7815,-84.2627,1064.5,False,https://ambientweather.net/dashboard/354c2d04709e9792e84f3ac041872e07,13089,DeKalb
+62bdd7b7657b320001d0f5f3,C4:5B:BE:5C:F4:E8,My Weather Station,33.7866661,-84.18618520000001,900.4,False,https://ambientweather.net/dashboard/6e671b8da066e90651544abe8a3ca56c,13089,DeKalb
+615dd215fb89c0000198fe58,00:0E:C6:00:2D:EE,Top of the Mtn - Stone Mountain Park,33.80636601041048,-84.14456026159974,1636.9,False,https://ambientweather.net/dashboard/cdf11e348f58346ba02b6e55cb65736d,13089,DeKalb
+62bdd81870ecb50001d32f1b,CE:5B:BE:5C:F4:E8,My Weather Station,33.8060670429736,-84.17554219462892,1028.8,False,https://ambientweather.net/dashboard/238884095f49552988e0b2a8826492b7,13089,DeKalb
+678d6cd1b306d4457d169cf9,E0:98:06:A3:33:F7,Riders house ,33.831,-84.1537,911.9,False,https://ambientweather.net/dashboard/97f62f37759633b80c53d55c6193923d,13089,DeKalb
+617db54bf5031800011ee2fb,00:0E:C6:30:20:0D,Memorial Hall - Stone Mountain Park,33.81183542988231,-84.14282649042968,971.8,False,https://ambientweather.net/dashboard/d4446030e96e6bb8637ea15630d40d82,13089,DeKalb
+61e0f771582c1900012d4e2d,E8:68:E7:87:69:F8,Weather Station,33.7914625,-84.1348202,893.5,False,https://ambientweather.net/dashboard/0df2e618151bb0a3df820f7c0a08355d,13089,DeKalb
+69640c86070d05cd887e240a,F8:B3:B7:80:F6:C2,Is it raining?,33.8817,-84.283,996.1,False,https://ambientweather.net/dashboard/157da09bcfe4b8f595d7995a95174700,13089,DeKalb
+63fbc98b451fca0001006bb7,30:83:98:A6:F8:D2,Appling Heights,33.8733014,-84.28165829999999,931.4,False,https://ambientweather.net/dashboard/281d6638fe7f66666f6e803c6743c3f4,13089,DeKalb
+63f3acfa7002f5168cfcfc3c,00:C0:33:14:F6:AF,douglas30319,33.86201,-84.318025,2975.7,False,https://ambientweather.net/dashboard/b6d82c1ae3600902adb802bacc9d6f82,13089,DeKalb
+5c22b69edefde178023c3d16,84:F3:EB:9C:92:17,My Weather Station,33.87309459999999,-84.33842899999999,933.4,False,https://ambientweather.net/dashboard/0ae0abc29ac4dad5a89b844444ea684c,13089,DeKalb
+640e0c0827f0a9000150eaae,FC:F5:C4:98:70:E3,Brookhaven Bulldawg,33.8778316,-84.3156551,956.3,False,https://ambientweather.net/dashboard/fc48e912bc7d09b426a9f8192e2526ec,13089,DeKalb
+627d747c33133600019e8dcd,C4:5B:BE:5D:9B:B8,Harts Ridge Weather Network,33.903,-84.3251,955.3,False,https://ambientweather.net/dashboard/fde456c0a32720578b026265934a8a5d,13089,DeKalb
+62d8b58f0e3e550001fb8fd6,98:CD:AC:23:03:B6,Home,33.896775,-84.34366759999999,873.2,False,https://ambientweather.net/dashboard/b173cb1af2eae89ee17bec4f2c0d7e66,13089,DeKalb
+5ef3f2400f9e51000129b8a2,F4:CF:A2:7A:F8:85,My Weather Station,33.8986577,-84.346831,884.2,False,https://ambientweather.net/dashboard/41960ad8b07b7efbaa262116a01abebb,13089,DeKalb
+619416ffa6871f0001eb2e54,00:0E:C6:30:1F:91,High Street Station,33.9312338,-84.33952870000002,1009.7,False,https://ambientweather.net/dashboard/71c286faa7bb9167aef4ef975ef0fce3,13089,DeKalb
+6442a45066d6c544d15f605b,30:83:98:A6:94:34,SHG Dunwoody,33.9258268,-84.3073778,973.9,False,https://ambientweather.net/dashboard/d2704a9623ee169c9c4f2898b196cec5,13089,DeKalb
+5dae03ff03c6e101386e054a,B4:E6:2D:72:E4:BA,My Weather Station,33.90978499999999,-84.30242399999997,997.4,False,https://ambientweather.net/dashboard/b1443305f1865a6edaa47e60abcc613c,13089,DeKalb
+612b783c4a63a3000125e76d,E8:DB:84:99:AD:39,Weather1,33.9022695435102,-84.30768131933668,1008.0,False,https://ambientweather.net/dashboard/b98574bd6550e842a667285d6387edbe,13089,DeKalb
+5f96e46a72ba1d0001e3b48c,48:3F:DA:56:72:5C,Mike's WS-2902C,33.9341572,-84.2901301,1027.4,False,https://ambientweather.net/dashboard/f14029b70c4b76ff2933ac1558d619a4,13089,DeKalb
+61edb1a10737850001e16494,E8:DB:84:99:89:11,Lake_Erin_Tucker,33.8636493,-84.2260065,1032.9,False,https://ambientweather.net/dashboard/80714a37c42c7218e6b481b27917e9bd,13089,DeKalb
+5e8c1bbb027bd264a70903bd,2C:F4:32:7E:2C:AB,Oswood Weather,33.8658873,-84.20099259999999,1046.0,False,https://ambientweather.net/dashboard/ec8351be94a80500c6d54d5c70463ec0,13089,DeKalb
+60dbe0485b7e0e000188365b,F4:CF:A2:E2:B4:5A,Northcrest,33.8933105,-84.2373057,992.5,False,https://ambientweather.net/dashboard/e0fd1d2d017a76cb3d44ef6586e32646,13089,DeKalb
+5febce11f5ff15000181fbeb,D8:F1:5B:14:44:48,Kim Ct Weather,33.8919983,-84.2437746,964.3,False,https://ambientweather.net/dashboard/812f58e4854833cb4f26d9e2874731f9,13089,DeKalb
+5cba46e628d853451c0f06bf,80:7D:3A:7C:1F:B8,Smokeman,33.88264931067205,-84.23359375218428,1045.6,False,https://ambientweather.net/dashboard/b0e470cc645558c849ea5989342113b3,13089,DeKalb
+5efe8a695b801d000184b2f9,8C:AA:B5:C6:9C:83,Octavia,33.879965,-84.23167099999999,1057.8,False,https://ambientweather.net/dashboard/20cd4027ce0fee0d306c86f7fa763c12,13089,DeKalb
+5f2830fec937090001e2c9a3,98:F4:AB:F8:8F:8A,Rich’s weather station ,33.86706136527175,-84.24439403420416,951.8,False,https://ambientweather.net/dashboard/0352e578b9903330bc9f4591894b2691,13089,DeKalb
+660dedfb2aac852e19fee50c,C8:C9:A3:26:44:C4,The Regency Estate at Midvale,33.86197753202232,-84.24321104969823,1029.2,False,https://ambientweather.net/dashboard/4dce9d79e817f6428a89a79f4b8bcf4f,13089,DeKalb
+62f4633b0d7a880001f24c6c,C4:5B:BE:5C:91:9D,Shenandoah Henderson Hills - Dekalb,33.86254501633719,-84.26092206209755,972.1,False,https://ambientweather.net/dashboard/cce0042b92e001b6ebd168521e50c603,13089,DeKalb
+6691b15edf5884208bc3ab3b,40:91:51:59:69:77,Whittington Weather Station,33.8632334,-84.1943314,1066.8,False,https://ambientweather.net/dashboard/d95bd45f3be8aeaa0c1efb591e62575c,13089,DeKalb
+5f8b5faeaf433f000170d2b1,48:3F:DA:55:8B:7C,LillyWeatherStation,33.9457913,-84.28238329999999,983.8,False,https://ambientweather.net/dashboard/44c7b00b0b6670b3b20c7a4894b2c4bc,13089,DeKalb
+637805f3e5ccbe0001b8dbab,C4:5B:BE:6E:48:00,My Weather Station,33.9417867,-84.29689429999999,994.5,False,https://ambientweather.net/dashboard/e3c0742dfecf1353a0485c8582835677,13089,DeKalb
+649f7dc0c82e99884da1868d,81:69:82:01:88:92,Rob Weathe,33.9614592,-84.30970099999999,1040.3,False,https://ambientweather.net/dashboard/79a488e210c8efac601293069601591c,13089,DeKalb
+5c6b2b4dbab48a36c9e89e24,84:F3:EB:9C:95:7F,5219 Meadowcreek,33.9529742,-84.32858739999999,1070.3,False,https://ambientweather.net/dashboard/7f997c623dd36f071a2a0ac8e9e8fc0e,13089,DeKalb
+67a00bae0481ea2972dc8af4,48:E7:29:69:DB:E1,Meadowcreek WS5000,33.953,-84.3286,1071.0,False,https://ambientweather.net/dashboard/62b38adf416dece9d5662af6f0ab763f,13089,DeKalb
+62cafe0f0b233000019b5764,C8:2B:96:28:00:62,FalkenPool,33.9462125,-84.3346473,1129.0,False,https://ambientweather.net/dashboard/19e512ea2552c13719df5b57a55001b0,13089,DeKalb
+6567c89c155ec7a9bc942ae2,E8:D8:84:99:AF:5E,BT Weather Station,33.9462125,-84.3346473,1129.0,False,https://ambientweather.net/dashboard/f93492c97c3b1ca7677d359cc41f244f,13089,DeKalb
+615a673ce1889f00017579a0,E8:DB:84:E6:37:AE,A Chance of Meatballs,33.8221929,-84.7207506,956.2,False,https://ambientweather.net/dashboard/d7963684c9ce9e4146d7d41bd06a2f12,13067,Cobb
+5eb7946828210e0001fe6434,24:7D:4D:A2:D7:01,Pool,33.8417064,-84.6322156,906.7,False,https://ambientweather.net/dashboard/3927d7463e872396660054a29645f515,13067,Cobb
+5f9342af2820890001a62695,48:3F:DA:55:8B:64,Justice Station,33.8438658,-84.6666151,972.5,False,https://ambientweather.net/dashboard/7d4bdb70f61e6163c899aee6899b1af8,13067,Cobb
+68abc132f50d0f25f22cd1c1,F8:B3:B7:85:F2:BB,King Springs,33.8563,-84.5308,941.9,False,https://ambientweather.net/dashboard/65ef12df33994d1c67f434938e4704c4,13067,Cobb
+64150569454dee0001673cde,30:83:98:A7:0E:F5,Garden Weather Station,33.8594329,-84.53825259999999,998.3,False,https://ambientweather.net/dashboard/dee8f6732d696658644e82ee25f1f22b,13067,Cobb
+694eaa6f4afdaf002bf82731,F8:B3:B7:81:B0:5C,Smyrna 102,33.8578,-84.5503,1043.1,False,https://ambientweather.net/dashboard/bdd88e014535079d86db434cf50302e2,13067,Cobb
+60203dc97a318d0001a92dfc,40:F5:20:39:E0:41,MBGE,33.8378838,-84.5960987,962.5,False,https://ambientweather.net/dashboard/221d1e8f7a9f98910a4ab89d22b98fa9,13067,Cobb
+658ca5de9a3dd55cbe3e4866,C8:C9:A3:10:2F:5E,Ambient,33.8384531,-84.5702249,1027.6,False,https://ambientweather.net/dashboard/b81a6a0adfc12db8b3bc051023c2c521,13067,Cobb
+653d3f73d8ea9779d9bd1051,24:D7:EB:DA:E0:1B,MoeBros,33.8113341,-84.53215089999999,921.4,False,https://ambientweather.net/dashboard/8be10049d842c133f74f4c8ff29b7488,13067,Cobb
+6313640535ab0000012886c4,E8:DB:84:E3:C2:00,ThatSeminarianKat,33.84816592700188,-84.55598108198608,964.1,False,https://ambientweather.net/dashboard/464e643d9467d232b020e96550339145,13067,Cobb
+6988e7513ef542a54f683f20,9C:13:9E:6C:3C:58,TurnerWeather,33.8493,-84.5432,986.2,False,https://ambientweather.net/dashboard/686570fd175b396c037c20a9941e93dc,13067,Cobb
+631beff1e4c119000117811e,C4:5B:BE:5D:0E:45,SmyrnaCane1,33.8508427,-84.5401157,998.3,False,https://ambientweather.net/dashboard/c66038efb13feb21d269842ab9fa108d,13067,Cobb
+6070b2c33f6f480001cd1401,48:3F:DA:89:43:C0,My Weather Station,33.8517197,-84.5260485,962.8,False,https://ambientweather.net/dashboard/b57216446268db1be2411853c58de7d3,13067,Cobb
+5c69d06ebab48a36c9e89dad,80:7D:3A:7C:1C:2C,My Weather Station’s ,33.842459253278115,-84.50618911953207,1005.9,False,https://ambientweather.net/dashboard/faa7c901b13ff7b6212a7dc217c3a17d,13067,Cobb
+64bf1250da34377caba69d60,34:94:54:93:1F:35,Garden,33.8450278,-84.4948234,981.0,False,https://ambientweather.net/dashboard/94105c1db1427ab9375db505695aa654,13067,Cobb
+61e9628ed02c81000109c762,98:CD:AC:22:C4:02,Harbormist Weather Station,33.924066,-84.7090849,1105.3,False,https://ambientweather.net/dashboard/b22345455fb278e6fe4f320b073a1bee,13067,Cobb
+5b45518e680da600044797f3,B4:E6:2D:07:27:FB,VMCDAY,33.9221123,-84.70810499999999,1079.5,False,https://ambientweather.net/dashboard/57fbe10149b6a7706ccd3c99693181fe,13067,Cobb
+5ee975cf54a63a0001f6021b,EC:FA:BC:72:34:E5,StoneMill Creek,33.91761829850791,-84.7186059130835,1004.1,False,https://ambientweather.net/dashboard/baac1410f3423a293464c6cd7579b49e,13067,Cobb
+676ef54ce10c3387d3d448d6,CC:8D:A2:75:45:3C,Dazza,33.9293,-84.6847,1013.8,False,https://ambientweather.net/dashboard/019d90d74ba7fe4bb1ca9aafeb09ef14,13067,Cobb
+676f21950b0593240d2f05fd,CC:4D:A2:75:45:3C,Home,33.9293,-84.6847,1013.8,False,https://ambientweather.net/dashboard/e400a93f7c0a0abab814453d20115d83,13067,Cobb
+621b0fb0350da60001ef3dd2,34:00:8A:E2:A2:31,Buckets,33.8639079,-84.6876462,947.7,False,https://ambientweather.net/dashboard/fd26a5a694426b65ebc3f0a477e9908d,13067,Cobb
+684b6a04a995cedca79a1a51,E8:D8:84:F3:D8:F6,Wingnut weather station,33.9245,-84.6001,977.0,False,https://ambientweather.net/dashboard/6d54ba9747bf0230bbfdbcbc70dbff70,13067,Cobb
+659efce4291871f3b8cee904,30:83:98:A6:B0:E5,Copper’s House,33.8822455,-84.6688348,937.3,False,https://ambientweather.net/dashboard/9b483d81514afabfa283ddf64daddb91,13067,Cobb
+60671feff8561d0001e116b8,BC:DD:C2:AF:21:4D,TappMS,33.875832428199466,-84.66797511409649,963.5,False,https://ambientweather.net/dashboard/6010a0fb6f3a63e505623110f7f380bf,13067,Cobb
+69691a1d9d0a9fc39a13706c,8C:4F:00:4F:F3:D5,Gonzo58,33.872,-84.6518,947.1,False,https://ambientweather.net/dashboard/70c65cc6cd521ab3ae62d085f97e5af9,13067,Cobb
+696ced050bded4d79df309cc,8C:4F:00:4F:3F:D3,Gonzo58,33.8721,-84.6517,,False,https://ambientweather.net/dashboard/0f6baa1115292b0d86716a4eb1fffd32,13067,Cobb
+696cee20b49fa8d7d6275f97,8C:4F:00:4F:F3:D3,Gonzo58,33.8721,-84.6517,947.6,False,https://ambientweather.net/dashboard/5daba34affad0e9533c54f353f37ef5b,13067,Cobb
+699635117f4bf705708defc9,F8:B3:B7:83:0E:FB,Mitch's weather,33.8735,-84.6312,1011.4,False,https://ambientweather.net/dashboard/27c6d59ca34bf2f67dcd1c3a96d1309f,13067,Cobb
+69dc731291375eedadb5219f,D4:8C:49:30:35:A5,Hascall Court,33.9173,-84.6132,1043.6,False,https://ambientweather.net/dashboard/2193272dc00160083467fc2040e49982,13067,Cobb
+5dac6cc003c6e101386e04f2,A4:CF:12:A0:33:4C,Lorings Square Weather,33.92074,-84.61782800000003,965.8,False,https://ambientweather.net/dashboard/ba6f117ef39fe6dbf1f357a5874103a1,13067,Cobb
+62e7248debd61400018ffc9a,98:CD:AC:22:C6:32,Lima Bean Station,33.93574119629573,-84.61035086406936,1111.2,False,https://ambientweather.net/dashboard/22a50b4b2ae6bbe5ea91c60d037f6978,13067,Cobb
+6241f2e53d379700018ffb49,C4:5B:BE:5D:7E:EC,Sunny,33.93910839999999,-84.59215730000001,1058.8,False,https://ambientweather.net/dashboard/341679c1b629e1be8ef3fac66315e9a3,13067,Cobb
+63b06b8adfc1d00001b64500,F8:DB:84:99:C0:29,Marietta Township WX,33.9341626,-84.562653,1170.3,False,https://ambientweather.net/dashboard/c19143430dad6937f2a83237b0dab4c2,13067,Cobb
+5f2c14e874428c000159748b,FC:F5:C4:98:57:2D,Pearson Middle School,33.9155912,-84.5459614,1113.5,False,https://ambientweather.net/dashboard/b75285945ff40e41d0077b10aff9254d,13067,Cobb
+64bc28755409dff70181e695,58:CF:79:E0:69:58,Matt’s Weather Station,33.87408643850513,-84.525081079801,1060.5,False,https://ambientweather.net/dashboard/9a830a5c418fd4e702b795588a0c18e9,13067,Cobb
+652bf86b0c6647c2cdfca838,24:D7:EB:CF:2D:AC,Michael’s WX Station,33.8631113,-84.54378040000002,1032.0,False,https://ambientweather.net/dashboard/d661d319f20b09d83a9be919bc50e1af,13067,Cobb
+62a0d4894a554f0001f5d9e4,24:C8:6E:0D:FF:43,ChaseMe,33.8819444,-84.5746448,1069.7,False,https://ambientweather.net/dashboard/ee9ad3c16c1f74539d03e206540fa4f6,13067,Cobb
+6990d8af543b7de94bc1d5e9,4C:EB:D6:20:5B:EE,Weather3,33.875,-84.5859,,False,https://ambientweather.net/dashboard/8154f26feed7d3e56e09df1bc846b596,13067,Cobb
+65116ab41626b2ba7204aa4b,34:94:54:8C:13:92,1373 Amy,33.868621773283,-84.59451899094832,1102.0,False,https://ambientweather.net/dashboard/1834a8c9eab3986109198192a3a3956c,13067,Cobb
+5eb4de1b15c77a000cf1de2f,98:F4:AB:F8:90:52,3650 In the Bluffs,33.88807450000001,-84.4513807,960.8,False,https://ambientweather.net/dashboard/42896ea778af0ae40c0deb05b4afc666,13067,Cobb
+62290e539383e3000123b71c,C4:5B:BE:6E:79:DE,Cumberland,33.888965969694084,-84.44947309241421,949.6,False,https://ambientweather.net/dashboard/ba026a0f83d80809bdd8cf850f8e9308,13067,Cobb
+639a035fa6324100017b80ab,34:AB:95:97:97:83,Project ATM,33.891841,-84.4662404,1048.9,False,https://ambientweather.net/dashboard/03dae406c7563e629dc42b733b8de043,13067,Cobb
+69c12423b5626cb30f71e4fc,20:43:A8:4C:4B:BB,LAA Weather Hub,33.8656,-84.4814,1029.6,False,https://ambientweather.net/dashboard/46a44d4dca02eedb71fb152e3a92ee94,13067,Cobb
+5ff23c579bc82f000129d09a,34:00:8A:E2:9E:01,Webb PWS,33.9392137,-84.4808139,999.1,False,https://ambientweather.net/dashboard/fb97ae71e3c553f4a2952437cc185b58,13067,Cobb
+5e3f0de39f8cca64cc9a4063,B4:E6:2D:07:39:97,My Weather Station,33.92205510000001,-84.4599655,1022.1,False,https://ambientweather.net/dashboard/d23839b891337132f2d31935f6281e7b,13067,Cobb
+694d593b4466be1364b34ae6,D4:8C:49:30:34:A9,ATs WX hub,33.9291,-84.4698,1035.7,False,https://ambientweather.net/dashboard/666eabb9de51f0039a616725334b7a9a,13067,Cobb
+5bd380e870cba7777d3d51f6,18:93:D7:3A:24:93,Belmont,33.9049771,-84.4711126,909.5,False,https://ambientweather.net/dashboard/7649b7022065a9849da28514a9f67b14,13067,Cobb
+68895ef1bebc9dd96a244190,C8:C9:A3:16:C0:42,WeatherViewNow,33.9036,-84.4566,1011.8,False,https://ambientweather.net/dashboard/8e4f428adfdd8ba48f3a79446597ee5d,13067,Cobb
+68420e252edfc429884fde01,C8:C9:A3:16:BB:6F,Brookstone 1,33.9987,-84.718,1011.2,False,https://ambientweather.net/dashboard/ff2449ad12d57e7743f27a3646ec8b0b,13067,Cobb
+680f8b8e9c3bfa094641344c,48:E7:29:7C:07:9E,Swick WS-2000,33.9874,-84.7285,990.5,False,https://ambientweather.net/dashboard/d88f81d14c11e51ff3621c60614f9b2a,13067,Cobb
+608496dcadb2590001fbe746,48:3F:DA:54:5E:A6,Brookstone 2,33.97768626155196,-84.72198706460858,1094.8,False,https://ambientweather.net/dashboard/09df7fbffc3fd67d9683e9934537f10f,13067,Cobb
+60d6842614dc0400014f8ce8,E8:DB:84:99:8F:64,My Weather Station,33.989784,-84.69164409999999,953.4,False,https://ambientweather.net/dashboard/59f57ef5471fdebc95008b1d30daf08f,13067,Cobb
+6367cdece959ef00015c7175,C4:5B:BE:FA:13:B8,Weather Station,33.9696916,-84.7267198,1065.7,False,https://ambientweather.net/dashboard/9d3ec45850481b3e68f7701ac8bc27b8,13067,Cobb
+5c01705a8415d1778eb60ef2,B4:E6:2D:07:34:40,Sunshine,33.9696916,-84.7267198,1065.7,False,https://ambientweather.net/dashboard/4efc29c0fc5b520833566f6859140308,13067,Cobb
+5f66501530503400018e4cdd,8C:AA:B5:C7:8F:F0,MyStation,33.9585057,-84.7352904,1010.2,False,https://ambientweather.net/dashboard/638a16f0478645dc0e55a74baccbe6fa,13067,Cobb
+6972ac16118791819b416718,10:20:BA:C2:B8:E0,Jones Weather,33.967,-84.7358,995.5,False,https://ambientweather.net/dashboard/6bc603ebbf9476a11c1bb38bdd884343,13067,Cobb
+696bebce352a70111b9b78e5,FC:F5:C4:BB:0E:9E,Megadoppler6000,33.942,-84.6934,1139.9,False,https://ambientweather.net/dashboard/48aba85c239f51088f60576e5f24f7b7,13067,Cobb
+67b27fd5672256e8865c8e6f,EC:64:C9:EF:F6:B9,Lakeside,33.9998,-84.6837,967.7,False,https://ambientweather.net/dashboard/d3c645cee1dc7b03db8faa1ecc2921c8,13067,Cobb
+65a58bc3dc432a29f2415096,48:E7:29:55:32:25,Ceilidh,33.9461986,-84.6616844,1044.3,False,https://ambientweather.net/dashboard/fb45f77ef7476efecc4d2b2308f355cf,13067,Cobb
+5ed0039f24dcd50001973353,EC:FA:BC:71:A2:E4,Hord House,33.9439449,-84.6178359,967.7,False,https://ambientweather.net/dashboard/0fefae018d742eaf58c5582e64383864,13067,Cobb
+63aa2fc0dc6a29000139087a,C4:5B:BE:FA:31:3C,Wacky Weather,33.956785,-84.60952139999999,1007.5,False,https://ambientweather.net/dashboard/ad8e4dbbd52edf0fa4f5fb8f46a2ea53,13067,Cobb
+5f6610c526bbb60001a11d1b,F4:CF:A2:64:AB:1E,WarrenWeather,33.95484739573441,-84.61231653423141,994.3,False,https://ambientweather.net/dashboard/b82e194cee998376fd1d4e500ff33a86,13067,Cobb
+6589b8a72f4dc95ba07ea08a,48:3F:DA:88:67:21,My Weather Station,33.951564554249316,-84.62541428691769,1092.2,False,https://ambientweather.net/dashboard/cd8ce96b105a1a02c64d4264c4d74291,13067,Cobb
+6139364d3128a100015d33db,48:3F:DA:88:94:8B,Calvary Lakes Weather Station,33.9579774,-84.6129567,991.7,False,https://ambientweather.net/dashboard/f4a0190f3da8e135da770c0baa4be23e,13067,Cobb
+65b1317c822299831867a01f,58:CF:79:DC:57:7C,WMs WX,33.96253358487499,-84.64856074654311,1077.6,False,https://ambientweather.net/dashboard/1d92d887e617f200de12ac5ac45710ff,13067,Cobb
+5ff60004a704ed000178823e,08:D8:33:44:5C:8D,West Hampton,33.963,-84.6484,1061.9,False,https://ambientweather.net/dashboard/d6bcaf23800c9d4149e484c445671b2e,13067,Cobb
+64d001080dc938a66e73b2d6,34:00:8A:E2:42:99,Rockpoint Weather Station,33.9884953,-84.6722462,1038.7,False,https://ambientweather.net/dashboard/c869ce612f9fb9ed92f2c63e905e5a50,13067,Cobb
+659b2f013e09068f9e20830c,C8:C9:A3:16:9F:A9,Hickory Kasa,33.9902,-84.6737,970.9,False,https://ambientweather.net/dashboard/637a5ff24d13691550931dc0f0edb0fd,13067,Cobb
+69dc1a72594f4e7ad7351ac9,D4:8C:49:30:35:17,Stone Lakes,33.9759,-84.6666,1035.8,False,https://ambientweather.net/dashboard/225bc5ff75455c5f1c4dce81b4c6c6fd,13067,Cobb
+63b3558c07988a0001614f7d,30:83:98:A6:86:82,MTRC,34.0056667,-84.6497709,1117.0,False,https://ambientweather.net/dashboard/67541ca9d2fd8d958468ff3c1918326e,13067,Cobb
+61d7601993f7ff0001f805b1,C4:5B:BE:5D:1A:A2,Connelly Weather Station,34.0101909,-84.64897320000001,1057.3,False,https://ambientweather.net/dashboard/a465ec5c3921b6cfab3c21a266a36a81,13067,Cobb
+60fd9ff625892900016381b4,F8:DB:84:E6:4A:F2,Browns WS_01,34.0041089,-84.6583745,986.7,False,https://ambientweather.net/dashboard/9a5d82e1f9c11c5981284b9a49946f4a,13067,Cobb
+6096bd9e4ac8370001f5c78e,F4:CF:A2:E2:B8:2B,3779,34.0040962,-84.6629935,1016.6,False,https://ambientweather.net/dashboard/b2b2262739cb79da93d9ab8a1d544a6b,13067,Cobb
+695892cd8fbc513388a7dc1b,C4:5B:BE:FA:35:04,Shado Weather2,34.0007,-84.6791,995.8,False,https://ambientweather.net/dashboard/79ebe73fe003fc3bd47ca66f3fc7b5a8,13067,Cobb
+5a480bc2535967000d6b621c,2C:3A:E8:3C:F8:5C,Kennesaw,34.01517870890534,-84.64799790204266,1030.4,False,https://ambientweather.net/dashboard/2d95bee0fc8ff7d391f1824a4b10102d,13067,Cobb
+5d82a30c0defc1509e73f83d,3C:71:BF:3E:A8:16,Princeton Ridge Kennestone,34.0146838,-84.63503650000001,1060.2,False,https://ambientweather.net/dashboard/0d5253062c510154cc1e5e9f66312b6f,13067,Cobb
+64d691f72671d03951a8890b,58:CF:79:44:DC:F8,My weather station,33.9463354,-84.5392052,1135.9,False,https://ambientweather.net/dashboard/45cda8c5c22d804d2e5602232b8be3d5,13067,Cobb
+60d47490d7e2a000012e2bba,E8:DB:84:9B:4A:42,Bennie Williams Weather Station,33.944521987990875,-84.54631108981032,1162.8,False,https://ambientweather.net/dashboard/0912b780dc94a99379b63fbcb7b2d9ec,13067,Cobb
+5fe67baead6d8200017504a6,40:F5:20:3A:A3:F5,Somerset457,33.95260200000001,-84.5499327,1127.1,False,https://ambientweather.net/dashboard/eb57b797cae19ef854d71050ea9896b7,13067,Cobb
+5f1e008070738f00018a1f50,8C:AA:B5:C7:90:B0,Weather junkie,33.9776897,-84.5257209,1057.0,False,https://ambientweather.net/dashboard/35a137ff10deec7cd9f8e212a18b6b95,13067,Cobb
+64b0424ede155d634ef13810,48:55:19:C2:D7:28,My Weather Station,33.973,-84.5671,1140.2,False,https://ambientweather.net/dashboard/ec309807639d1a2d867b3f1147f78c35,13067,Cobb
+61f9c836a8925a0001f22694,C4:5B:BE:6E:19:4F,Mike’s Weather,33.97298052838834,-84.56716561670993,1141.0,False,https://ambientweather.net/dashboard/c3a880d7a126e5f0bb49feb8eb9c4414,13067,Cobb
+688d179ea66941c5b9da15dd,00:0E:C6:20:0D:D9,Ambient weather router,33.9564,-84.568,1097.8,False,https://ambientweather.net/dashboard/f049eabd118933313074519f60f10904,13067,Cobb
+5dac6402cb5044000a6160a3,80:7D:3A:7C:1D:03,WhitlockHeightsPWS,33.9447068,-84.5668965,1036.2,False,https://ambientweather.net/dashboard/1ce485cc068323608e4e018616ea4f39,13067,Cobb
+63effa785216dd0001e1b91a,C4:5B:BE:5D:FF:6B,123ABC,33.94556889627706,-84.57068843774923,1005.9,False,https://ambientweather.net/dashboard/3800fd0ac0d92fbbca60f2b7219cfcb0,13067,Cobb
+69516a516148f429e9a4b23b,F8:B3:B7:8D:E6:6E,Poplar Yards,33.9444,-84.5862,1030.6,False,https://ambientweather.net/dashboard/0ffbc1ec1bd3e92b5b875a227e76711a,13067,Cobb
+5df6b88d898bf4555e0aee91,A4:CF:12:B4:F3:C4,Valley View ,33.95782844237317,-84.4519212072447,966.6,False,https://ambientweather.net/dashboard/f13d2e9d18a40bcebd22d53e90575d84,13067,Cobb
+61eec9e776cd010001ad47b4,C4:5B:BE:6D:2A:E4,Landlocked,33.9563699,-84.4537957,985.2,False,https://ambientweather.net/dashboard/766718b89635f6ff17c477c6567d6e7d,13067,Cobb
+614b535a06775d00012c9bb5,E0:98:06:A3:57:EC,San souci,33.9606989,-84.4546569,937.4,False,https://ambientweather.net/dashboard/4afbb74da8a46e5e13c663ccf83d5311,13067,Cobb
+67ab78d7df039b3405f8f99f,48:E7:29:7C:9F:A2,Living Room Station,33.9441,-84.462,1015.9,False,https://ambientweather.net/dashboard/1cbde307d2b8978cb5bf637d4345b447,13067,Cobb
+62548404b799db0001a3217f,98:CD:AC:23:02:8B,Marietta Georgia USA,33.9447888,-84.4739068,1003.4,False,https://ambientweather.net/dashboard/ccb638a3a6563fdeff4dfe39a4a3ff41,13067,Cobb
+66883532e209047295b714d2,98:CD:AC:22:08:30,clay,33.9478054,-84.475813,1006.8,False,https://ambientweather.net/dashboard/2d4d890c77e2fff38fdc8fbe25571939,13067,Cobb
+5e31b78f10a07164a9e04d8c,BC:DD:C2:AF:20:3F,BC:DD:C2:AF:20:3F,33.94956860000001,-84.4744602,979.0,False,https://ambientweather.net/dashboard/88824956b3e491cfc3d7464486b71bc0,13067,Cobb
+694ea4ea389ab5e64bf49257,24:D7:EB:EB:9F:4E,Howard,33.9496,-84.4745,979.8,False,https://ambientweather.net/dashboard/93a1f114a1d7ebb91ed707cf622a8f7f,13067,Cobb
+6028228779926100016ae068,E0:98:06:A3:46:11,Ridgewater Rezy,33.9617618,-84.4457781,930.9,False,https://ambientweather.net/dashboard/0fe2f9e35a110414217fa0ed4478b487,13067,Cobb
+696eb4fb63393e6b355d5fb1,30:83:98:A7:31:E1,Lamb House,34.0114,-84.4466,1051.5,False,https://ambientweather.net/dashboard/25106b1e00a1c653202d00ebfef6a913,13067,Cobb
+61f3ea6d1ae8f700015ccd17,F4:CF:A2:7A:F6:1D,KgaMarie104,34.0158623,-84.44764420000001,1051.1,False,https://ambientweather.net/dashboard/aaf1766af6cf321c968567ceb2690391,13067,Cobb
+6972e21cbcec2108927125b3,B0:81:84:AA:91:28,Woodsfield,34.0063,-84.4522,1053.3,False,https://ambientweather.net/dashboard/86bca324c39e96fc6ee34295ad2e5743,13067,Cobb
+6981096d1ccfaabf200a472c,8C:4F:00:4F:44:17,Mt Bethel ,34.0116,-84.4751,,False,https://ambientweather.net/dashboard/54dd051e4a12e5b2fdcaf4594fcbbf48,13067,Cobb
+5eaf07385f070c0033108cbd,F4:CF:A2:CD:9A:DF,weather jammy ,33.99739449999999,-84.4775142,1087.2,False,https://ambientweather.net/dashboard/0569cd59eb4533e92d6b3da1ea7676cc,13067,Cobb
+5eaf039b36effc0001c0ed99,F4:C4:A2:CD:9A:DF,Beaver Brook Farms,33.997310015486676,-84.47759538449397,1085.5,False,https://ambientweather.net/dashboard/0d49e60cf4d42ee38c06c20bf4a087ef,13067,Cobb
+639d0b8e8935da00014579fe,98:CD:AC:22:EF:07,Canton Chase ,33.9908835,-84.46831089999999,1011.3,False,https://ambientweather.net/dashboard/982391c928bdd16abf6e13f4d2d2824e,13067,Cobb
+61f5e854409c580001ab1115,C4:5B:BE:5C:F3:44,PJ-WS-2902C,34.0147341,-84.5076557,1069.2,False,https://ambientweather.net/dashboard/7c0f5ad4533d896136a8a0e541948c12,13067,Cobb
+66cb799a35d437300af167e6,C4:5B:BE:6D:AA:D8,Weather Station,34.0198844,-84.5117321,996.8,False,https://ambientweather.net/dashboard/78b0fac6d1b743372e75ba291288613f,13067,Cobb
+69d16bee2c54d780f436011c,8C:4F:00:4F:97:B3,Wizards Weather,34.0163,-84.5139,1005.6,False,https://ambientweather.net/dashboard/1e59d0b9aa27dac306fc76f394eb397e,13067,Cobb
+684f182512a4d0b4b91382de,E4:B0:63:C5:70:F0,CBKENo,33.9954,-84.5058,1119.2,False,https://ambientweather.net/dashboard/45fae3987c320295617bf1dd33ac10a4,13067,Cobb
+61da083e565708000186323e,C4:5B:BE:6D:E4:B1,Evz,33.9901635,-84.50654949999999,1091.0,False,https://ambientweather.net/dashboard/cabefa98134f73be9e214aa60e944c2f,13067,Cobb
+696bd755c799fc6d8a8dfac2,F8:B3:B7:86:3B:B7,GustyGargoyle,33.9938,-84.5142,1132.1,False,https://ambientweather.net/dashboard/5cdfc316a284b0a7b238803619194e96,13067,Cobb
+5edc0f738efce3000186b16a,F4:CF:A2:4A:54:EC,Kelly Home Weather Station,33.9735724,-84.5083112,1200.7,False,https://ambientweather.net/dashboard/81495c0c76d37814ccf15a2acc636022,13067,Cobb
+69b2098dfa2c37848f5d72d5,F8:B3:B7:81:A8:A5,My Weather Station,33.9755,-84.4946,1139.1,False,https://ambientweather.net/dashboard/337373436cbb722ac2ad4b3b1fc2247c,13067,Cobb
+5a43d9e6ed5107000d3a30e6,C0:21:0D:1E:F9:32,Forest Weather,33.9564332,-84.4861833,975.1,False,https://ambientweather.net/dashboard/1c38df1e9e5aa94c66e6a33c0f163b12,13067,Cobb
+676ddbd51bb8814c306a09dc,48:E7:29:7C:2D:BD,My Weather Station,33.9887,-84.3957,912.3,False,https://ambientweather.net/dashboard/bcb9278c5523a9ace6a4d42b2e777e50,13067,Cobb
+6638fa69a26fd7fc511c2c27,C8:C9:A3:0E:CE:19,Nordic Trace 2,33.991041423350715,-84.40394449440417,992.6,False,https://ambientweather.net/dashboard/ba8080dbc5b2f5b01ae39c9542020a2a,13067,Cobb
+63f7d3b1d535b30001dd4704,34:00:8A:E2:2B:0A,Nancy & Scott,34.0130717,-84.42524709999999,1094.5,False,https://ambientweather.net/dashboard/d44ecfe8193c49fed635c6186583951a,13067,Cobb
+640b64e9918d0d00018ede63,34:14:B5:1E:FB:F9,Thing1313,33.99596503629064,-84.43135441153215,1068.1,False,https://ambientweather.net/dashboard/69c0213f45a8658fbdffb56cb3c10771,13067,Cobb
+645f755b2749fb545353f42a,C4:5B:BE:F9:D4:4A,Penhurst Weather,33.9863092,-84.4337188,1043.5,False,https://ambientweather.net/dashboard/0b56f4fc79d5d1395ad3667effe6c649,13067,Cobb
+60170a2d3543990001a4b4a4,E0:98:06:A3:50:30,Indian Hills Hillwood,33.968018,-84.431023,1010.9,False,https://ambientweather.net/dashboard/6adb8b09471b7153ece1d61741252535,13067,Cobb
+6a090d9a39803ef07685e61f,F0:08:01:07:08:29,Hampton Woods Pines,33.9726,-84.4239,1013.4,False,https://ambientweather.net/dashboard/2dea8eab7d1bf29ef2deb97bdea8ab5f,13067,Cobb
+648f351d9e74a7d1404e1d31,30:83:98:A6:FB:57,WeatherDawg 2,33.9737279344216,-84.40105697969285,1035.9,False,https://ambientweather.net/dashboard/1c1058797b66ca807215742f458d11da,13067,Cobb
+60fac69b97b60c000161cd0c,E8:DB:84:E6:1D:FD,MBWX1,33.9410804,-84.41665110000001,928.6,False,https://ambientweather.net/dashboard/65e5db1f8b0b611cc977210bf3bd36d7,13067,Cobb
+61cb221ce9a8ac00017adcfc,98:CD:AC:22:5E:B5,Chattahoochee Plantation,33.95172670205804,-84.42115055211487,1007.6,False,https://ambientweather.net/dashboard/56c7e8537b60696949a82085b48d9239,13067,Cobb
+696a6569702a8e01eee9ec76,F8:B3:B7:8E:D4:8C,Seminole Dr. Station,34.0629,-84.68,881.9,False,https://ambientweather.net/dashboard/9a0a0fa47916d54a7e81f74826bf1fea,13067,Cobb
+699a349330215c5759258d08,8C:4F:00:4F:E8:FC,Pagee,34.023,-84.606,1035.8,False,https://ambientweather.net/dashboard/bc1d1efc34f62532cc6d37add872e5ec,13067,Cobb
+5f4e77737a20a00001f57010,00:0E:C6:30:02:79,Allyn Dr. NW,34.02383380107033,-84.6601042338504,1001.2,False,https://ambientweather.net/dashboard/0f50eba8544e28ccf53e38889b93f49c,13067,Cobb
+5f9f7ac2073b530001ef70f2,48:3F:DA:54:C6:1E,Gresham Weather,34.0234337,-84.6154897,1087.8,False,https://ambientweather.net/dashboard/498b043b85d1d6488eb942d12152c8a5,13067,Cobb
+68fe5cbefd554ecf35787186,C4:D8:D5:0E:A6:AF,Garden,34.047,-84.6214,1032.2,False,https://ambientweather.net/dashboard/5ab6bbf6437feb06da57715d31946ef4,13067,Cobb
+67d58d51b311b6ded17825ee,EC:64:C9:F1:81:0A,Widota,34.0748,-84.6095,1045.1,False,https://ambientweather.net/dashboard/c8b2ae230da6f4e78ac41f164d03bc77,13067,Cobb
+5dcdc36765197b51f0507cc9,B4:E6:2D:07:77:8A,Sandyhook Weather Station,34.07512299999999,-84.6127318,1053.6,False,https://ambientweather.net/dashboard/b8991e6dfcb6b116e61e0c53e1ed31f1,13067,Cobb
+6123f2597bb03200011e679f,E8:DB:84:99:A6:86,Jones Weather Station,34.0451582,-84.6273504,980.3,False,https://ambientweather.net/dashboard/a3cf5c2b1282ef5217f4d0d89943d0bb,13067,Cobb
+66b759a8296b5ed392325b81,C8:C9:A3:27:A7:5D,Legacy Park-Lullwater,34.047127,-84.64158390000001,950.5,False,https://ambientweather.net/dashboard/5ac564e8c74b7a616d6cf518cc73772b,13067,Cobb
+6987a7144b8a5ada5fd03d7b,F8:B3:B7:86:41:92,Tutterow ,34.0498,-84.6516,919.4,False,https://ambientweather.net/dashboard/ac22d0bf10a109d0dd2f5012e645fcb4,13067,Cobb
+5fe6b30c2533d60001d38f56,C8:2B:96:2B:8B:C2,mNET_weather,34.0382156,-84.6647694,887.0,False,https://ambientweather.net/dashboard/1e1ed60daa03a494d185ae5b24ce42ab,13067,Cobb
+5ae75ef84329f90004568858,EC:FA:BC:80:BB:90,Jac's Weather Station,34.0389894,-84.6725894,944.2,False,https://ambientweather.net/dashboard/d1345782e82748de85bda2f4bb96675c,13067,Cobb
+5b53ce0eda86960004b1c1c5,B4:E6:2D:07:77:D5,Dallas Street,34.064354,-84.6782621,901.2,False,https://ambientweather.net/dashboard/4533f32bdf0931d1f76dc080c124c297,13067,Cobb
+62b8c7b865e3710001b6ea70,48:3F:DA:56:15:4E,WethRep_0,34.0659329,-84.6768796,912.3,False,https://ambientweather.net/dashboard/a1974c92d65df459094fa0c4ae8f1bb7,13067,Cobb
+64c0252031333c62b9642137,E8:DB:84:F2:96:18,Home Weather stn,34.0659329,-84.6768796,912.3,False,https://ambientweather.net/dashboard/07dd93e1a55e8055a475ef068a9929b8,13067,Cobb
+64660a9c14cffc8e3cc7cbbb,A0:60:32:00:05:6B,GordoCAM,34.0659329,-84.6768796,912.3,False,https://ambientweather.net/dashboard/19a0753012681ade403485ae294ad629,13067,Cobb
+682a20871c0e983af94662a2,C4:5B:BE:F9:F5:CD,ksu-weather-station,34.0617,-84.6037,1123.3,False,https://ambientweather.net/dashboard/515848f0b74070d97eda58ffe6d3977d,13067,Cobb
+6105eb83e213b50001194efa,E8:DB:84:9B:00:DF,Shaw Park,34.0260869,-84.52191169999999,996.8,False,https://ambientweather.net/dashboard/34479f72a6441917165e0e85cae49011,13067,Cobb
+62c78d4c0408630001c4e3fc,C4:5B:BE:5F:0C:19,TRAE_WS,34.0323243,-84.5461143,983.6,False,https://ambientweather.net/dashboard/1c918dc7f82b30b3769df00008c67e67,13067,Cobb
+63ac951cf1b50a0001466e0a,C4:5B:BE:F9:D2:7F,WS2000,34.0225005,-84.5998889,1016.1,False,https://ambientweather.net/dashboard/0914d483191707e0b2c15d49d38fb3fd,13067,Cobb
+6a0104fe6f40f32f4db6eaa3,80:7D:3A:7C:53:2B,Wade Green Forest,34.0753,-84.5855,,False,https://ambientweather.net/dashboard/dfa438c07d1f6f6e5d8f6f712728ca26,13067,Cobb
+67435f28cfda4597d6d9f078,40:91:51:59:A2:D0,Home,34.0579,-84.5976,1107.3,False,https://ambientweather.net/dashboard/5d06f627b3ee1c79a8db022f286a824d,13067,Cobb
+5fd623a3d39ff400015b7353,00:0E:C6:30:19:18,Home,34.0671493,-84.5960454,1116.7,False,https://ambientweather.net/dashboard/4b0872ff7924183542eba645d8ecfb3b,13067,Cobb
+63ab3148b374800001af24d1,BC:FF:4D:0F:C8:79,Chestnut Hill,34.0619444,-84.5657406,1056.3,False,https://ambientweather.net/dashboard/8345ed8a20676ab5b2f073323cb57473,13067,Cobb
+5fed0712f5ff15000181fd1b,40:F5:20:3A:AB:26,Greta Thunberg's House,34.0719981,-84.58303339999999,1129.8,False,https://ambientweather.net/dashboard/830b4383ca07f8546fa78eedb6fc9cc3,13067,Cobb
+63af18f7f9aefe0001526603,34:00:8A:E5:11:0F,My Weather Station,34.0713334,-84.5596035,1040.0,False,https://ambientweather.net/dashboard/c0df2787fab6bd3a34cd6728f62a7353,13067,Cobb
+60d398853a6925000160ec11,E0:98:06:A3:36:F4,Ron at home,34.0757315,-84.5551006,1012.8,False,https://ambientweather.net/dashboard/3e265f70b09c5114af8474a747eb8735,13067,Cobb
+66258d07fb39a5de6e1a2562,08:F9:E0:53:9E:4D,Gresham Ridge,34.0707907,-84.5463801,1027.0,False,https://ambientweather.net/dashboard/2fa2e600f661e814c0a9dcc5889a37ce,13067,Cobb
+6209716c305ba200018544b4,E8:DB:84:E7:3A:97,Kennesaw Home,34.0374628,-84.5534017,955.7,False,https://ambientweather.net/dashboard/1ca1157fddf098aa135475f53c474161,13067,Cobb
+69b88191ae1f37ceab4d266f,8C:4F:00:4F:43:CD,Noonday_Wx_Happens,34.0503,-84.5388,1043.9,False,https://ambientweather.net/dashboard/7b4a0a76c4ad5e23e31976716d37d0f4,13067,Cobb
+697ec7ac0af1498238625ceb,FC:F5:C4:BA:CF:A6,My Weather Station,34.0457,-84.5229,929.4,False,https://ambientweather.net/dashboard/0fe051b4cee4e4bb83834085f6a0d08f,13067,Cobb
+6193ae95d12ed10001d76272,32:8E:44:3B:5E:9E,FedererGOAT,34.0213491,-84.4447117,1147.1,False,https://ambientweather.net/dashboard/fd897115301ae226ab28ab4f99251616,13067,Cobb
+5b088eec4292b90004981ba1,2C:3A:E8:3D:06:44,RinkoPark,34.028123,-84.4660354,1167.1,False,https://ambientweather.net/dashboard/2d9abdb332ef0f8ba5f8fc70ddcd1b50,13067,Cobb
+5c4bc3bf62923777dd6cc19a,80:7D:3A:6F:2D:E1,Lowe Zone,34.020973,-84.4826847,1079.7,False,https://ambientweather.net/dashboard/ea69f445508a9d265491ac33ce5ec629,13067,Cobb
+61e58f4302a2a800011c8fae,E8:DB:84:E6:21:AA,LokiBulldog,34.0224191,-84.4936626,1064.4,False,https://ambientweather.net/dashboard/8e66f6b21c1e4c375b7d2711e652a37e,13067,Cobb
+63ab34929ed12100018d449e,C4:5B:BE:FA:35:B0,Home Weather Station,34.0248032,-84.5008952,1109.7,False,https://ambientweather.net/dashboard/8ecf9e85f0226058a95fb97363557d7d,13067,Cobb
+5f861a24c2ebc500016650c5,48:3F:DA:56:D5:94,Brandon ,34.0738747,-84.513088,951.0,False,https://ambientweather.net/dashboard/85217ce1e70be2b07edcf6b00ad455ba,13067,Cobb
+65abdba7c85ef42a7f7088b8,24:D7:EB:DB:19:5E,DJ Weatherman,34.0491639,-84.5091716,1030.8,False,https://ambientweather.net/dashboard/9e10bc1f6ca515a5c0777472f1aec78d,13067,Cobb
+5e7bc3dbce491a676de262a3,24:7D:4D:A3:5C:29,Morris,34.0385863,-84.487003,1066.2,False,https://ambientweather.net/dashboard/30f7276622c549d645518c4272d60f08,13067,Cobb
+5e9a27ff9dfaf5652c72710e,EC:FA:BC:4D:49:9E,Capoed-Weather,34.0397409,-84.48372409999999,1051.1,False,https://ambientweather.net/dashboard/995dc27149ec3a6fbbba3a686ce138fd,13067,Cobb
+66d227c83d0679086916fd19,48:55:19:C3:43:89,Ashmore Weatherstation,34.0608504,-84.4607351,1217.1,False,https://ambientweather.net/dashboard/f492dc9d417fc646db6433108aadcf8f,13067,Cobb
+5921e68c266e4d00b3a5f208,00:0E:C6:00:1E:0C,Windsor Oaks,34.057831,-84.47098499999998,1087.0,False,https://ambientweather.net/dashboard/1c27729f258ba832a2d1dadddaf4abce,13067,Cobb
+5e8f56c7027bd264a7090462,DC:4F:22:5A:C9:DC,My Station,34.055099630632576,-84.47943192644921,1031.8,False,https://ambientweather.net/dashboard/ab8cea6c4bf8a67fb1ba69b58b66ab52,13067,Cobb
+69fa0b0243ab9fcce8c47a48,C4:D8:D5:3B:8D:55,Parker Hollow,34.0442,-84.4589,1171.7,False,https://ambientweather.net/dashboard/b49e0ca5632c6fae13199aa4632e76b0,13067,Cobb
+69a4598332acabbb4d5b392a,34:00:8A:E5:B2:B4,WaterHorse,34.0284,-84.4534,1093.5,False,https://ambientweather.net/dashboard/558bc98e4762f2bf41dd5aa6e03d11bc,13067,Cobb
+5a05cf61acb092000c75dcd7,2C:3A:E8:26:00:28,Smiths Weather Station,34.0588312,-84.44668039999999,1146.8,False,https://ambientweather.net/dashboard/855db9ad68c6c9ea06bff6e3d69cc6bf,13067,Cobb
+5a41c6cd73f21b000d1f2a46,2C:3A:E8:3C:C9:94,House of Pork,34.0611369,-84.4466921,1148.2,False,https://ambientweather.net/dashboard/58c3ca868762c26efcd9525b0e5ed030,13067,Cobb
+5d99241fe38b7251d502d046,C4:6E:7B:44:84:53,Windsor Oaks,34.0571907,-84.45888049999996,1150.7,False,https://ambientweather.net/dashboard/0ea4709b8a7bf6e296edb568e661decf,13067,Cobb
+60216b49959746000160db25,E0:98:06:A3:36:D4,Hoogs,34.06292159879623,-84.45501523619367,1538.7,False,https://ambientweather.net/dashboard/31496ec1351f6ce2a76d9babefbec863,13067,Cobb
+6982ac8a8aa9134db34c6cc1,8C:4F:00:4F:3E:56,Township Trace,34.0694,-84.4385,1048.5,False,https://ambientweather.net/dashboard/046cffa0c1092621f2634c88771b8be7,13067,Cobb
+63a7b4d2df9a990001f74f29,E8:DB:84:9B:0E:BB,HuttoNet Weather,34.06559819306885,-84.43491773133493,1033.5,False,https://ambientweather.net/dashboard/a131ecd99909071cd8bddc91238af5e0,13067,Cobb
+6134e11ce11a6f0001616d0a,E8:DB:84:E4:CB:28,Chatsworth WS-5000,34.0597815,-84.427401,1103.8,False,https://ambientweather.net/dashboard/fe996318518803b87fe908d3b608aee3,13067,Cobb
+5e7a647cce491a676de26272,08:D8:33:93:82:D3,Rick's Weather Station,34.0580459,-84.4259446,1108.8,False,https://ambientweather.net/dashboard/45b6376c256c43092f7f54634007990c,13067,Cobb
+61fffe2fb255640001a52b4f,E8:DB:84:E6:1B:D2,WX GlenPost,34.05092475719135,-84.41782106322935,1053.2,False,https://ambientweather.net/dashboard/ac81d0f1ccffc66040ee64dbc1fbf97b,13067,Cobb
+5c2aacf2ae71e278060347a2,84:F3:EB:9D:29:C8,TropicalParadise,34.0513839,-84.4301148,1065.2,False,https://ambientweather.net/dashboard/28d7df4f99b5462a82359aa7a22482c6,13067,Cobb
+5a411aa384f9e0000d5a8236,00:0E:C6:00:2E:48,JWS Weather Station ,34.0508443,-84.4311754,1044.1,False,https://ambientweather.net/dashboard/6810968b01dbd462761d63e14860eda5,13067,Cobb
+67d5f9454e20ae772e45f63c,C8:C9:A3:27:A3:6E,Blakedale Circle,34.0538,-84.4282,1061.0,False,https://ambientweather.net/dashboard/efde3a356554b275b7085801af0ba85d,13067,Cobb
+61cb96c8c1b0230001154c37,34:00:8A:E2:A0:AE,Springmill,34.05054716934688,-84.43354842367073,1058.8,False,https://ambientweather.net/dashboard/4834821f389862640477f5dac836d677,13067,Cobb
+69fbdfb78ac1044178516112,8C:4F:00:4F:59:A7,Turnberry Station,34.0489,-84.43,1012.9,False,https://ambientweather.net/dashboard/c0493b769dac781cde8244aa2f93474d,13067,Cobb
+687a5c9c6c77c284b3ab31b8,30:83:98:A7:15:62,Donkey_Weather,34.0352,-84.4161,1076.9,False,https://ambientweather.net/dashboard/e5f7c22008cffba469c796136e3f8601,13067,Cobb
+635bb36d0af3340001b81b3f,24:7D:4D:A3:6E:47,Pool,33.85294818982892,-84.13903232327883,981.2,False,https://ambientweather.net/dashboard/b07bc8513c926bfe66a49961cc38bdb2,13135,Gwinnett
+5dc0677a978237018d09498b,B4:E6:2D:72:EC:28,My Weather Station,33.81164342941993,-84.07657162749024,831.0,False,https://ambientweather.net/dashboard/f7c508a382afb7ffc4e90e29e60db181,13135,Gwinnett
+6966d93ba029d168d0873dd8,F8:B3:B7:86:82:19,McFly,33.8153,-84.055,917.7,False,https://ambientweather.net/dashboard/a20298ed4604bf1b0772a70528807ff9,13135,Gwinnett
+69dfcc04b23065012b4c3e74,F8:B3:B7:81:D7:0F,Home,33.786,-84.0771,842.0,False,https://ambientweather.net/dashboard/2de24378fbebb4df6d1efa869ba30ca1,13135,Gwinnett
+69641c0934d1cf42dc6dbcd5,10:20:BA:C0:55:00,Kensington High,33.8473,-84.0678,944.7,False,https://ambientweather.net/dashboard/27ef1b4acbbeaebd3fde1fe401d48907,13135,Gwinnett
+65b14fc75324eadb90b056fd,C8:C9:A3:14:D9:9D,RIVERMIST,33.85939863481379,-84.06455592275391,928.9,False,https://ambientweather.net/dashboard/2c93aa97664dcd190cc7dfeb24ed8ddd,13135,Gwinnett
+5fa0c3ce694883000191e5ef,C8:2B:96:2B:8E:67,Fred's WS-2000,33.8292758,-84.02692440000001,945.6,False,https://ambientweather.net/dashboard/fe62cc87020df8243b931d3d195cbcea,13135,Gwinnett
+5ff4e7ff35f2110001a1e606,F0:08:D1:07:1A:26,SinkGP,33.7964501,-84.0321284,837.6,False,https://ambientweather.net/dashboard/99a4acac37db308610f7a51b3c2c27d8,13135,Gwinnett
+688ccf744767f4f0ca2da417,CC:7B:5C:51:E1:9F,UnreinAir,33.781,-83.992,929.5,False,https://ambientweather.net/dashboard/43cb17834cf963633d34c9a94d2e14ef,13135,Gwinnett
+5d67fd583ae7675099272ad7,B4:E6:2D:72:E8:39,Cannonwolde,33.80880920000001,-84.0157922,958.7,False,https://ambientweather.net/dashboard/4df7261b9d06be8e797b7e01c396b237,13135,Gwinnett
+61411adebc94f10001d3759c,F8:DB:84:99:E6:F8,Home_Station,33.8096398,-83.9689899,971.6,False,https://ambientweather.net/dashboard/8d713bc132ccc70db5cee286f38143ad,13135,Gwinnett
+698bc740847c0af3289bc306,C4:D8:D5:3C:E0:0A,Domsweather,33.8544,-83.9651,,False,https://ambientweather.net/dashboard/16f60bc9e7ffb3db2c82303702b67515,13135,Gwinnett
+6321e27963a7f80001bdcdd7,E8:D8:84:E6:05:0A,Blusky weather ,33.8560843,-83.9639934,934.7,False,https://ambientweather.net/dashboard/125b4959955c6199f87f367c89023326,13135,Gwinnett
+61c73509400f6d000162aa39,E8:DB:84:E6:05:0A,Blusky Weather,33.8561093,-83.96402859999999,935.6,False,https://ambientweather.net/dashboard/e011e05ba95c17cd35ca5823eefc1af9,13135,Gwinnett
+61e32459b2003f000116d8eb,E8:DB:84:E6:24:A9,Summit Place,33.84487235592736,-83.97830234697417,929.8,False,https://ambientweather.net/dashboard/20bd3db163870ec5c6cebfb1cead8dac,13135,Gwinnett
+69540e67c86a1e9542a8a418,24:D7:EB:EB:9E:C2,Deb's Station,33.8439,-84.0051,1003.7,False,https://ambientweather.net/dashboard/d42da413803709549cb0e2e364313c14,13135,Gwinnett
+5f5baf8abb21e400010792ac,48:3F:DA:55:22:CE,My Weather Station,33.844338,-83.93012,1022.5,False,https://ambientweather.net/dashboard/b1cd4f45f9cee0d0884f6e3b048adf1a,13135,Gwinnett
+60a3dd81ccf19900014747f5,F0:08:D1:07:11:A0,Nellies Place,33.8901036,-84.14297189999999,956.1,False,https://ambientweather.net/dashboard/2e9b95bc8bec77e33de3d6858c8e2de5,13135,Gwinnett
+6852bee4b29fa8462d63590c,34:00:8A:E2:47:2F,New South Construction - Railroad Ave,33.8857,-84.1354,901.1,False,https://ambientweather.net/dashboard/5c14e65283d33418fdc8eb3de0873a67,13135,Gwinnett
+63b9f40714d09e0001e0c4cd,40:F5:20:39:AE:AC,Wydella,33.86515566930911,-84.1374508376114,1015.0,False,https://ambientweather.net/dashboard/d914c603dc66cd903b72c02cfb4bc41a,13135,Gwinnett
+67ddeadf21ee82abe13e4e24,CC:7B:5C:51:56:34,LionsClubLilburn,33.8772,-84.1592,964.3,False,https://ambientweather.net/dashboard/2096d64eaa616181d6b36a3023264e83,13135,Gwinnett
+69f7de59cb5ed3d69414cad9,F8:B3:B7:8D:EA:0C,Lost Grove,33.8709,-84.1654,947.6,False,https://ambientweather.net/dashboard/0861f3c2ad50baef8fec87c52845b0a6,13135,Gwinnett
+5cfadb0637d35e3fc8cb976b,84:F3:EB:67:76:0C,6560 Home,33.8739966,-84.19743010000002,965.0,False,https://ambientweather.net/dashboard/2044f6bb264eda0abcfd197f45290197,13135,Gwinnett
+694ee66fef3c99c4b46bd783,F8:B3:B7:8D:B4:2D,HW-Lilburn ,33.871,-84.1185,939.9,False,https://ambientweather.net/dashboard/f0f71b7b839c4d127d8679c564d32e32,13135,Gwinnett
+5f09c83b692b1f0001685e75,3C:71:BF:33:C2:23,HotTub Temp.,33.8769428,-84.08718809999999,875.7,False,https://ambientweather.net/dashboard/5801e8ecfc131fd25190b3be3f260726,13135,Gwinnett
+613f9686bc94f10001d3752a,E8:DB:84:E6:4E:97,W4WTC Weather Station,33.86475679999999,-84.0768465,919.8,False,https://ambientweather.net/dashboard/5bfff87a411c055f20b64379d1efac7c,13135,Gwinnett
+5feb4d625c260c000170bfcb,F0:08:D1:07:09:66,Adam's Station ,33.8604409,-84.0681877,896.8,False,https://ambientweather.net/dashboard/f34cf2512e1a6a2aa72e7537f265daaf,13135,Gwinnett
+5c03f20b700b6f777d42b42c,BC:DD:C2:E3:6A:D2,Hunter Station,33.8870205,-84.0752503,923.6,False,https://ambientweather.net/dashboard/f00030bc0e306e0d84ce6ed175815852,13135,Gwinnett
+61a83272e84674000145283a,E8:DB:84:E6:4A:98,GetWeather WS-5000,33.901945646966915,-84.04609994902954,944.4,False,https://ambientweather.net/dashboard/9ac170bdc7853b98f5f38b6322550315,13135,Gwinnett
+61f07673ff34c30001256d12,C4:5B:BE:6D:B1:64,Wolterstorff 22,33.86583429249469,-83.99068450638144,989.5,False,https://ambientweather.net/dashboard/a90ee24a52ed28ca85cc2116cecb91cf,13135,Gwinnett
+67eb12a3336719f25270e569,CC:7B:5C:51:50:0C,Flowers Crossing Meat Sac,33.9051,-84.0196,975.3,False,https://ambientweather.net/dashboard/966383ed2ebfb08c61b10bb3904f54a4,13135,Gwinnett
+68d740f6cedc7317a81e0bea,E0:98:06:A3:54:5F,My Weather Station,33.9121,-84.0353,930.0,False,https://ambientweather.net/dashboard/021ba0439c16015b86ff7ea522f5a86a,13135,Gwinnett
+5e07a914b15a625644c917ac,A4:CF:12:B4:ED:DA,MuhWeather,33.9139996,-84.0224015,950.3,False,https://ambientweather.net/dashboard/1adfddf5f9c1017711c1fa8611a5f934,13135,Gwinnett
+696e92c07cf96908b2f1af96,34:94:54:93:20:26,ATL Weather,33.9391,-83.9727,1055.7,False,https://ambientweather.net/dashboard/5d8c68c626d48f9ef65f80a6854119de,13135,Gwinnett
+5cba0d5939f6ba44d23263e2,80:7D:3A:7C:20:25,LJ Weather,33.9351151,-83.9611018,1107.1,False,https://ambientweather.net/dashboard/ac9699f13861a2716dc976e9a6279e79,13135,Gwinnett
+620a78d0169c4a0001f7d041,E8:DB:84:E6:2C:80,K4FUM-5K,33.8725914,-83.95156159999999,1041.2,False,https://ambientweather.net/dashboard/099113f13bda4bbd89a27c8ee501ae29,13135,Gwinnett
+615279fdb84adf00012ae2a6,E8:D8:84:E3:CF:5E,,33.9043,-83.9518,1031.0,False,https://ambientweather.net/dashboard/44b33e564535c4245e2f56f24d0bb7d4,13135,Gwinnett
+61c8ef75abc29e00017ff66f,E8:DB:84:E7:3B:00,Wheatfields Weather,33.9082662,-83.956007,1025.2,False,https://ambientweather.net/dashboard/639ee3a6c4e38f5b312301570e0708f6,13135,Gwinnett
+5f2f2cd716836a000117eb45,FC:F5:C4:98:69:05,GWRStation,33.9322179,-83.9499754,1059.6,False,https://ambientweather.net/dashboard/e1acca78ea0967da688da95a48bd2ea8,13135,Gwinnett
+6447ffb2093b3da316e1afc3,E8:DB:84:E7:39:57,My Weather Station,33.9229384,-83.9219861,970.8,False,https://ambientweather.net/dashboard/29eef2115a74f2de501e787924b6264b,13135,Gwinnett
+67834c3b443eb9af77cd14f0,EC:64:C9:EF:CB:4C,rhodium,33.9242,-83.844,936.8,False,https://ambientweather.net/dashboard/0487d9edd2dc361eb2daf7e9977c28d5,13135,Gwinnett
+6818cbb245e5885ef1ad2a7d,CA:5B:BE:FA:5E:D7,SparkyWeather,33.8916,-83.8559,950.7,False,https://ambientweather.net/dashboard/148ab9fb77e62c6d7ff07e45d2571996,13135,Gwinnett
+69e4ef35495e94bea8575cb9,8C:4F:00:4F:71:67,Stark Industries ,33.8821,-83.8714,923.1,False,https://ambientweather.net/dashboard/bd4f12f3975519c38e07ab0b5ba2a7f0,13135,Gwinnett
+69b5c90e4c9e49ff4c16d928,FC:F5:C4:98:51:04,My Weather Station,33.8821,-83.8714,923.1,False,https://ambientweather.net/dashboard/e6d9bf49bf9ac139d4260ea9b5be1133,13135,Gwinnett
+60106a2192cc0f00013472c6,E0:98:06:A3:4E:FC,FROG CROSSING,33.9966892,-84.2440553,938.7,False,https://ambientweather.net/dashboard/2021234cbaee9891fca77045d88d93a0,13135,Gwinnett
+6076cbe8382a2f00017bb5c4,48:3F:DA:56:95:1B,Neely Farm,33.98278760699408,-84.25698072609568,965.3,False,https://ambientweather.net/dashboard/1bd8553363dd3f3733d1bcc1ccd3d28e,13135,Gwinnett
+5e38aa5dbef04e6453833c4b,2C:F4:32:7E:54:53,My Weather Station,33.97068,-84.2562974,936.1,False,https://ambientweather.net/dashboard/da0b7bf47bbb465b370c49f9e1e773d7,13135,Gwinnett
+5fe8bae05146b0000192fc09,D8:F1:5B:14:44:D2,MarioWeather,33.964908,-84.259265,906.4,False,https://ambientweather.net/dashboard/dc1725fefc92353d001b32789da46f39,13135,Gwinnett
+60e1016251a31d0001bad568,FC:F5:C4:98:66:D1,Brookwood station,33.957596,-84.24329,959.5,False,https://ambientweather.net/dashboard/f801fade026cfe774335a304a7848ea2,13135,Gwinnett
+61b4bdc01f29b600012b9233,E8:DB:84:E6:1F:E9,DHwll Station,33.9501802,-84.218452,1017.2,False,https://ambientweather.net/dashboard/d13bedf1bade9553acbcab0ce1ec6f8e,13135,Gwinnett
+629e8c458a7e9100010e2b00,C4:5B:BE:5D:07:C9,Ferme du Coq,33.941651,-84.21930139999999,1037.3,False,https://ambientweather.net/dashboard/256c30a96d12a783ce16e5402fb4e182,13135,Gwinnett
+688fa46921f23be5187bc316,B4:E6:2D:72:E2:97,Norcross,33.9411,-84.2137,1057.5,False,https://ambientweather.net/dashboard/338872f79aa272126be72d9d49e476bb,13135,Gwinnett
+66461c62f7fcbb20a5fadffe,54:32:04:CC:42:C8,Chastain Manor Station,33.9494211,-84.2098307,1077.8,False,https://ambientweather.net/dashboard/bf1e481e430c03c55bf27762e13fc26b,13135,Gwinnett
+694f138d53f17403136952a9,F8:B3:B7:8D:CD:79,Balor,33.9848,-84.2002,940.4,False,https://ambientweather.net/dashboard/3ac8f716d7232fc49edf74327187978b,13135,Gwinnett
+63c064bf1c13730001df18c6,E0:98:06:A3:48:74,My Weather Station,33.983712,-84.18658479999999,1034.4,False,https://ambientweather.net/dashboard/948892e788ae2ebba9b466ad1281aacb,13135,Gwinnett
+62ccffdbd499870001018e28,BC:FF:4D:56:0D:EC,Pittard station,33.98557455048658,-84.15026086840004,1036.7,False,https://ambientweather.net/dashboard/abc67cbc4a3340e6ac4bdf67ea60cd22,13135,Gwinnett
+657f8f31db4c2af4e156610f,48:E7:29:54:D6:11,Todd’s Weather Station,34.0078761,-84.13768019999999,1079.4,False,https://ambientweather.net/dashboard/76017eb7a7354870c37513e94d86eb16,13135,Gwinnett
+69e9097b947226ccc4391e53,F8:B3:B7:83:3E:D0,Mustangs,33.9512,-84.1212,967.8,False,https://ambientweather.net/dashboard/240226a9ed61942e9d5f51b451015f6f,13135,Gwinnett
+6259eca20935e50001228e97,98:CD:AC:22:C9:C8,Garland Way,33.965788505317114,-84.15420654107196,990.2,False,https://ambientweather.net/dashboard/045649f0f88bebb863f2a6513866d6a2,13135,Gwinnett
+6589b4b95a365759306a23e7,94:3C:C6:44:48:2F,Conservatory Weather,33.9479312,-84.1551193,929.9,False,https://ambientweather.net/dashboard/36993b40ebb8c844f7ef3c09d39bb0cf,13135,Gwinnett
+5fe78ec2ad6d82000175065b,F0:08:D1:07:1B:86,Weather 1,34.0029442,-84.1193107,1039.4,False,https://ambientweather.net/dashboard/5e4ad8b2dd75509faf13812d3eb125c8,13135,Gwinnett
+61ce56466fd6ba0001866481,E8:DB:84:E6:4C:DA,Carmichael Place,34.0033967,-84.11784229999999,1042.4,False,https://ambientweather.net/dashboard/6993564817a5a8a6cc1ec163decfb802,13135,Gwinnett
+69fa52214a82a5360616eed8,F8:B3:B7:82:36:E0,GasSouth,33.9948,-84.0976,1047.6,False,https://ambientweather.net/dashboard/d1200447d27b230b21c60ce4f455a7f2,13135,Gwinnett
+5d7d1be7f7fb2750c8b5dee1,B4:E6:2D:75:AB:5A,Sever Woods Subdivision,33.9756629,-84.04947170000003,1016.0,False,https://ambientweather.net/dashboard/a0958de372bf69ef1ddef445239f6a43,13135,Gwinnett
+64a5faca669937aedf517179,48:55:19:C2:DF:8F,WeatherStation4.0,33.9848099,-84.0394379,1015.1,False,https://ambientweather.net/dashboard/fc8ba80ff5aa842a193327ce7e4d052d,13135,Gwinnett
+63aa18bb510bce00016141f4,40:F5:20:0F:6C:91,House,34.0088197,-84.0353909,1075.0,False,https://ambientweather.net/dashboard/9affc9d545a10eddbd72b49e5106e443,13135,Gwinnett
+61cf1f44065d19000137ee34,C4:5B:BE:6D:D9:FD,Dub station ,33.9928588,-84.01620530000001,1017.8,False,https://ambientweather.net/dashboard/905d896a51b874c68b4d7d4d76b766b1,13135,Gwinnett
+5d51aa7fb9497e403cba4d58,84:0D:8E:A1:F1:00,Telfair Chase Way,33.9562149,-83.98796249999998,1069.4,False,https://ambientweather.net/dashboard/87c8f8b0e2674cd2f0d27b91538ff972,13135,Gwinnett
+5e1c9b4be1670a555e9904a5,A4:CF:12:A0:17:15,My Weather StationCF:12:A0:17:15,33.9592101,-83.9915456,1126.9,False,https://ambientweather.net/dashboard/767cb0509d818b20575e176c6be06427,13135,Gwinnett
+5f62e12926bbb60001a11b77,84:0D:8E:A1:F4:71,Ambient,34.019225,-83.9568105,1126.9,False,https://ambientweather.net/dashboard/e31b262afd2485b13c20b3f36ef9e48f,13135,Gwinnett
+5c430fc3e1c27e781b117eef,80:7D:3A:7C:1C:53,"Lawrenceville, Ga Station",33.9682233,-83.9395884,1041.5,False,https://ambientweather.net/dashboard/d281711c519a81c699ad266d837b96ff,13135,Gwinnett
+63a917fa4586480001be3301,98:CD:AC:22:2C:0A,TPATH,34.002762278519164,-83.9580043549286,1090.1,False,https://ambientweather.net/dashboard/98287798479af28a76d85682c002e5c1,13135,Gwinnett
+677dca127b5f41a4712f6f71,48:E7:29:55:32:19,Lords Lane,33.9663,-83.9276,1046.5,False,https://ambientweather.net/dashboard/547379865841c3bcb05a30a345def2c1,13135,Gwinnett
+695824e39fce1b68107ad05c,34:CD:B0:4B:57:88,Two Keys,33.9675,-83.865,971.0,False,https://ambientweather.net/dashboard/ac5e209bb26d557a7cdc2640e1c8d9f0,13135,Gwinnett
+6569e91b4e1d50efda1cbdb2,08:3A:8D:DE:CF:07,My Weather Station,34.0986067,-84.0488936,1076.9,False,https://ambientweather.net/dashboard/e60abe66f48ea5a820441256292370ba,13135,Gwinnett
+628bf8e8dec20c0001a056fc,98:84:E3:31:B4:7D,MV Pool Temp,34.0566784,-84.0413787,983.2,False,https://ambientweather.net/dashboard/5d756578653496e5f9910eeccfdec248,13135,Gwinnett
+6313e70a90c1290001853cc0,E8:DB:84:E6:63:20,Wrightway Station,34.0538444,-84.0437324,1051.8,False,https://ambientweather.net/dashboard/4041b04da649b36f6a3de17654089761,13135,Gwinnett
+5ef689aafd2cb20001c9da75,8C:AA:B5:C7:90:27,TAH_backyard,34.06507034719184,-84.05788221734925,1066.2,False,https://ambientweather.net/dashboard/b401bddbe5f4106e10838f72825b9376,13135,Gwinnett
+5946c84371123700b6b7dd2f,38:A2:8C:1E:2A:BD,In The Forest Station,34.074929,-84.07369,1070.0,False,https://ambientweather.net/dashboard/a094847daca8500cc618444e2b71c805,13135,Gwinnett
+63882f7b0403990001c99a38,98:CD:AC:22:74:30,Grandview The Enclave,34.0941702,-84.0853813,1027.2,False,https://ambientweather.net/dashboard/ee8c4c0d9f251abb92782933f4604531,13135,Gwinnett
+61a1ac6741a66b00013aa540,E8:DB:84:E7:35:58,Lake Forest Estates WS-5000,34.098952,-84.0837237,1023.1,False,https://ambientweather.net/dashboard/47e82604c34cda3c4fa6b89438750954,13135,Gwinnett
+6946b7602f9bb8859b1fe676,F8:B3:B7:8E:94:20,Dawghouse,34.0851,-84.0977,1074.4,False,https://ambientweather.net/dashboard/6e0758a94f907abb0239a131fe5c4c67,13135,Gwinnett
+5dc0db98f13a46052ce4a5df,80:7D:3A:6F:32:9D,W3BEC,34.06268,-84.08129610000003,1118.7,False,https://ambientweather.net/dashboard/11cca32e9e2c14c61941063ceeb15fa4,13135,Gwinnett
+63bd713de0baad0001906f6a,30:83:98:A5:E6:2D,SEFL - NAT,34.0403841,-84.0839595,995.0,False,https://ambientweather.net/dashboard/f1992bbb69f28cbdf4e467f97413641a,13135,Gwinnett
+5e1a1ed5ca462055e776c4e1,BC:DD:C2:AF:1C:AD,da station,34.0510661,-84.08725869999999,996.6,False,https://ambientweather.net/dashboard/e4ce108c027fee552788c9e9fc5bb54f,13135,Gwinnett
+6029725d79926100016ae14e,34:00:8A:E2:A1:20,Top of the cul-de-sac,34.0239758,-84.0762202,1013.2,False,https://ambientweather.net/dashboard/aecb6c2624dacaff2049fb888e3eef7f,13135,Gwinnett
+60132ed2ba0ac20001902a5f,00:0E:C6:30:1C:2C,Pointview,34.0432952,-84.1019668,932.4,False,https://ambientweather.net/dashboard/ff2df952a6a8f23a36b3ece256a673a4,13135,Gwinnett
+5fee4bf85cd537000188d5ca,F0:08:D1:07:6F:B1,RivermoorePark Station,34.0613031,-84.1027299,939.3,False,https://ambientweather.net/dashboard/f0435e04f15e6429c658f6f24cb0b4f1,13135,Gwinnett
+5c325e2cc4eac477f09b7d82,80:7D:3A:6F:28:F1,TGND Weather Station,34.0682358,-84.1062774,1004.3,False,https://ambientweather.net/dashboard/baf2b9ba439429f1f88e0dceb479576f,13135,Gwinnett
+6328de25407aec000194c320,F0:08:D1:07:04:1B,AsaWilC7,34.0978705,-83.960623,1130.6,False,https://ambientweather.net/dashboard/9cfc7c79cd861f3b8debadb5611b25de,13135,Gwinnett
+64dbb87f3d12b2c661f8a9f8,24:D7:EB:CB:D4:3D,Porsche Atlanta NE Weather Station,34.081560127971784,-83.98863012831987,1177.2,False,https://ambientweather.net/dashboard/9e7300ae6129904dffca125473608241,13135,Gwinnett
+5b8d9a365fe4980004ca7a6d,84:F3:EB:67:B3:58,Adam's Weather Station,34.09158804687108,-83.97428954662705,1106.9,False,https://ambientweather.net/dashboard/658e04b6559596cecf1b94c78581f5d0,13135,Gwinnett
+639b58e6d4fd150001f49519,C4:5B:BE:5E:05:D6,Hamlet at Rock Springs,34.04251102037504,-84.01637245788574,1106.9,False,https://ambientweather.net/dashboard/9af3bbe9c1c67589a056fca293e11243,13135,Gwinnett
+621c27576d92e00001a619e0,E8:DB:84:E4:72:48,TheChamp,34.0319382,-84.01000839999999,1060.2,False,https://ambientweather.net/dashboard/1b4f40d72b5c507d17f9d6465202cc32,13135,Gwinnett
+61ef53309549570001c0045d,E8:D8:84:E4:72:48,My Weather Station,34.031921923046326,-84.01008807078628,1058.2,False,https://ambientweather.net/dashboard/6fd305ad05fa48712af40a0b8eccdb83,13135,Gwinnett
+63d87b6107536800013ed426,C4:5B:BE:5D:FC:BD,StormChaser,34.090429,-84.0268005,1068.6,False,https://ambientweather.net/dashboard/0ed6535dd9b1b7f1aa1e0c7f214b0a4e,13135,Gwinnett
+5ad93912c30ffb000410ca84,EC:FA:BC:80:BB:BF,Preserve at Reed Mill,34.0949,-83.9489,1197.9,False,https://ambientweather.net/dashboard/18975c5c39b32eaf68b58ce263f331d0,13135,Gwinnett
+5e13cbfda25ddb590e0c48a2,30:49:E1:1A:01:AE,My Weather Station,34.0761714,-83.95892219999996,1143.5,False,https://ambientweather.net/dashboard/9dcacbead6b93a5bea8c7f9ad10d338a,13135,Gwinnett
+5c8b065e1c5f3a3fbcb753ec,80:7D:3A:7C:4B:4F,My Weather Station,34.0561883,-83.9540221,1074.7,False,https://ambientweather.net/dashboard/98bb8dbb6995649b4e4d1283f62704fc,13135,Gwinnett
+5cbe5e90f42c48458cb635cc,80:7D:3A:7C:50:8C,Weather Station,34.0341949,-83.9290814,1088.2,False,https://ambientweather.net/dashboard/0d69bacf92758098c582b6cf3be3c564,13135,Gwinnett
+62afbe81ac04200001bfaecf,98:CD:AC:23:19:6E,T’s Weather ,34.02982009999999,-83.8949835,1058.8,False,https://ambientweather.net/dashboard/1ded61d3d4955137b17505cc6fc598a4,13135,Gwinnett
+694ee90462ec92dc38246c16,F8:B3:B7:86:3A:0D,Stancel Homeplace,34.0682,-83.9185,1201.7,False,https://ambientweather.net/dashboard/c130a459360908e0eb3b4b9d3fdae0d1,13135,Gwinnett
+6771df97d0fd4b2d843f4e08,48:E7:29:7B:FD:85,Kevin’s weather station ,34.0599,-83.9159,1113.0,False,https://ambientweather.net/dashboard/f18319addc26c82a0685eee076ce89e9,13135,Gwinnett
+64936f61abd68e892363e34c,D8:F1:5B:14:43:CB,Home at Water Mill,34.0824,-83.8881,1120.6,False,https://ambientweather.net/dashboard/3c9f91058ab0e5060b75778f31f23a46,13135,Gwinnett
+604e63cf75c6cd00012510fb,8C:AA:B5:C6:6F:4A,Rivermoore lawn Care,34.0822238,-83.8829219,1067.3,False,https://ambientweather.net/dashboard/a6f2813487abc3c744085f316f794edc,13135,Gwinnett
+62227e5605256b0001264701,A4:E5:7C:81:88:8E,Yeti Lodge Weather,34.05821408371314,-83.88074634515414,944.3,False,https://ambientweather.net/dashboard/96f3de8969305599850e57c781f36aa5,13135,Gwinnett
+64373ce5735ba70001c086b3,30:83:98:A7:21:5C,Pittman,34.06564461046068,-83.87026781477282,963.5,False,https://ambientweather.net/dashboard/e394f0690d372eadf796ea2960ba7d79,13135,Gwinnett
+6377ba576b05d00001f9545e,BC:FF:4D:11:2D:7D,WO Garden,34.1460862,-84.06595860000002,1123.8,False,https://ambientweather.net/dashboard/ece802c9c6ac672d2e08e509203c2932,13135,Gwinnett
+6972cc949608cb24d25833ab,C4:D8:D5:3C:DE:85,Lake Wildwood,34.1111,-84.098,,False,https://ambientweather.net/dashboard/4a1957b68583027ac8118cef393d704c,13135,Gwinnett
+62eb1f66ca9c53000159db37,34:00:8A:E2:A4:B0,Wild Timber ,34.1113202,-84.0923956,1029.0,False,https://ambientweather.net/dashboard/e1324dd5577ce4dfd3d0ac4093cf0edd,13135,Gwinnett
+6642670a0bac3477ec817b27,40:91:51:59:43:02,My Weather Station,34.1140111,-84.0894762,1033.2,False,https://ambientweather.net/dashboard/774dc8e49ab5fa500c65720c74de9fb3,13135,Gwinnett
+676d992b115c144fcf72ceea,EC:64:C9:EF:EE:24,Tsbrady,34.1208,-84.0685,1038.5,False,https://ambientweather.net/dashboard/af84e66a55d2057cf44f2563b13760f1,13135,Gwinnett
+687698748f466797981389b0,48:E7:29:7C:0E:C8,My Weather Station,34.1413,-84.069,1040.7,False,https://ambientweather.net/dashboard/157667562e0e0a9420b82afc628a03a0,13135,Gwinnett
+5d800d1e9f434650a007ae1c,84:F3:EB:9C:93:53,Barrington Estates Weather,34.1366,-84.0606,1027.8,False,https://ambientweather.net/dashboard/825a2011473d3b71ee8582c6cbb32ee5,13135,Gwinnett
+5e0fcc9ef4726a58f099c777,DC:4F:22:5A:C1:D2,Parkside at Lanier Springs,34.1401181840087,-84.0462907926771,1011.0,False,https://ambientweather.net/dashboard/31e94026e39efef9abf4279a8c2f5269,13135,Gwinnett
+622c1455faac330001edd93d,48:3F:DA:55:49:0C,Workshop Station,34.12032321098653,-84.04296800502021,1058.8,False,https://ambientweather.net/dashboard/43b4dbf61b1fe4157ae1e528374f20a0,13135,Gwinnett
+617c096b0dabfe000142fa8a,E8:DB:84:99:BE:15,Serenity,34.1251726,-84.0481504,1003.6,False,https://ambientweather.net/dashboard/95dab7d5cb6a3d0f9e15109cac5ad2e3,13135,Gwinnett
+6950610fe59a1de1cc96bb65,F8:B3:B7:8E:27:95,Hogan,34.1224,-84.053,1059.5,False,https://ambientweather.net/dashboard/bd4fbfc7a5852a71612ca6551bd57827,13135,Gwinnett
+678f0123758a14419c975a4c,00:0E:C6:10:09:B1,Goodneighbor,34.1133,-84.0555,1070.4,False,https://ambientweather.net/dashboard/7570acaef1014535d743b202af03297e,13135,Gwinnett
+5fefa9ade97c150001cf0e4b,40:F5:20:3A:48:FF,My Weather Station,34.1051012,-84.0436223,1084.7,False,https://ambientweather.net/dashboard/02f73d7cac8347d6ed338f6ad7cee679,13135,Gwinnett
+69a8d9afe4b5c4d30d8e17bd,8C:4F:00:4F:ED:9C,My Weather Station,34.1065,-84.0335,1157.7,False,https://ambientweather.net/dashboard/8bc85fd02b14c71aed969a08a7066b83,13135,Gwinnett
+6647bf8ac02f8fed6e126c9c,48:E7:29:55:3A:07,Lanier Community Garden,34.1437461,-84.00518509999999,,False,https://ambientweather.net/dashboard/385e30c7f6c780462aef305528dce78d,13135,Gwinnett
+630a893aeea1150001aa5dae,C4:5B:BE:5E:ED:B2,Bare Bones Roof Top,34.1208584,-84.0043894,1182.0,False,https://ambientweather.net/dashboard/21c81f387ed0c6ede2c7c0c05ba3fd9a,13135,Gwinnett
+6170177fcdcb070001fbdf9a,E8:DB:84:E4:06:46,Krakin,34.1206564,-84.0043513,1177.3,False,https://ambientweather.net/dashboard/8635a073a7fd52d39e590dfbbb2adbed,13135,Gwinnett
+5f0b62246944a70001a7265a,8C:AA:B5:C6:A0:C0,Hidden Spring,34.10178023035171,-83.89478024033147,1073.1,False,https://ambientweather.net/dashboard/48d2f5e1aaa56d284e00053277d53ac8,13135,Gwinnett
+69d3feb82bbc590fd82b3661,FC:F5:C4:BB:0B:AF,Home,34.1037,-83.8572,976.0,False,https://ambientweather.net/dashboard/a4cd9a912377ff1095f8eef0f7a7fa44,13135,Gwinnett
+68a0b8db58a060ced32f4d45,E6:77:D8:E5:B3:53,My Weather Station,34.0816,-84.6419,926.0,False,https://ambientweather.net/dashboard/080e7f4d95b0570b2c960033a9e5f90f,13057,Cherokee
+63bb4428a6f8be00019cf14e,BC:FF:4D:0F:F1:00,My Weather Station,34.0832424,-84.61195479999999,1018.7,False,https://ambientweather.net/dashboard/edf1c2768ac78a664936276005ebd454,13057,Cherokee
+6334d3037006330001f08191,98:CD:AC:22:2D:1B,Big Cheese,34.0831086,-84.604348,1041.2,False,https://ambientweather.net/dashboard/f5186c3a4cdb628d3bfd307f114e5bc1,13057,Cherokee
+61607fb251349a00010e1cfc,E8:DB:84:9B:0A:43,Lochshire 2.0,34.07893839127351,-84.60193852042815,1055.3,False,https://ambientweather.net/dashboard/1a9930b549ffb7601fd3303635a8e643,13057,Cherokee
+5dfc17ba34b9ba55616f85a6,00:0E:C6:20:10:55,Lochshire ,34.078946648149994,-84.60192249619217,1055.3,False,https://ambientweather.net/dashboard/fac1522a12ac254a4a056c302c1e0a7f,13057,Cherokee
+69470e525573c4d1cba7461e,F8:B3:B7:86:89:41,Lochshire 2.1,34.079,-84.6019,1053.1,False,https://ambientweather.net/dashboard/f0570cfcdcee36ab1b85fb31cbe24bdc,13057,Cherokee
+5ec6b6a1c644f90001ba85b6,F4:CF:A2:4A:54:E3,My Weather Station,34.0947361,-84.5749926,1053.4,False,https://ambientweather.net/dashboard/73fc6ad5e2ddab4c92537f783b20e755,13057,Cherokee
+64d7f5d27f8aedcad3732bf2,C0:EE:40:72:47:59,WDSTK-SOM,34.0916229,-84.5237958,954.9,False,https://ambientweather.net/dashboard/a660da36200ee42726f6a02d58958fdd,13057,Cherokee
+65d0eff14ad236b4f7795243,C8:C9:A3:0F:C7:C8,Woodstock in the Wood,34.0948406,-84.5270721,891.3,False,https://ambientweather.net/dashboard/88a47964e25572d3ec9202356bc58b3a,13057,Cherokee
+5c23db26c4eac477f09b7031,84:F3:EB:9D:34:C0,,34.08142,-84.5601956,1016.5,False,https://ambientweather.net/dashboard/95f542fb4997149e07c1db5d5826a263,13057,Cherokee
+601719eb5cc71d00011d68e6,F0:08:D1:07:1A:72,The House,34.0994393,-84.56170039999999,1032.5,False,https://ambientweather.net/dashboard/d2f86f12aa1b3e474cdcb5b86dd26448,13057,Cherokee
+6982ac8f42942711160cd963,F8:B3:B7:86:5F:75,Andy Jabaley State Farm,34.0871,-84.5056,947.7,False,https://ambientweather.net/dashboard/edecc2fe37b96de94e02123693d66773,13057,Cherokee
+5dddc829154a2f520a7f50e8,A4:CF:12:B4:F4:1F,Nick home,34.0818963,-84.4480002,965.1,False,https://ambientweather.net/dashboard/726ae955bfd22e56229af009e3841f6d,13057,Cherokee
+5e051f0b12e7235584b586f6,B4:E6:2D:72:ED:2E,189 MARLOW DR,34.0821574,-84.46475939999999,1046.0,False,https://ambientweather.net/dashboard/dcb99e8b244417662c4ad3d6377e5c54,13057,Cherokee
+5aca289c2112be00044772eb,EC:FA:BC:07:CD:B4,Puney01,34.099548,-84.4722055,903.6,False,https://ambientweather.net/dashboard/665bf9341937e590adfa5cde718724e1,13057,Cherokee
+5d6c19024a8c78509871baad,BC:DD:C2:12:04:6E,Leming,34.1021426,-84.61797690000003,943.1,False,https://ambientweather.net/dashboard/9b6b4d20da9f95dfe75e6a2c35b35c9f,13057,Cherokee
+684f0ed2c588ad1693ee8678,BB:FF:4D:10:2F:6E,My Weather Station,34.1216,-84.6095,894.2,False,https://ambientweather.net/dashboard/326bba4a94d156255a33a2c87cee204e,13057,Cherokee
+61a1240d1729470001b99bc4,34:14:B5:1F:02:1D,SD310,34.1331022,-84.62436559999999,833.3,False,https://ambientweather.net/dashboard/1020139ad1ca8ca4bd645cfd7d48f8e1,13057,Cherokee
+5aac6b4f1abaa200047dc246,60:01:94:39:A6:05,Rick's Surface Station ,34.1132232,-84.6034885,996.1,False,https://ambientweather.net/dashboard/20de5f0f106ef5768a1b11b0c5870624,13057,Cherokee
+673a0c4288bb766e1173d174,CC:7B:5C:51:EE:A7,Ricky Bobby's WS2000,34.1132,-84.6035,995.6,False,https://ambientweather.net/dashboard/af409cd0393c15a70f123b757c434492,13057,Cherokee
+5ed1714e77c3c600010e2ab8,EC:FA:BC:4D:51:32,Eagle Ridge The Dr,34.1726361,-84.54109849999999,1081.9,False,https://ambientweather.net/dashboard/0e602f2abb23329d2621a0618fbd2330,13057,Cherokee
+602bcb95830b830001dbf353,F4:CF:A2:E2:BB:83,2020Bytes,34.1590842,-84.5344647,925.9,False,https://ambientweather.net/dashboard/6848f585459150a89712d73dd7081ff1,13057,Cherokee
+616365bece40c700015a4568,48:3F:DA:89:AC:3C,Big Ben,34.12958209318733,-84.54648843253096,939.3,False,https://ambientweather.net/dashboard/02fafff9c2d03b5e3227198d956fbf3e,13057,Cherokee
+5f7efced0552cd0001844494,50:02:91:47:95:DE,LaddWX,34.12367690000001,-84.5718035,974.3,False,https://ambientweather.net/dashboard/5dc65d8707fab421ec92b3592ffb3a20,13057,Cherokee
+668c69b304d8291c40de766b,34:00:8A:E1:F7:C6,RoseCreek,34.1235364,-84.5804697,1009.9,False,https://ambientweather.net/dashboard/10c08a4392ef9529fdedd0b0dacc2d20,13057,Cherokee
+5c27b21ec4eac477f09b7513,84:F3:EB:9D:38:70,Jordan's Weather Station,34.1259559,-84.5805374,965.3,False,https://ambientweather.net/dashboard/be1ee893dbf38e62e3493098d96723ce,13057,Cherokee
+677ee91429642a05175a36fd,CC:8D:A2:73:73:94,PoplarGrove ,34.136,-84.5788,969.6,False,https://ambientweather.net/dashboard/0f009bf8b68c397a348162f778227a82,13057,Cherokee
+65d78cfd656f16f0630536a0,54:32:04:4A:86:D4,James Weather Station,34.1170905,-84.5561659,1000.5,False,https://ambientweather.net/dashboard/24ce819ed8dceaa68595940864b63672,13057,Cherokee
+5f72220748f6ce00015af955,48:3F:DA:53:D7:2A,Deer Run SR,34.11052629999999,-84.5364918,1015.6,False,https://ambientweather.net/dashboard/194184ef90de7f544e9d45a64273c90d,13057,Cherokee
+626037d6bcc16100012655f6,C4:5B:BE:6C:80:B2,WMS Weather Station,34.1008088,-84.54156479999999,971.7,False,https://ambientweather.net/dashboard/488037e15fb61d36e832677b3e9877ef,13057,Cherokee
+641f2abf99f48300017ca44d,30:83:98:A7:24:A9,Home,34.1014873,-84.5193754,971.1,False,https://ambientweather.net/dashboard/6c0e91cbcf2a963000675f4acbfc640c,13057,Cherokee
+63a888379138d200014c4d57,C4:6B:BE:6D:34:E9,Command Center,34.1138598,-84.50913059999999,915.6,False,https://ambientweather.net/dashboard/cafbb92876c72d170be4b8e1a7ecc58c,13057,Cherokee
+65a211ef897c9bd1c6d3a812,68:C6:3A:D0:1D:69,Jims Wx station ,34.1150285,-84.505603,889.0,False,https://ambientweather.net/dashboard/bde74ec3b5fad1e61fca919e202b6bde,13057,Cherokee
+5e01069812e7235584b5840f,50:02:91:47:95:0D,WV5L-wx1,34.1078,-84.462,918.5,False,https://ambientweather.net/dashboard/06ce34703a2ca824b1705cca07dfa238,13057,Cherokee
+67537f203e9517b65e9bbf78,04:42:54:32:C1:08,Hoste weather ,34.1038,-84.4413,931.2,False,https://ambientweather.net/dashboard/44e6e5f98b7b760fd450859813db2655,13057,Cherokee
+616b80c0aab0740001c00317,E8:DB:84:9A:D9:96,Hickory Flat,34.1268861,-84.45558899999999,952.0,False,https://ambientweather.net/dashboard/8cdc968ab0ae633fd53f63b72c565827,13057,Cherokee
+694c48b614bc6da7b67338ac,F8:B3:B7:86:10:2B,Ritchie_Weather,34.1598,-84.4538,966.5,False,https://ambientweather.net/dashboard/c0071882f523012ea6b2558d9659b794,13057,Cherokee
+64d98f57f6672ed05f108891,94:3C:C6:91:22:27,W4SPD WX Station,34.13602752366191,-84.45990954883365,948.8,False,https://ambientweather.net/dashboard/8ab05af2fd95ebb7ee724d618b2f5c5e,13057,Cherokee
+5f09c5821f10ce0001e5eee3,FC:F5:C4:98:57:C7,Sagoo Niwas,34.1221303,-84.4890727,975.9,False,https://ambientweather.net/dashboard/aba70325c8c3f16e506ef1768bd9356a,13057,Cherokee
+62a6b4ee74f8b90001e326c6,C4:5B:BE:5D:42:18,Marks weather station,34.14968250322542,-84.50215028606775,1035.1,False,https://ambientweather.net/dashboard/2980b81b5fb96a88e5991c5a07295c65,13057,Cherokee
+6974ca3a176f8bcbb3c3925b,8C:4F:00:4F:EF:6F,Fabryen Weather Station,34.1674,-84.4723,1093.7,False,https://ambientweather.net/dashboard/b40532f486502fc3255de0ab5c49d3a7,13057,Cherokee
+6950427ec33038af5c6421df,F8:B3:B7:8E:27:F5,My Weather Station,34.1747,-84.4696,1101.9,False,https://ambientweather.net/dashboard/760de37169ecca74eaa8fff17a3f789d,13057,Cherokee
+652311486647525080609c05,E8:DB:84:E3:FA:50,Jeff-tech,34.1738956,-84.44545,996.5,False,https://ambientweather.net/dashboard/670c2f15a8a7b6de7a37b6428f3baa43,13057,Cherokee
+6a14888af62ac16a8b1a2eed,BC:DD:C2:12:02:13,Basecamp,34.175,-84.4285,1019.2,False,https://ambientweather.net/dashboard/693e36dc505de3c975ed14bbdd6ca756,13057,Cherokee
+6386c46b613e7e0001131f27,98:CD:AC:22:2B:71,Glen,34.1412615,-84.38272649999999,1085.6,False,https://ambientweather.net/dashboard/c42721a7c061b257bd45fd759cb981bf,13057,Cherokee
+694da70b6d5eae8d91d4e541,F8:B3:B7:82:34:83,OHF,34.1455,-84.3724,1081.7,False,https://ambientweather.net/dashboard/e9cdd402d7aef04a6ea38d4cfd9ecde0,13057,Cherokee
+6039464a0cb264000112dc59,48:3F:DA:89:BB:64,N4RFC,34.129341,-84.41593300000001,990.7,False,https://ambientweather.net/dashboard/9a7c263f81d94aefe8ae3920d9b32b21,13057,Cherokee
+612c74c8ec18320001d30c6b,E8:DB:84:99:BB:6F,My Weather Station,34.1972784,-84.6135034,1029.4,False,https://ambientweather.net/dashboard/1e552255e3ae58a2c7168902505dcbd4,13057,Cherokee
+626716ad55cb1e0001213ded,40:F5:20:0F:54:1B,My Weather Station,34.2481913,-84.6169031,1103.3,False,https://ambientweather.net/dashboard/ea739e545cb8261ffa2764977ec71dab,13057,Cherokee
+658c9bc29ef841904c41d090,C8:C9:A3:0E:D5:A7,HerkWX,34.22685471445035,-84.60592685858325,1061.2,False,https://ambientweather.net/dashboard/850f1dd750dfaafb7d6cba0f32d461ec,13057,Cherokee
+67252938767c283c4061b150,48:E7:29:69:5F:85,Mother Nature ,34.2162,-84.5296,1009.8,False,https://ambientweather.net/dashboard/24fe03351bd4420e0d4b8c77b8f4adeb,13057,Cherokee
+67e1a970b66c0fe12392f809,00:0E:C6:00:0C:EF,KGACANTO112,34.2199,-84.535,988.8,False,https://ambientweather.net/dashboard/45935227dcfaecfcaa09550cebd5f270,13057,Cherokee
+6551391e406a5a9464438d7a,08:3A:8D:DE:D2:0D,Copper Hills Weather,34.2183994,-84.55196889999999,,False,https://ambientweather.net/dashboard/f0c6f118861b30389bb5527ee4fef29f,13057,Cherokee
+64723a80f6adcdd679b56441,C8:C9:A3:55:91:4E,Home,34.2349613,-84.5926499,1084.2,False,https://ambientweather.net/dashboard/459c2e7ec16a461a7a275bf7345e3e20,13057,Cherokee
+69cbd1f1f89db0ac39d59847,80:7D:3A:6F:30:95,BertiRanch,34.2314,-84.5919,1082.5,False,https://ambientweather.net/dashboard/4987672c0151b8561e24b7173ef1d911,13057,Cherokee
+695ab797b487b8799ac1c35d,8C:4F:00:4F:BE:AB,Weather Mama,34.1841,-84.5668,961.6,False,https://ambientweather.net/dashboard/41c74df60d13a86a75119d915b9414a5,13057,Cherokee
+5e726d538dfde865d6e7a3c0,00:0E:C6:00:0B:83,BridgeMill ol,34.1889432,-84.5439852,993.6,False,https://ambientweather.net/dashboard/0195b5e7c8ef0840bfdf198614901fe5,13057,Cherokee
+61997767123a0d000105e158,E8:DB:84:E6:C6:8A,BridgeMill,34.1889432,-84.5439852,993.6,False,https://ambientweather.net/dashboard/485bf66527f4ed7882c56af6cfa712c1,13057,Cherokee
+62d5cb748a0cb1000197d82c,C4:5B:BE:5D:ED:15,My Weather Station,34.2032524,-84.5521736,972.5,False,https://ambientweather.net/dashboard/5899c79005445d72c4f784d0ead95c84,13057,Cherokee
+60033701fe83060001f63875,40:F5:20:39:D8:D8,Gold Bridge. ,34.1966284,-84.5390511,975.4,False,https://ambientweather.net/dashboard/1d1fdcb4fb8e80c64310b42ac6ea70b9,13057,Cherokee
+6884fac02189cac2751d74f4,C4:5B:BE:5E:05:C3,Holly Hill,34.1822,-84.5416,1006.6,False,https://ambientweather.net/dashboard/2fa65e051039951b3932b0bd3ec05db6,13057,Cherokee
+695161d6798d7102c0d39e91,F8:B3:B7:8E:53:A2,My Weather Station,34.1809,-84.5236,1002.2,False,https://ambientweather.net/dashboard/d794d6746aa5817da1bbe0e73bac70b0,13057,Cherokee
+5fe640672f90f20001d1b822,F0:08:D1:07:10:81,Weimer Home Station,34.1803034,-84.5629598,975.2,False,https://ambientweather.net/dashboard/0802d3f04e8c48301d6e54fe4cf6f002,13057,Cherokee
+67a27d8a2c3cdd76fb32ec0c,C4:D8:D5:3B:7F:89,KK's Wx Station,34.1828,-84.5216,983.3,False,https://ambientweather.net/dashboard/c09fb3b7fef793bc94327e6b48215bf5,13057,Cherokee
+63a6311092251300012fe415,30:83:98:A5:AB:E3,Shoal Creek,34.2536033,-84.50359949999999,1012.8,False,https://ambientweather.net/dashboard/477fc363eb4d59e1135c8b0e5fab7b95,13057,Cherokee
+639f7416a97baf0001bcf73a,C4:5B:BE:F9:D8:2B,,34.2536033,-84.50359949999999,1012.8,False,https://ambientweather.net/dashboard/8f168d5e365a418bc5d82f46f2820a19,13057,Cherokee
+6704622a209d61f32cb85762,24:62:AB:16:E4:B5,Georgia Canton,34.2584,-84.5038,1107.9,False,https://ambientweather.net/dashboard/3bf5772b93c335b60142350d8bf3842e,13057,Cherokee
+679ea1630f7b4369aa70e8bb,30:83:98:A5:C7:07,Home,34.21,-84.4561,,False,https://ambientweather.net/dashboard/a074f911bff6bab9a6ee77e94c2057f1,13057,Cherokee
+6000d5353543990001a4aaef,D8:F1:5B:15:31:EA,GTO's Say GRRR!!!,34.2514526,-84.4802606,964.4,False,https://ambientweather.net/dashboard/574c645d77b94835bc5c6b7c9bd5338b,13057,Cherokee
+6609af84662dbb34fa55e774,C8:C9:A3:16:BC:95,Bryzweather,34.1944673,-84.4867776,1148.9,False,https://ambientweather.net/dashboard/94a9aa8f8ad9e41f395a89d7bb291544,13057,Cherokee
+5e112ae5fdb4215709eadfa5,2C:F4:32:0A:19:89,Flat Springs,34.1970294,-84.4743987,1111.5,False,https://ambientweather.net/dashboard/6c0001455f865901f59fc024b5de20a0,13057,Cherokee
+62226da08acb1d000141db60,E8:DB:84:E4:A1:77,TOHF weather station  in,34.18977962986369,-84.47808383815541,1116.6,False,https://ambientweather.net/dashboard/a4a3c9610ab16b7755d165306e137b46,13057,Cherokee
+693dd52f43cda5df4b1ba174,98:9D:5D:87:B9:57,DHAGG Hamilton ,34.1884,-84.4568,1124.5,False,https://ambientweather.net/dashboard/8ae989ba8cd2dd73d27749e7649d283a,13057,Cherokee
+5e9344ddd4091364b45ed8d7,84:F3:EB:21:16:4B,My Weather Station,34.1884644,-84.4568303,1125.2,False,https://ambientweather.net/dashboard/1730f156381ac7ba189194f47378f421,13057,Cherokee
+69f4114a67e4773e72436b02,40:F5:20:01:1D:C0,Home,34.2153,-84.4386,,False,https://ambientweather.net/dashboard/75fd828f49b782dbc22161d1279370cc,13057,Cherokee
+6a011253364be171402df368,8C:4F:00:50:05:20,Home,34.2152,-84.4385,,False,https://ambientweather.net/dashboard/85d28564f7604fe5cdabdd400e8456d1,13057,Cherokee
+61d0f6934911ac0001fd4b5b,E8:DB:84:E3:E5:B0,Roam Home,34.1820029,-84.3950631,997.3,False,https://ambientweather.net/dashboard/ea56957ac67bbb13936b0eeeb2ca466f,13057,Cherokee
+65a4497418a03c88d56bf619,34:94:54:8C:B8:39,My Weather Station,34.1808517,-84.3877162,1059.6,False,https://ambientweather.net/dashboard/c84ab41cab4b8c214187581fc112f30e,13057,Cherokee
+59e412c31c5f2a000c3bc0b7,00:0E:C6:10:03:EB,Union Hill,34.19686741175358,-84.38551393100516,1033.5,False,https://ambientweather.net/dashboard/d9ae88b5dd12164e9127ae8a4305c37c,13057,Cherokee
+5d20d61457f7863fc42659c2,CC:50:E3:59:6B:D9,My Weather Station,34.2220069,-84.3708185,1101.4,False,https://ambientweather.net/dashboard/c2959b69824f980f4fc5d30966e97dc6,13057,Cherokee
+69c71e3b346abf92e8214507,9C:13:9E:6D:4D:0C,RainTiger,34.2425,-84.3604,1133.1,False,https://ambientweather.net/dashboard/99cb1f8cc4f2eb9b8f741a3d6eaa7541,13057,Cherokee
+5ef3c5c5362cb400010a47ee,F4:CF:A2:7A:F7:ED,Nolan farms,34.208067823255675,-84.41715326725509,1123.8,False,https://ambientweather.net/dashboard/af9422b11108a62094dc0e08553a65ad,13057,Cherokee
+67796f9bc761e31b8c5c2603,4C:EB:D6:20:26:0E,308Pebblebrooke,34.2222,-84.4382,1088.6,False,https://ambientweather.net/dashboard/f73f0a81538ccce9a73323879aeeef53,13057,Cherokee
+695962917e8726371fcef3f3,F8:B3:B7:85:CC:7F,Dickson's Wolfhound Ranch,34.2108,-84.2814,1159.2,False,https://ambientweather.net/dashboard/d500e61d3ca2d65e36a15044b5024e1c,13057,Cherokee
+5f1c5d85012a940001d07973,00:0E:C6:30:15:A5,Victory Acres,34.21336179999999,-84.2865465,1127.3,False,https://ambientweather.net/dashboard/db14dd69b59bf313a2a72da703b9c0a0,13057,Cherokee
+5f71e8127c994c00019dbe99,48:3F:DA:54:AF:C8,Gone Fishin' Farm - Freehome,34.22333400000001,-84.299852,1210.8,False,https://ambientweather.net/dashboard/28f949a26506d7aac75d05cad0c6ae0f,13057,Cherokee
+681f37309bfc8f6b1f9a1362,C4:D8:D5:3B:8D:DC,Buckeyedave,34.245,-84.3528,1184.6,False,https://ambientweather.net/dashboard/92761d2ddd6059634982071d57bf3867,13057,Cherokee
+6956a968c921e795d647ce5b,4C:EB:D6:1D:F4:FA,SgriffWea01,34.2112,-84.3411,1168.8,False,https://ambientweather.net/dashboard/f09d414228fcd5a99f82da53231d1d87,13057,Cherokee
+619561f4113b0c0001ab276e,E8:68:E7:87:38:36,Hill’s Weather Station ,34.21436993097885,-84.34483208119096,1234.4,False,https://ambientweather.net/dashboard/831e3244198a37119ed78b570f17a0c7,13057,Cherokee
+6834c20f7e26007d0e36572d,CC:7B:5C:4B:BA:01,Pops Weather,34.2106,-84.3483,,False,https://ambientweather.net/dashboard/8381738650c2b4b9e5e334598d30b4f7,13057,Cherokee
+61e9ef77ea42840001b564fe,C4:5B:BE:6D:A1:F9,Cadence,34.2409192,-84.35442689999999,1149.5,False,https://ambientweather.net/dashboard/8aba7fe7186259034994a37887bba7b5,13057,Cherokee
+6779e8542ef29c7a92b96aac,48:E7:29:7C:5E:24,Dye Weather Station,34.1949,-84.2649,1141.2,False,https://ambientweather.net/dashboard/77397011edbd2bcaf9c230defe5e47c2,13057,Cherokee
+658dcc9f75b5bdab7f930093,C8:C9:A3:16:AB:34,Elkins Weather Station,34.3112266,-84.6205425,,False,https://ambientweather.net/dashboard/39ade4d0add7331b2b2c2976f834aed0,13057,Cherokee
+60b26a5b01ad860001a2b93f,F4:CF:A2:6F:87:04,Ambient Weather Station,34.3397162,-84.5578125,1070.7,False,https://ambientweather.net/dashboard/92bbd412babee396fc510776b9ff1229,13057,Cherokee
+671bf38a8fd7c9a9ba1a8f67,C8:C9:A3:27:A5:64,Don's weather,34.299,-84.5527,1098.3,False,https://ambientweather.net/dashboard/f32686c1d16a4407d93c4bfe073bdbb8,13057,Cherokee
+67a29eff66ff70de76eb0624,30:83:98:A7:15:B8,Snake ,34.2664,-84.536,1103.5,False,https://ambientweather.net/dashboard/b46abd1d5fe69f639927206791b10cd1,13057,Cherokee
+671ea9ebf157e362d562546f,04:41:54:32:60:04,SHI-TOWN,34.2883,-84.5564,,False,https://ambientweather.net/dashboard/1eb91e545ee872b07df979dffa84cb36,13057,Cherokee
+65884d34469858601b41b940,E8:DB:84:F2:E3:FD,Stead’s weather station,34.3178536,-84.4556001,1206.4,False,https://ambientweather.net/dashboard/ad41cb0f18ccdf0bba5d3c5b14d4fb68,13057,Cherokee
+69527ee5026b5b0e2cdb1047,8C:4F:00:4F:4C:57,Kirby Polecat Mountain GA,34.2722,-84.5188,1376.6,False,https://ambientweather.net/dashboard/24209022ddffaa2b5131a0875af10907,13057,Cherokee
+60d91e9e60608b0001eea558,E8:DB:84:E6:06:2B,A&R Home - Canton,34.2673138,-84.51384499999999,1189.6,False,https://ambientweather.net/dashboard/4542c4fd0dc54b64fb6346fffba6f5b4,13057,Cherokee
+5eb2ea142716c5006a5cf37c,F4:CF:A2:CD:9E:F4,FOC,34.2685161,-84.51755279999999,1209.8,False,https://ambientweather.net/dashboard/6f862adaaa4620daa4678aead7115822,13057,Cherokee
+603bba1839935400019ec0ea,70:4F:B8:53:1D:E0,My Weather ,34.261515,-84.518677,1142.3,False,https://ambientweather.net/dashboard/0937582584a51e99c542ee3415f10bb2,13057,Cherokee
+5c18123ec4eac477f09b6951,80:7D:3A:7D:4A:05,Soleil Weather,34.2603162,-84.5182251,1128.5,False,https://ambientweather.net/dashboard/3c7f2053a851791b176ed64c37dbc869,13057,Cherokee
+5c703cb3cc760736c8967008,80:7D:3A:6F:2C:ED,Hickory Bluffs weather station,34.2706052,-84.4688236,1104.8,False,https://ambientweather.net/dashboard/82cda95639e06309f2670d51b0ad9877,13057,Cherokee
+600f6bf45cc71d00011d6588,40:F5:20:3A:3B:0E,Sharon’s weather,34.26777879999999,-84.4035802,997.3,False,https://ambientweather.net/dashboard/f1475e5f6b60dbc2fb6e1e87ad3c8945,13057,Cherokee
+62f27d677d450e00018091ca,30:37:67:62:62:05,Pine Bluff LF,34.273,-84.3863,1237.5,False,https://ambientweather.net/dashboard/90cdd0287a29387185cb2cf6052875f6,13057,Cherokee
+652c997384bc2c26889418f8,00:1D:0A:71:3D:CB,Goss Lane Ball Ground,34.329816,-84.361633,1176.0,False,https://ambientweather.net/dashboard/e8585108bd7a66cd5208c10b2f712886,13057,Cherokee
+5d78fcc0f7fb2750c8b5de44,B4:E6:2D:72:E9:0C,Mack’s Weather,34.2612622,-84.35011759999999,1111.0,False,https://ambientweather.net/dashboard/eedaaaaec30efebfe0bf8c74b660eeb2,13057,Cherokee
+644558c21ed5ff8cf4f2495e,30:83:98:A6:93:3A,House,34.2647208,-84.3462969,1148.5,False,https://ambientweather.net/dashboard/b218541926372480ef20db2ef3a76fe2,13057,Cherokee
+65c9df10ff09bfb1fb4ccd32,C8:C9:A3:1C:16:3A,Ecowitt,34.2647116,-84.3462852,1148.1,False,https://ambientweather.net/dashboard/121b0a6f365cd7e01b7555a2bb9ae26a,13057,Cherokee
+6738a7b2da80659253b73b86,4C:EB:D6:20:60:6E,Smopes,34.265,-84.3378,1126.1,False,https://ambientweather.net/dashboard/388e31e8bcfebe8c7b2af3f2bbee966e,13057,Cherokee
+69531372c4417881efa0ead2,F8:B3:B7:83:49:65,My Weather Station,34.3045,-84.3287,1107.4,False,https://ambientweather.net/dashboard/2e01afc18e9d5a13d9f593d85027cfbf,13057,Cherokee
+5ff64e749ec339000198aef9,D8:F1:5B:15:32:0D,"Colombo, rose garden",34.3607508,-84.3807557,1240.7,False,https://ambientweather.net/dashboard/9022df2aa00e53589a0463770f725e9d,13057,Cherokee
+5e03c0df34b9ba55616f87c9,BC:DD:C2:AF:89:F8,Egolf Home,34.079547,-84.182222,1103.6,False,https://ambientweather.net/dashboard/f67fb8f0dcb8c3bfdf109426d856784b,13117,Forsyth
+69b14f7b6854f066b38e2a57,F8:B3:B7:81:46:48,Franklin’s Weather Station,34.0948,-84.1403,1175.0,False,https://ambientweather.net/dashboard/2e5ad0b3eb2524370ecb41b146f836c4,13117,Forsyth
+5ef0dfa2362cb400010a46c4,FC:F5:C4:98:6F:D1,Old Atlanta Weather Station,34.0781371,-84.1280152,999.9,False,https://ambientweather.net/dashboard/9db7d40e84645d8a2d53bd81a6ad50eb,13117,Forsyth
+6990e8b020dbe279325719cb,F8:B3:B7:8E:24:78,Sully-2,34.0954,-84.1953,1141.2,False,https://ambientweather.net/dashboard/20734a4476c1b58f5eb63077fc5b1a21,13117,Forsyth
+67ddb9169027dc4ed1c60345,CC:8D:A2:73:C4:10,Home Weather Station,34.0883,-84.1882,1119.4,False,https://ambientweather.net/dashboard/263e03257e7540e3fbe3f0b7cfc68323,13117,Forsyth
+6368ed8ff3e99900010961ac,C4:5B:BE:5E:08:1E,Rico’s Weather Station ,34.0864654,-84.1158464,1016.0,False,https://ambientweather.net/dashboard/85026469553f49d92289a508011ebd06,13117,Forsyth
+67743b37ab2f01f490aab9c1,EC:64:C9:EF:74:2D,Old Union Preserve,34.139,-84.2168,1031.2,False,https://ambientweather.net/dashboard/51fe321d7c62adb42912dd86228854b9,13117,Forsyth
+5f3f1152f7e9270001479913,DC:4F:22:32:EE:54,Tim's Weather,34.1326509,-84.2230836,1101.6,False,https://ambientweather.net/dashboard/c223e60207a40127f6ec69ef07b3b321,13117,Forsyth
+61d09c402571c10001c3a56e,EB:DB:84:E7:26:E6,GAIA,34.1462906,-84.22248669999999,1084.4,False,https://ambientweather.net/dashboard/6d055bec9faacc0a35310dca6a86288a,13117,Forsyth
+60c2ce40bed083000145fcf1,D8:F1:5B:15:75:61,Polo Fields ,34.1779921,-84.21554929999999,1061.1,False,https://ambientweather.net/dashboard/6760d1b25a3e4dab3461cfaceb38e499,13117,Forsyth
+64f34c1815441c7aeb5c2bfe,34:94:54:8C:13:75,Agnew Home Weather Station,34.163061,-84.22726209999999,1069.6,False,https://ambientweather.net/dashboard/491a88055a0adebc2de23d4fadd503ba,13117,Forsyth
+60031b9c3543990001a4abe9,24:7D:4D:A9:1F:52,Bender Weather Station,34.1579254,-84.211784,1105.9,False,https://ambientweather.net/dashboard/98c4a27a06403acfdfe3408297c8aba3,13117,Forsyth
+5cff240559dc4740bb38fbcf,DC:4F:22:5A:CC:34,WiggWX,34.1679247,-84.231769,1079.0,False,https://ambientweather.net/dashboard/95cc6bdd3667edf1191205b3814d7777,13117,Forsyth
+630154fc8a59db0001db9b36,BC:FF:4D:0F:53:15,Brian’s PWS,34.1631,-84.2306,1098.4,False,https://ambientweather.net/dashboard/647c55817706de9c617b81857b66b47d,13117,Forsyth
+5f2c8c9cc937090001e2cbad,34:00:8A:E1:F4:C0,Sheffield Forsyth,34.17984,-84.251091,1097.7,False,https://ambientweather.net/dashboard/9b2dbab1f65fd346d5f9a98d5f9018ad,13117,Forsyth
+6268a6eb9e949100019eece6,7E:BB:91:D3:EF:F7,JMACC,34.179425204610055,-84.25620999278627,1108.4,False,https://ambientweather.net/dashboard/7105000e37c1c4d7f4aee9c7b2bbcf78,13117,Forsyth
+63c60955c2acea0001087c23,C4:5B:BE:FA:14:16,My Weather Station,34.118806,-84.24430230000002,1055.8,False,https://ambientweather.net/dashboard/057c8f0ee92fb1e3084edaaf1ffc1552,13117,Forsyth
+688ce2db93f683689a19c27c,48:E7:29:7C:38:F5,HC Weather Station Living Room,34.1192,-84.236,1128.3,False,https://ambientweather.net/dashboard/db6227684507aa53429c79f5a3119f4f,13117,Forsyth
+5d4219ab958d8a3fc4333aa6,DC:4F:22:59:74:BB,HC Weather Station Office,34.1191759,-84.23600920000001,1128.2,False,https://ambientweather.net/dashboard/256ebc0afd3d29c708e77777c3f24db5,13117,Forsyth
+694f2b65b7b4c8a6b8c29cf9,24:D7:EB:EB:A0:01,Joe P Weather Station,34.102,-84.185,,False,https://ambientweather.net/dashboard/3937de026fcb9024c8edf54eedee8a66,13117,Forsyth
+5f6e41c09946b2000199e030,80:7D:3A:7D:48:78,Seismic 310W,34.1627255,-84.1807776,1219.2,False,https://ambientweather.net/dashboard/7180632856edf618c15e186df9fe28e0,13117,Forsyth
+614e4af36cb24c0001059dbf,E8:DB:84:9B:0F:01,Crow’s Nest,34.16174950000001,-84.18001,1216.4,False,https://ambientweather.net/dashboard/c90d27b6e4b84cde9d6c39851da77fa6,13117,Forsyth
+641eda2763db1d00012fbb37,08:7D:3A:6F:2F:90,Margat3,34.1284008,-84.1539764,1096.5,False,https://ambientweather.net/dashboard/734c2834030c5813082c45ad26d984a8,13117,Forsyth
+674f72faf6653319e388ab66,48:E7:29:7C:32:C6,Northern Oaks,34.1233,-84.1517,1147.4,False,https://ambientweather.net/dashboard/dfe2d7b9807aa30cbd7473b99928cd41,13117,Forsyth
+5eb301c615c77a000cf1ddb7,24:7D:4D:A3:6C:5D,Mark's Weather Station,34.1199288,-84.167439,1168.3,False,https://ambientweather.net/dashboard/f9a104b5aa750320af4342ee9bb0fb21,13117,Forsyth
+63b9a263807d22000170539b,30:83:98:A7:3B:04,Marty Weather,34.1238059,-84.1844556,1172.2,False,https://ambientweather.net/dashboard/b15328c5e1a6eeb0fd552a6996290944,13117,Forsyth
+5fc5a92caa673000013cb9fc,F0:08:D1:07:02:5D,WR5D-2000,34.169471,-84.0973877,1135.0,False,https://ambientweather.net/dashboard/27d7696bc4e23e11d43e8f81e5937f92,13117,Forsyth
+5fb9a11633e0560001832409,34:14:B5:1E:E6:13,WR82,34.169471,-84.0973877,1135.0,False,https://ambientweather.net/dashboard/68b219c9de4123075dc7904c468a09c3,13117,Forsyth
+6500f56d9a8893ca150f848a,24:D7:EB:CF:28:E5,HQAtlanta Weather,34.161605,-84.083884,998.8,False,https://ambientweather.net/dashboard/6ea91057859246cedf921644afe9c649,13117,Forsyth
+697528db51ea0d2929cb1382,34:00:8A:E5:B3:02,WeatherDude,34.1598,-84.0873,1115.4,False,https://ambientweather.net/dashboard/e41f523514d3a805cdd180c21a7d0f89,13117,Forsyth
+60e488ed7293680001592dc5,E8:DB:84:9A:6F:59,My Weather Station,34.20584050000001,-84.25855539999999,1168.6,False,https://ambientweather.net/dashboard/4bb0079b68481246681e77d991a8d0d4,13117,Forsyth
+5c9f775c1031544d9b0b069e,80:7D:3A:7C:4A:5C,Clima de Palmer,34.20521383649973,-84.24564164292222,1107.5,False,https://ambientweather.net/dashboard/289a1279a3e9477c54e000013602cf35,13117,Forsyth
+63f5345a0e93950001981058,30:83:98:A7:08:A0,Ron Ivey Manor,34.1979518,-84.2404131,1105.8,False,https://ambientweather.net/dashboard/7bb2bf69702a0be33d19e2610e7ff82c,13117,Forsyth
+645af08d7efcc8f39caafe26,24:7D:4D:A9:3F:2D,Big Daddy's Weather Wood and Meat,34.208524,-84.2217654,1112.9,False,https://ambientweather.net/dashboard/39c9d6a5271f08c30659824cffe2c286,13117,Forsyth
+5f42c8b96c458e00014c1c6a,FC:F5:C4:98:6E:62,Arcanum,34.1941282,-84.2042254,1076.0,False,https://ambientweather.net/dashboard/8ec411671bc4cbde3dbc0104142aa55c,13117,Forsyth
+659ef4a38780e44132739c69,48:3F:DA:55:9E:79,dvws01,34.1907902,-84.2207159,1142.5,False,https://ambientweather.net/dashboard/28074929ff55bd45273307bb88777d97,13117,Forsyth
+61a3f714162dcb0001aa643a,C4:5B:BE:6E:51:E5,Wynfield,34.1810145,-84.2337865,1124.3,False,https://ambientweather.net/dashboard/34b0760e73ac802e83d5a11429e8db07,13117,Forsyth
+5fe660e61253a100011dfe57,40:F5:20:0A:E3:53,Sullivan,34.1918356,-84.2464934,1119.5,False,https://ambientweather.net/dashboard/97b2573deeebde3598cbd1423b98ca43,13117,Forsyth
+60bbed3dade4ac0001b3b75e,48:3F:DA:54:A5:BA,Sheffield WS-5000,34.18002205775913,-84.2512817159653,1111.6,False,https://ambientweather.net/dashboard/b5b0b295fcb64e03f76252e76c1f2e00,13117,Forsyth
+69c99cca2cc412ebf2708b2d,50:95:51:93:80:F1,Weather Station ,34.1939,-84.2579,1178.6,False,https://ambientweather.net/dashboard/eff428919ce13fe2e6c5c1a3f09b5d89,13117,Forsyth
+5f1345910e09f500017bdaf5,A4:CF:12:A0:32:5E,Barronton back yard,34.1981437,-84.1994437,1144.6,False,https://ambientweather.net/dashboard/7dc903ec0dadf6377fa9aabaee6b8c8b,13117,Forsyth
+696d46cccf39378a674072f5,F8:B3:B7:8E:23:D5,Asher's Station,34.2183,-84.1926,1102.2,False,https://ambientweather.net/dashboard/616db11e7c5bef532872d2b37e8c37cf,13117,Forsyth
+61b0d97a6526370001342258,E8:DB:84:E7:3B:3B,SawneeES,34.2401001,-84.1765595,1198.1,False,https://ambientweather.net/dashboard/5707cc984d39bdf94ba44fe41bb9186d,13117,Forsyth
+695c114361ebbee22ab3c8be,10:20:BA:C0:42:BC,DxdWeather,34.2385,-84.1827,1223.4,False,https://ambientweather.net/dashboard/58332c173d2dc19ae0fc37847f9c9d65,13117,Forsyth
+6161bf2fce40c700015a4507,FC:F5:C4:98:6E:F0,JJ’s Weather,34.2273308,-84.17683339999999,1189.3,False,https://ambientweather.net/dashboard/b6c778c924a71cdcba4aa7c286737bec,13117,Forsyth
+625c4969dac1c3000184336d,C4:5B:BE:5D:FE:A5,Rieger30040,34.2296,-84.1724,1211.8,False,https://ambientweather.net/dashboard/1bfcc4c037276fb4a99b889496d3faf9,13117,Forsyth
+699b7a3108a753bf39d2ff2a,24:62:AB:16:E8:08,Web Weather station ,34.2179,-84.1669,1212.3,False,https://ambientweather.net/dashboard/467fb380a38a9cb4de367238742e69f2,13117,Forsyth
+637ee5df02a78d00017ca4b9,C4:5B:BE:5F:00:62,My Weather Station,34.2190897,-84.1837547,1142.9,False,https://ambientweather.net/dashboard/d7b6342f73b07d7479a3348af3f2be99,13117,Forsyth
+653652406055d6cbfe74fe06,C4:58:BE:5F:00:62,My Weather Station,34.2190897,-84.1837547,1142.9,False,https://ambientweather.net/dashboard/92f8dec2f78c761f64fe9a48fe888399,13117,Forsyth
+69527882d5e0e95977bdd78e,E4:B0:63:C9:38:78,Ken’s Weather Station,34.219,-84.1816,1197.5,False,https://ambientweather.net/dashboard/473dc85006ff1ea6ab4bfefd3eea6977,13117,Forsyth
+65748239f01d6929664c2738,C8:C9:A3:10:34:42,Casa de Anderson,34.19536428691186,-84.17860413902785,1113.6,False,https://ambientweather.net/dashboard/ac3c5aafd1a19341419207ae3e5c879c,13117,Forsyth
+6717e6458681d3fd8d30a62a,34:00:8A:E5:0F:FD,Weather,34.2041,-84.1752,1100.9,False,https://ambientweather.net/dashboard/aaca09e3bbc438c90cef1920c3ad6958,13117,Forsyth
+61f761659d6dda0001c534f0,34:00:8A:E5:16:26,WX KD4HOU ,34.2257862,-84.1443587,1237.6,False,https://ambientweather.net/dashboard/fc8df55f7b41f01dffe8cf3d37ea0914,13117,Forsyth
+63b1e594397d3c0001fe75f5,30:83:98:A7:3D:BD,BackPorch,34.2073196,-84.14019259999999,1210.3,False,https://ambientweather.net/dashboard/2df2475f7d434722ecbb602076126a98,13117,Forsyth
+5e0a419f7408eb565910f6ae,2C:F4:32:7E:52:6E,Wolfpack,34.1842773,-84.1998718,1122.6,False,https://ambientweather.net/dashboard/782fc9f030e8524b19a263443a80bda0,13117,Forsyth
+6973c6474219e5f5e286477c,F8:B3:B7:8E:10:7B,Shady Grove Weather,34.2171,-84.0463,1163.3,False,https://ambientweather.net/dashboard/3f363cceda3677fbab21ce2a55fb0d1d,13117,Forsyth
+6011c75e58b048000106fb7d,40:F5:20:0A:E3:85,Young Deer,34.213883,-84.05160099999999,1144.5,False,https://ambientweather.net/dashboard/deb029da53ca0a59959143eac809a262,13117,Forsyth
+66903ae6cd4654923d1364a1,48:E7:29:5F:50:9C,King Fish Camp,34.2350388,-84.05276810000001,1133.6,False,https://ambientweather.net/dashboard/26c86e2ff4a2c9c9d685abad5690854e,13117,Forsyth
+63adf06819f341000148134e,30:83:98:A5:E5:C0,Weather Station,34.2520268,-84.081391,1186.1,False,https://ambientweather.net/dashboard/a9cec37c27c35af8135227f292bb6a7c,13117,Forsyth
+69bdd27b069a6eb1ff09aa5b,9C:13:9E:6C:37:F8,Rushman,34.2259,-84.074,1112.0,False,https://ambientweather.net/dashboard/7d04b62b995086e22b6620ded3fb445b,13117,Forsyth
+5a45342d73f21b000d1f2b19,C0:21:0D:1E:DE:F4,MAPP WEATHER STATION,34.209968,-84.07649300000003,1154.1,False,https://ambientweather.net/dashboard/11ef936c0e4828834a84b838a84333e5,13117,Forsyth
+63ab6739c97d3a0001c74005,30:83:98:A5:CC:92,My Weather Station,34.1982452230155,-84.0755029196077,1108.1,False,https://ambientweather.net/dashboard/2913d7c3a94b5cce96a76d4661ab93da,13117,Forsyth
+61dce1b88760c300012bab8e,98:CD:AC:23:00:A9,Lanier Bay Circle,34.1980898,-84.0762996,1113.3,False,https://ambientweather.net/dashboard/9f82bc2005da58638af4b7eb49ec8f3b,13117,Forsyth
+592ce98ee6d69600b4d2db7d,00:0E:C6:10:01:29,Kemp Dr,34.18538340000001,-84.100605,1102.4,False,https://ambientweather.net/dashboard/eb26bd4b91e16dc8a72f1b3d2b99a86b,13117,Forsyth
+5f493514fc860100017ac98b,48:3F:DA:56:6B:D5,Donks Spot,34.1804145,-84.08096599999999,1170.4,False,https://ambientweather.net/dashboard/9b6f76700214053178e9d60819f9b7bb,13117,Forsyth
+5e41ea91068ba967976f8a51,08:D8:33:AA:E2:3F,My Weather Station,34.232883,-84.00985399999999,1115.9,False,https://ambientweather.net/dashboard/91aa7b2d5f557376ccd75830913f12db,13117,Forsyth
+611d6b4b03198300014975c9,48:3F:DA:89:BA:EC,AMERICAN PRACTICAL NAVIGATOR,34.2451839,-84.00482319999999,1152.1,False,https://ambientweather.net/dashboard/a7fb6ad88ee8efdb0aa9134445f259aa,13117,Forsyth
+662d5daef47112091cdfaa3c,C8:C9:A3:14:D7:6A,Lakehouse Weather Station,34.2372029,-83.9774438,1128.5,False,https://ambientweather.net/dashboard/8134430eee3145a51cfb7073a6a7f59e,13117,Forsyth
+62b3246aad57bc0001025c25,48:3F:DA:55:11:83,LLSC Weather,34.2218685,-83.96913459999999,1070.5,False,https://ambientweather.net/dashboard/b3c521b887b5527e6687a618ad021f52,13117,Forsyth
+61ba1c12266d2e00018b3034,C4:5B:BE:5C:8D:D5,Chillin’ the Most ,34.2242799,-84.0117643,1101.9,False,https://ambientweather.net/dashboard/f3a24e0a8a71705dbe7f7aa0857fec05,13117,Forsyth
+677b3900d8b0037deeb4d536,CC:8D:A2:75:4B:90,Rob’s Weather Station ,34.2543,-84.0211,1197.4,False,https://ambientweather.net/dashboard/5a83ef17a30547806d4106418a6709df,13117,Forsyth
+63b064faf911e50001d9072d,C4:5B:BE:FA:33:BE,SlimG,34.251786,-84.038674,1126.8,False,https://ambientweather.net/dashboard/690fa43d9039d0448069555ee540076a,13117,Forsyth
+63c58b7bc290fb0001d84668,C4:5B:BE:F9:DE:8C,Paradise City ,34.2856837,-84.2136759,1100.6,False,https://ambientweather.net/dashboard/fd306d8366fcb4427d272545d9845f54,13117,Forsyth
+602077fb959746000160dad9,E0:98:06:A3:33:5A,River Hill,34.30464979999999,-84.21218400000001,1007.8,False,https://ambientweather.net/dashboard/d849d8a7810728e8ea1fa01e18a6292e,13117,Forsyth
+66f6015af2ecd3d6bd72af22,C4:5B:BE:F9:DF:BB,My Weather Station,34.265898828799735,-84.20694038883519,1124.9,False,https://ambientweather.net/dashboard/2ef199d6d34ecb89798d17478a419076,13117,Forsyth
+6042c6000596410001f2f02e,24:7D:4D:A9:32:82,RV Weather Station,34.2706059,-84.2084704,1130.4,False,https://ambientweather.net/dashboard/b7829c0eb444bdc01a975807c7083d8a,13117,Forsyth
+694b5783a61d46df818875e9,8C:4F:00:4F:51:7E,My Weather Station,34.2652,-84.2004,1172.0,False,https://ambientweather.net/dashboard/f9d86073fe975801e6d0453a7d8bd0c2,13117,Forsyth
+6589bb0f27ff48eb92b9775d,C8:C9:A3:10:3B:04,jb WeatherStation,34.2717271,-84.2000212,1182.4,False,https://ambientweather.net/dashboard/245805e929689410e8b86d49dd50da62,13117,Forsyth
+61cb44b16de9e00001f240e2,E8:D8:84:E4:9D:34,Kelley’s Coop,34.28151399831686,-84.18231848635169,1135.3,False,https://ambientweather.net/dashboard/adf49eed0fe73c374f3f2991052a894c,13117,Forsyth
+674b3411567c4bf8694368e6,EC:64:C9:EF:ED:72,Windy,34.2741,-84.1651,1171.0,False,https://ambientweather.net/dashboard/9d5a281c724e54d50c61294a39ef67c2,13117,Forsyth
+684725962492a448ccbe2f3c,2C:F4:32:24:AD:28,Pearson Weather 30040,34.2723,-84.1375,1176.0,False,https://ambientweather.net/dashboard/09bd89876580ae589487e3081f341f69,13117,Forsyth
+659b2b457055ab578820ad7f,C8:C9:A3:16:A2:14,Water Mark Weather,34.2708956,-84.14130809999999,1165.6,False,https://ambientweather.net/dashboard/03010f33ceee7c3ed375f2a340a931c9,13117,Forsyth
+5b5c6316fe40160004d6c2b9,00:0E:C6:00:2C:E3,Cool Springs,34.27727499999999,-84.139224,1233.4,False,https://ambientweather.net/dashboard/bc4a85c15f6dbaa12a59473e015165f7,13117,Forsyth
+648dcb267d2791da9d0d950f,C8:C9:A3:55:85:28,bob_ffc904@yahoo.com,34.31786719999999,-84.1315783,1176.3,False,https://ambientweather.net/dashboard/0b991b94349fb03d8a1daf395e3a1fab,13117,Forsyth
+61a3800078feeb00015f4e9a,C4:5B:BE:6D:D9:2F,Forest of Endor,34.2902263,-84.1539628,1211.9,False,https://ambientweather.net/dashboard/432fb10ac7af01a8588b72b9a5c9cae8,13117,Forsyth
+68710c4c1909187821cc042c,E8:DB:84:E4:5D:40,ZeeNetGA,34.3194,-84.1704,1153.1,False,https://ambientweather.net/dashboard/b6154307325e7b1b2e9b4c858ae9daed,13117,Forsyth
+60bb597de14bc70001003607,E0:98:06:A3:35:A5,Goat’s Station,34.3075004,-84.15825679999999,1172.8,False,https://ambientweather.net/dashboard/5e53778abddd98ed71104099fe27494a,13117,Forsyth
+5f8cc4ebcd5baf000126f4fa,48:3F:DA:54:D4:DF,Haddon Hall 2,34.2813293,-84.11982619999999,1241.7,False,https://ambientweather.net/dashboard/9dabb371d46f95373a0552729e0baba3,13117,Forsyth
+67f15358ad25e23fdd227972,24:4C:AB:4D:52:B3,Worthy Weather,34.2833,-84.1194,1217.8,False,https://ambientweather.net/dashboard/7f09ecd6f83a36abb2d08a1578b9e620,13117,Forsyth
+62cb6b8b07bde600017a8e7b,E0:98:06:A3:59:7B,Shenanigans,34.2969757,-84.1196612,1212.7,False,https://ambientweather.net/dashboard/2f3159ed9eaa3235e206ff2cbaac3f68,13117,Forsyth
+5e0a40e09d5b79569b6157ec,2C:F4:32:24:AD:82,Whisper Point,34.3002,-84.1022,1187.4,False,,13117,Forsyth
+698e01b6600dd56c807571cf,34:B4:72:EF:D3:28,Ispring,34.2892,-84.0624,1306.0,False,https://ambientweather.net/dashboard/1af0ad480947e6258fe25f4422f1ecfc,13117,Forsyth
+676c79db115c144fcf37c240,CC:8D:A2:73:7B:90,Weather,34.2961,-84.0632,1244.4,False,https://ambientweather.net/dashboard/86408c3c79d71e95ebd919c1e7025880,13117,Forsyth
+670f49459f04c924c4be9f31,C4:5B:BE:6D:62:DA,James AMBW,34.3268,-84.0558,1336.6,False,https://ambientweather.net/dashboard/9063eb7cdad8368af07bf6bc0bd58ec0,13117,Forsyth
+637f0d344e8fb20001c60e06,30:83:98:A7:53:B6,,34.26285394329256,-84.05228346485227,1230.3,False,https://ambientweather.net/dashboard/016cf3eca40777d8ebd17dae3e1a08ee,13117,Forsyth
+5e076f45a5c9cb56b74eac77,A4:CF:12:A0:22:AD,My Weather Station,34.2627215,-84.05229859999997,1228.3,False,https://ambientweather.net/dashboard/c90bf0d90d1c82ecd49372b912f6b972,13117,Forsyth
+63c23f21420da2000137f6ac,30:83:98:A6:90:4A,Zed,34.2627214,-84.0523204,1227.6,False,https://ambientweather.net/dashboard/6d6240e487b58e795a406a7b8163b7ff,13117,Forsyth
+5e340a31bef04e6453833aeb,2C:3A:E8:26:14:1B,Mike's Weather Station,34.274832,-84.087463,1223.2,False,https://ambientweather.net/dashboard/713a923c81a27cc516f3a0f2687156f9,13117,Forsyth
+61e2f8af582c1900012d4f0c,C4:5B:BE:5C:94:22,KPA Weather Station ,34.277116053645145,-84.02339736475659,1227.3,False,https://ambientweather.net/dashboard/ce3245e244d87f66915851429eb984a5,13117,Forsyth
+6681c0ed86303237e62fec6e,48:E7:29:5E:DD:FA,Hendry Farmhouse,34.30117522883895,-84.02883019998484,1357.0,False,https://ambientweather.net/dashboard/d301846da5c7a0576fa81bc5a512dc9c,13117,Forsyth
+66f483ed3abdd11def50dae0,48:E7:29:7C:9E:AE,trey weather station,34.318972,-83.97047300000001,1217.5,False,https://ambientweather.net/dashboard/ac6b17c31347428fb5e6274b72a347e3,13117,Forsyth
+66bba55dd9015e750ead76bf,18:D6:C7:A3:54:3E,Sagewood ,34.2830874,-83.9935296,1200.3,False,https://ambientweather.net/dashboard/48d9b4cb701284839a2a34960a97996d,13117,Forsyth
+5d2a52188b608a40df45ec69,CC:50:E3:59:6B:EB,Dude’s Weather Station,34.29963223203006,-83.97575962698365,1188.6,False,https://ambientweather.net/dashboard/b39e6df2083044afb2e2e4735802aad3,13117,Forsyth
+6771b9fc08fc2a217e961587,CC:8D:A2:75:30:28,Richie Rosebush Weather,34.2819,-83.9977,1225.6,False,https://ambientweather.net/dashboard/4ce7a6ff322633da56c0c77a8a6942c7,13117,Forsyth
+69ac84119ceaaacdbb344517,F8:B3:B7:83:27:1E,SkyNet Weather,34.2792,-84.0082,1205.0,False,https://ambientweather.net/dashboard/c4cd6aa9fa04447b1c17a67dd6e4ebf6,13117,Forsyth
+5fe74a372533d60001d38fba,F0:08:D1:07:00:04,Loper Weather Station ,34.283711,-84.009929,1225.5,False,https://ambientweather.net/dashboard/68b4301e168b1b86e01d45e480ed58d6,13117,Forsyth
+65ad5e4ef504cdf02b002637,C4:5B:BF:5F:FA:73,My Weather Station,34.26065553798453,-84.02226587956947,1169.4,False,https://ambientweather.net/dashboard/08a00175d711885659e06a70c70a5099,13117,Forsyth
+62e6bd2f97033c0001984d21,F0:08:D1:07:12:12,Coopers Ridge,34.26191825900084,-84.01811377301634,1160.3,False,https://ambientweather.net/dashboard/49dff93093848d470e084dc8397fa250,13117,Forsyth
+69fe352ac95f3c2cb71576be,34:00:8A:E5:B4:A8,Chestatee Landing on Lanier,34.3166,-83.9596,1236.0,False,https://ambientweather.net/dashboard/069f545e4e645e902d7d8a7fad2e466d,13117,Forsyth
