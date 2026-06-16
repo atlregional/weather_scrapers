@@ -1,6 +1,6 @@
 # Metro Atlanta Weather Data Pipeline
 
-A four-scraper system that continuously collects historical and real-time weather observations from ~2,600+ stations across the 11-county Metro Atlanta region and publishes daily diagnostics to GitHub.
+A four-scraper system that continuously collects historical and real-time weather observations from ~2,600+ stations across the 11-county Metro Atlanta region and publishes daily diagnostics to a separate GitHub account.
 
 ---
 
@@ -24,9 +24,10 @@ A four-scraper system that continuously collects historical and real-time weathe
 
 ## Overview
 
-This pipeline scrapes weather data from four independent sources and stores it in a unified per-station CSV format on an external hard drive. The historical scrapers (WU and AWN) operate in a nightly catch-up loop, while the real-time scrapers (GDOT and UGA) fire on regular sub-hourly intervals. A daily diagnostic push regenerates a progress map and stats report and commits them to a separate GitHub repository.
+This pipeline scrapes weather data from four independent sources and stores it in a unified per-station CSV format on an external hard drive. The historical scrapers (WU and AWN) operate in a nightly catch-up loop, while the real-time scrapers (GDOT and UGA) fire on regular sub-hourly intervals. A daily diagnostic push regenerates a progress map and stats report and commits them to a separate GitHub repository ([`atlregional/weather_metadata`](https://github.com/atlregional/weather_metadata)).
 
 **Scale (as of mid-2026):**
+
 - ~1,438 Weather Underground stations
 - ~1,176 Ambient Weather Network stations
 - 16 GDOT road-weather stations
@@ -107,16 +108,16 @@ Weather Sources → Scrapers → Per-station CSVs on external drive
 
 ### Weather Underground (`scraper_wu.py`)
 
-| Property | Value |
-|---|---|
-| Source | `wunderground.com` dashboard HTML |
-| Method | HTTP GET → BeautifulSoup HTML parse |
-| Station count | ~1,438 stations |
-| Scrape type | Historical catch-up (nightly loop) |
-| Loop fires | Daily at **00:00** |
-| Rate limit | 1.0–1.2 s between requests (randomized) |
-| Output dir | `station-data/WU/` |
-| Metadata file | `metadata/station_metadata_wu.csv` |
+| Property      | Value                                   |
+| ------------- | --------------------------------------- |
+| Source        | `wunderground.com` dashboard HTML       |
+| Method        | HTTP GET → BeautifulSoup HTML parse     |
+| Station count | ~1,438 stations                         |
+| Scrape type   | Historical catch-up (nightly loop)      |
+| Loop fires    | Daily at **00:00**                      |
+| Rate limit    | 1.0–1.2 s between requests (randomized) |
+| Output dir    | `station-data/WU/`                      |
+| Metadata file | `metadata/station_metadata_wu.csv`      |
 
 **Loop behavior:** On each nightly run the scraper reads all active (non-extinct) WU stations from the metadata file, sorts them by `latest_date` ascending (most-behind first), and forward-scrapes every missing date from `latest_date + 1` through yesterday. Once all stations are current the nightly cycle completes in minutes.
 
@@ -128,16 +129,16 @@ Weather Sources → Scrapers → Per-station CSVs on external drive
 
 ### Ambient Weather Network (`scraper_awn.py`)
 
-| Property | Value |
-|---|---|
-| Source | `lightning.ambientweather.net` JSON API |
-| Method | HTTP GET with MAC address + date range params |
-| Station count | ~1,176 stations |
-| Scrape type | Historical catch-up (nightly loop) |
-| Loop fires | Daily at **00:00** |
-| Rate limit | 1.2 s between requests |
-| Output dir | `station-data/AWN/` |
-| Metadata file | `metadata/station_metadata_awn.csv` |
+| Property      | Value                                         |
+| ------------- | --------------------------------------------- |
+| Source        | `lightning.ambientweather.net` JSON API       |
+| Method        | HTTP GET with MAC address + date range params |
+| Station count | ~1,176 stations                               |
+| Scrape type   | Historical catch-up (nightly loop)            |
+| Loop fires    | Daily at **00:00**                            |
+| Rate limit    | 1.2 s between requests                        |
+| Output dir    | `station-data/AWN/`                           |
+| Metadata file | `metadata/station_metadata_awn.csv`           |
 
 **Key difference from WU:** AWN stations are identified by a **MAC address** (hardware ID) in addition to a station ID. The MAC address is stored in the `mac_address` column of `station_metadata_awn.csv` and is required for every API call.
 
@@ -147,15 +148,15 @@ Weather Sources → Scrapers → Per-station CSVs on external drive
 
 ### GDOT Road Weather (`scraper_gdot.py`)
 
-| Property | Value |
-|---|---|
-| Source | ArcGIS FeatureServer (GDOT Road Weather Stations) |
-| Method | Single HTTP GET returns all 57 GDOT stations |
-| Station count | 16 (metro Atlanta subset of 57 statewide) |
-| Scrape type | Real-time (continuous loop) |
-| Loop fires | At **:15** and **:45** past each hour |
-| Output dir | `station-data/GDOT/` |
-| Metadata file | `metadata/station_metadata_gdot.csv` |
+| Property      | Value                                             |
+| ------------- | ------------------------------------------------- |
+| Source        | ArcGIS FeatureServer (GDOT Road Weather Stations) |
+| Method        | Single HTTP GET returns all 57 GDOT stations      |
+| Station count | 16 (metro Atlanta subset of 57 statewide)         |
+| Scrape type   | Real-time (continuous loop)                       |
+| Loop fires    | At **:15** and **:45** past each hour             |
+| Output dir    | `station-data/GDOT/`                              |
+| Metadata file | `metadata/station_metadata_gdot.csv`              |
 
 **Metro Atlanta filter:** The `KEEP_IDS` set in the script filters the 57 statewide stations down to 16 within the 11-county metro. Station IDs are ArcGIS integer IDs (e.g., `10878` for GA400_PittsRoad).
 
@@ -167,15 +168,15 @@ Weather Sources → Scrapers → Per-station CSVs on external drive
 
 ### UGA Georgia Weather Network (`scraper_uga.py`)
 
-| Property | Value |
-|---|---|
-| Source | `georgiaweather.net` HTML (current-conditions page) |
-| Method | HTTP GET → BeautifulSoup HTML parse |
+| Property      | Value                                                     |
+| ------------- | --------------------------------------------------------- |
+| Source        | `georgiaweather.net` HTML (current-conditions page)       |
+| Method        | HTTP GET → BeautifulSoup HTML parse                       |
 | Station count | 6 (ALPHARET, BALLGND, DULUTH, DUNWOODY, JONESB, KENNESAW) |
-| Scrape type | Real-time (continuous loop) |
-| Loop fires | At **:03 / :18 / :33 / :48** past each hour |
-| Output dir | `station-data/UGA/` |
-| Metadata file | `metadata/station_metadata_uga.csv` |
+| Scrape type   | Real-time (continuous loop)                               |
+| Loop fires    | At **:03 / :18 / :33 / :48** past each hour               |
+| Output dir    | `station-data/UGA/`                                       |
+| Metadata file | `metadata/station_metadata_uga.csv`                       |
 
 **Precipitation handling:** The site reports "Cumulative Rain Since 12:00 AM," which resets at midnight. `Precip. Rate (in/hr)` is estimated as the change in daily cumulative rain between consecutive 15-minute scrapes × 4. The rate is `NaN` on the first scrape of each day or when the previous row is more than 20 minutes old.
 
@@ -187,16 +188,16 @@ Weather Sources → Scrapers → Per-station CSVs on external drive
 
 Every station file from all four sources shares the same eight columns:
 
-| Column | Type | Notes |
-|---|---|---|
-| `station_id` | string | Source-specific ID (e.g., `KGAATLAN4`, MAC-based ID, `10878`, `375`) |
-| `timestamp` | datetime | `YYYY-MM-DD HH:MM:SS`, Eastern time (naive) |
-| `Temperature (F)` | float | Dry-bulb temperature in °F |
-| `Humidity (%)` | float | Relative humidity 0–100 |
-| `Pressure (in)` | float | Station pressure in inches of mercury; blank for GDOT |
-| `Precip. Rate (in/hr)` | float | Precipitation rate; blank for GDOT |
-| `Precip. Accum (in)` | float | Precipitation accumulation; blank for GDOT |
-| `Wet Bulb (F)` | float | Wet-bulb temperature in °F |
+| Column                 | Type     | Notes                                                                |
+| ---------------------- | -------- | -------------------------------------------------------------------- |
+| `station_id`           | string   | Source-specific ID (e.g., `KGAATLAN4`, MAC-based ID, `10878`, `375`) |
+| `timestamp`            | datetime | `YYYY-MM-DD HH:MM:SS`, Eastern time (naive)                          |
+| `Temperature (F)`      | float    | Dry-bulb temperature in °F                                           |
+| `Humidity (%)`         | float    | Relative humidity 0–100                                              |
+| `Pressure (in)`        | float    | Station pressure in inches of mercury; blank for GDOT                |
+| `Precip. Rate (in/hr)` | float    | Precipitation rate; blank for GDOT                                   |
+| `Precip. Accum (in)`   | float    | Precipitation accumulation; blank for GDOT                           |
+| `Wet Bulb (F)`         | float    | Wet-bulb temperature in °F                                           |
 
 ---
 
@@ -204,21 +205,21 @@ Every station file from all four sources shares the same eight columns:
 
 Each scraper maintains its own metadata CSV. All four share the same column schema:
 
-| Column | Description |
-|---|---|
-| `source` | `WU`, `AWN`, `GDOT`, or `UGA` |
-| `station_id` | Unique station identifier |
-| `name` | Human-readable station name |
-| `mac_address` | AWN only — hardware MAC address required for API calls |
-| `earliest_date` | Earliest date with scraped data |
-| `latest_date` | Most recent date with scraped data |
-| `last_scraped_date` | Date metadata was last updated |
-| `total_days` | Number of distinct calendar days with data |
-| `total_observations` | Total row count across all dates |
-| `latitude` | Station latitude (WGS84) |
-| `longitude` | Station longitude (WGS84) |
-| `elevation_ft` | Elevation in feet (WU and AWN) |
-| `extinct` | `True` if station has had no data for 30+ consecutive days |
+| Column               | Description                                                |
+| -------------------- | ---------------------------------------------------------- |
+| `source`             | `WU`, `AWN`, `GDOT`, or `UGA`                              |
+| `station_id`         | Unique station identifier                                  |
+| `name`               | Human-readable station name                                |
+| `mac_address`        | AWN only — hardware MAC address required for API calls     |
+| `earliest_date`      | Earliest date with scraped data                            |
+| `latest_date`        | Most recent date with scraped data                         |
+| `last_scraped_date`  | Date metadata was last updated                             |
+| `total_days`         | Number of distinct calendar days with data                 |
+| `total_observations` | Total row count across all dates                           |
+| `latitude`           | Station latitude (WGS84)                                   |
+| `longitude`          | Station longitude (WGS84)                                  |
+| `elevation_ft`       | Elevation in feet (WU and AWN)                             |
+| `extinct`            | `True` if station has had no data for 30+ consecutive days |
 
 **`total_observations = 0`** means the station has been registered but not yet scraped (it's in the queue).
 
@@ -244,6 +245,7 @@ playwright install chromium   # needed only for station discovery scripts
 You need Git installed and push credentials configured before cloning this repo or the diagnostic repo. Without credentials, `git push` will fail interactively and `github_update.py` will be unable to push non-interactively.
 
 **Recommended: SSH key**
+
 1. Generate a key if you don't have one: `ssh-keygen -t ed25519 -C "your@email.com"`
 2. Add `~/.ssh/id_ed25519.pub` to your GitHub account under **Settings → SSH and GPG keys**.
 3. Test: `ssh -T git@github.com` — should greet you by username.
@@ -252,6 +254,7 @@ You need Git installed and push credentials configured before cloning this repo 
 Run `gh auth login` (GitHub CLI) or use Git Credential Manager, which caches credentials so `git push` works without prompting.
 
 **Git user identity (required to commit):**
+
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
@@ -279,6 +282,7 @@ EXTERNAL_DRIVE = "D:\\Weather\\"  # Windows
 ```
 
 Update this in:
+
 - `weather_collector/scraper_wu.py`
 - `weather_collector/scraper_awn.py`
 - `weather_collector/scraper_gdot.py`
@@ -328,6 +332,7 @@ conda run -n <env-name> python weather_collector/github_update.py --loop   # fir
 ```
 
 Single-run mode (no `--loop`) fires once and exits:
+
 ```bash
 python weather_collector/scraper_gdot.py    # one scrape cycle
 python weather_collector/generate_update.py # one chart generation
@@ -362,7 +367,7 @@ Edit the constant at the top of `scraper_wu.py`, `scraper_awn.py`, `scraper_gdot
 
 ### Step 3 — Populate station data from the previous operator
 
-The metadata CSVs tell the scrapers the `latest_date` scraped for each station. Without the actual station data CSVs from the previous operator's hard drive, the historical scrapers will treat every station as starting from scratch (they will forward-scrape from whatever `latest_date` is in the metadata, but cannot verify what's in the target CSV). 
+The metadata CSVs tell the scrapers the `latest_date` scraped for each station. Without the actual station data CSVs from the previous operator's hard drive, the historical scrapers will treat every station as starting from scratch (they will forward-scrape from whatever `latest_date` is in the metadata, but cannot verify what's in the target CSV).
 
 **Ideal handoff:** Copy the entire `station-data/` directory from the previous machine's external drive to your external drive. The historical scrapers will then pick up from the correct `latest_date` for each station with no duplicate work.
 
@@ -383,7 +388,7 @@ The historical scrapers (WU, AWN) fire immediately on launch and begin their cat
 
 ## GitHub Diagnostic Push
 
-`github_update.py` runs daily at **07:00** and pushes two files to a separate GitHub repository:
+`github_update.py` runs daily at **07:00** and pushes two files to [`atlregional/weather_metadata`](https://github.com/atlregional/weather_metadata):
 
 1. **`scraper-update.png`** — a diagnostic map showing all station locations, color-coded active (cyan) vs. extinct (red), with a KPI header (total stations, observations, avg years/station, total GB).
 2. **`pipeline_stats.txt`** — a plain-text report with per-source extinct counts, day-over-day deltas, and average years of data per station.
@@ -395,10 +400,11 @@ The push target is a separate git repository cloned into `metadata/diagnostic_re
 
 ```bash
 cd metadata/
-git clone <your-diagnostic-repo-url> diagnostic_repo
+git clone git@github.com:atlregional/weather_metadata.git diagnostic_repo
 ```
 
 The repo must have **push credentials configured** (SSH key or credential helper) so that `git push` works non-interactively. Test with:
+
 ```bash
 cd metadata/diagnostic_repo
 git push
@@ -413,6 +419,7 @@ python weather_collector/github_update.py --loop
 ```
 
 On each fire it:
+
 1. Calls `generate_update.py` as a subprocess to regenerate `scraper-update.png` from current metadata.
 2. Copies the PNG from `metadata/` into `metadata/diagnostic_repo/`.
 3. Builds `stations.geojson` from all four metadata CSVs.
