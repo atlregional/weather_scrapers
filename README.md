@@ -228,23 +228,42 @@ Each scraper maintains its own metadata CSV. All four share the same column sche
 
 ### Conda Environment
 
-The production environment is the `scraper` conda environment on Windows. The development/macOS environment is `research`. Both need the same packages:
+Create a conda environment with any name you prefer (e.g. `weather`, `scraper`, `pipeline`). The package list is the same on Windows and Mac:
 
 ```bash
-conda create -n scraper python=3.11
-conda activate scraper
+conda create -n <your-env-name> python=3.11
+conda activate <your-env-name>
 pip install requests beautifulsoup4 lxml pandas psychrolib pytz geopandas contextily shapely Pillow pyproj matplotlib playwright
 playwright install chromium   # needed only for station discovery scripts
 ```
 
-Additional packages for `generate_update.py`:
+`geopandas` and `contextily` are included above and are required by `generate_update.py`.
+
+### Git & GitHub Credentials
+
+You need Git installed and push credentials configured before cloning this repo or the diagnostic repo. Without credentials, `git push` will fail interactively and `github_update.py` will be unable to push non-interactively.
+
+**Recommended: SSH key**
+1. Generate a key if you don't have one: `ssh-keygen -t ed25519 -C "your@email.com"`
+2. Add `~/.ssh/id_ed25519.pub` to your GitHub account under **Settings → SSH and GPG keys**.
+3. Test: `ssh -T git@github.com` — should greet you by username.
+
+**Alternative: HTTPS with credential manager**
+Run `gh auth login` (GitHub CLI) or use Git Credential Manager, which caches credentials so `git push` works without prompting.
+
+**Git user identity (required to commit):**
 ```bash
-pip install geopandas contextily
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
 ```
+
+This applies to both this repo (`repo-materials`) and the diagnostic repo cloned into `metadata/diagnostic_repo/`.
+
+---
 
 ### External Hard Drive
 
-All scrapers write data to an external hard drive. The four historical scrapers (`scraper_wu.py`, `scraper_awn.py`) and two utility scripts (`generate_update.py` path is auto-derived) require the `EXTERNAL_DRIVE` constant at the top of each file to match your drive letter. See [Path Configuration](#path-configuration) below.
+All scrapers write data to an external hard drive. The four historical scrapers (`scraper_wu.py`, `scraper_awn.py`) and two utility scripts (`generate_update.py` path is auto-derived) require the `EXTERNAL_DRIVE` constant at the top of each file to match your drive path. See [Path Configuration](#path-configuration) below.
 
 ---
 
@@ -290,20 +309,22 @@ Update this in:
 
 All four scrapers support a `--loop` flag that puts them into continuous operation. In production all four run simultaneously in separate terminal sessions (or background processes).
 
+> **Note:** Replace `<env-name>` in the commands below with whatever you named your conda environment.
+
 ```bash
 # Historical catch-up scrapers (fire nightly at 00:00, run immediately on launch)
-conda run -n scraper python weather_collector/scraper_wu.py --loop
-conda run -n scraper python weather_collector/scraper_awn.py --loop
+conda run -n <env-name> python weather_collector/scraper_wu.py --loop
+conda run -n <env-name> python weather_collector/scraper_awn.py --loop
 
 # Real-time scrapers
-conda run -n scraper python weather_collector/scraper_gdot.py --loop   # :15 and :45 past each hour
-conda run -n scraper python weather_collector/scraper_uga.py --loop    # :03/:18/:33/:48 past each hour
+conda run -n <env-name> python weather_collector/scraper_gdot.py --loop   # :15 and :45 past each hour
+conda run -n <env-name> python weather_collector/scraper_uga.py --loop    # :03/:18/:33/:48 past each hour
 
 # Progress chart (optional; also called internally by github_update.py)
-conda run -n scraper python weather_collector/generate_update.py --loop  # fires daily at 18:00
+conda run -n <env-name> python weather_collector/generate_update.py --loop  # fires daily at 18:00
 
 # Daily GitHub diagnostic push
-conda run -n scraper python weather_collector/github_update.py --loop   # fires daily at 07:00
+conda run -n <env-name> python weather_collector/github_update.py --loop   # fires daily at 07:00
 ```
 
 Single-run mode (no `--loop`) fires once and exits:
@@ -322,17 +343,17 @@ The metadata CSVs included in this repo (`metadata/station_metadata_*.csv`) repr
 
 ### Step 1 — Set up the directory structure
 
-Create the expected directory layout on your external drive and place these repo contents inside it:
+Create the expected directory layout on your external drive and place these repo contents inside it. Use the path style for your OS:
 
 ```
-D:\Weather\          (or your drive letter)
-├── weather_collector\    ← copy from weather_collector/
-├── metadata\             ← copy from metadata/
-└── station-data\
-    ├── WU\
-    ├── AWN\
-    ├── GDOT\
-    └── UGA\
+<EXTERNAL_DRIVE>/          (e.g. D:\Weather\ on Windows, /Volumes/MyDrive/Weather/ on Mac)
+├── weather_collector/     ← copy from weather_collector/
+├── metadata/              ← copy from metadata/
+└── station-data/
+    ├── WU/
+    ├── AWN/
+    ├── GDOT/
+    └── UGA/
 ```
 
 ### Step 2 — Update `EXTERNAL_DRIVE` in all 4 scrapers
@@ -491,7 +512,9 @@ Once it finishes, `scraper_wu.py --loop` automatically includes any newly popula
 
 ## Quick-Start Checklist
 
-- [ ] Install conda environment (`scraper` or `research`) with all dependencies
+- [ ] Install Git and configure user identity (`git config --global user.name / user.email`)
+- [ ] Add an SSH key to your GitHub account (or configure a credential helper) so `git push` works without prompting
+- [ ] Create a conda environment (any name) with all dependencies
 - [ ] Place scripts in `<drive>/weather_collector/`
 - [ ] Place metadata files in `<drive>/metadata/`
 - [ ] Update `EXTERNAL_DRIVE` in the 4 scraper files
